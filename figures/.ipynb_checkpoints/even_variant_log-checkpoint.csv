@@ -1,0 +1,3778 @@
+case,activity,timestamp
+1,Coarse Screens,2024-01-01 08:00:00
+1,Fine Screens,2024-01-01 09:00:00
+1,Primary Clarifiers,2024-01-01 10:00:00
+1,Bio-reactor Tanks,2024-01-01 11:00:00
+1,Gravity Thickening,2024-01-01 12:00:00
+1,Blend Tank,2024-01-01 13:00:00
+1,Anaerobic Digester,2024-01-01 14:00:00
+2,Coarse Screens,2024-01-01 08:00:00
+2,Fine Screens,2024-01-01 09:00:00
+2,Primary Clarifiers,2024-01-01 10:00:00
+2,Bio-reactor Tanks,2024-01-01 11:00:00
+2,Gravity Thickening,2024-01-01 12:00:00
+2,Blend Tank,2024-01-01 13:00:00
+2,Anaerobic Digester,2024-01-01 14:00:00
+3,Coarse Screens,2024-01-01 08:00:00
+3,Fine Screens,2024-01-01 09:00:00
+3,Primary Clarifiers,2024-01-01 10:00:00
+3,Bio-reactor Tanks,2024-01-01 11:00:00
+3,Gravity Thickening,2024-01-01 12:00:00
+3,Blend Tank,2024-01-01 13:00:00
+3,Anaerobic Digester,2024-01-01 14:00:00
+4,Coarse Screens,2024-01-01 08:00:00
+4,Fine Screens,2024-01-01 09:00:00
+4,Primary Clarifiers,2024-01-01 10:00:00
+4,Bio-reactor Tanks,2024-01-01 11:00:00
+4,Gravity Thickening,2024-01-01 12:00:00
+4,Blend Tank,2024-01-01 13:00:00
+4,Anaerobic Digester,2024-01-01 14:00:00
+5,Coarse Screens,2024-01-01 08:00:00
+5,Fine Screens,2024-01-01 09:00:00
+5,Primary Clarifiers,2024-01-01 10:00:00
+5,Bio-reactor Tanks,2024-01-01 11:00:00
+5,Gravity Thickening,2024-01-01 12:00:00
+5,Blend Tank,2024-01-01 13:00:00
+5,Anaerobic Digester,2024-01-01 14:00:00
+6,Coarse Screens,2024-01-01 08:00:00
+6,Fine Screens,2024-01-01 09:00:00
+6,Primary Clarifiers,2024-01-01 10:00:00
+6,Bio-reactor Tanks,2024-01-01 11:00:00
+6,Gravity Thickening,2024-01-01 12:00:00
+6,Blend Tank,2024-01-01 13:00:00
+6,Anaerobic Digester,2024-01-01 14:00:00
+7,Coarse Screens,2024-01-01 08:00:00
+7,Fine Screens,2024-01-01 09:00:00
+7,Primary Clarifiers,2024-01-01 10:00:00
+7,Bio-reactor Tanks,2024-01-01 11:00:00
+7,Gravity Thickening,2024-01-01 12:00:00
+7,Blend Tank,2024-01-01 13:00:00
+7,Anaerobic Digester,2024-01-01 14:00:00
+8,Coarse Screens,2024-01-01 08:00:00
+8,Fine Screens,2024-01-01 09:00:00
+8,Primary Clarifiers,2024-01-01 10:00:00
+8,Bio-reactor Tanks,2024-01-01 11:00:00
+8,Gravity Thickening,2024-01-01 12:00:00
+8,Blend Tank,2024-01-01 13:00:00
+8,Anaerobic Digester,2024-01-01 14:00:00
+9,Coarse Screens,2024-01-01 08:00:00
+9,Fine Screens,2024-01-01 09:00:00
+9,Primary Clarifiers,2024-01-01 10:00:00
+9,Bio-reactor Tanks,2024-01-01 11:00:00
+9,Gravity Thickening,2024-01-01 12:00:00
+9,Blend Tank,2024-01-01 13:00:00
+9,Anaerobic Digester,2024-01-01 14:00:00
+10,Coarse Screens,2024-01-01 08:00:00
+10,Fine Screens,2024-01-01 09:00:00
+10,Primary Clarifiers,2024-01-01 10:00:00
+10,Bio-reactor Tanks,2024-01-01 11:00:00
+10,Gravity Thickening,2024-01-01 12:00:00
+10,Blend Tank,2024-01-01 13:00:00
+10,Anaerobic Digester,2024-01-01 14:00:00
+11,Coarse Screens,2024-01-01 08:00:00
+11,Fine Screens,2024-01-01 09:00:00
+11,Primary Clarifiers,2024-01-01 10:00:00
+11,Bio-reactor Tanks,2024-01-01 11:00:00
+11,Gravity Thickening,2024-01-01 12:00:00
+11,Blend Tank,2024-01-01 13:00:00
+11,Anaerobic Digester,2024-01-01 14:00:00
+12,Coarse Screens,2024-01-01 08:00:00
+12,Fine Screens,2024-01-01 09:00:00
+12,Primary Clarifiers,2024-01-01 10:00:00
+12,Bio-reactor Tanks,2024-01-01 11:00:00
+12,Gravity Thickening,2024-01-01 12:00:00
+12,Blend Tank,2024-01-01 13:00:00
+12,Anaerobic Digester,2024-01-01 14:00:00
+13,Coarse Screens,2024-01-01 08:00:00
+13,Fine Screens,2024-01-01 09:00:00
+13,Primary Clarifiers,2024-01-01 10:00:00
+13,Bio-reactor Tanks,2024-01-01 11:00:00
+13,Gravity Thickening,2024-01-01 12:00:00
+13,Blend Tank,2024-01-01 13:00:00
+13,Anaerobic Digester,2024-01-01 14:00:00
+14,Coarse Screens,2024-01-01 08:00:00
+14,Fine Screens,2024-01-01 09:00:00
+14,Primary Clarifiers,2024-01-01 10:00:00
+14,Bio-reactor Tanks,2024-01-01 11:00:00
+14,Gravity Thickening,2024-01-01 12:00:00
+14,Blend Tank,2024-01-01 13:00:00
+14,Anaerobic Digester,2024-01-01 14:00:00
+15,Coarse Screens,2024-01-01 08:00:00
+15,Fine Screens,2024-01-01 09:00:00
+15,Primary Clarifiers,2024-01-01 10:00:00
+15,Bio-reactor Tanks,2024-01-01 11:00:00
+15,Gravity Thickening,2024-01-01 12:00:00
+15,Blend Tank,2024-01-01 13:00:00
+15,Anaerobic Digester,2024-01-01 14:00:00
+16,Coarse Screens,2024-01-01 08:00:00
+16,Fine Screens,2024-01-01 09:00:00
+16,Primary Clarifiers,2024-01-01 10:00:00
+16,Bio-reactor Tanks,2024-01-01 11:00:00
+16,Gravity Thickening,2024-01-01 12:00:00
+16,Blend Tank,2024-01-01 13:00:00
+16,Anaerobic Digester,2024-01-01 14:00:00
+17,Coarse Screens,2024-01-01 08:00:00
+17,Fine Screens,2024-01-01 09:00:00
+17,Primary Clarifiers,2024-01-01 10:00:00
+17,Bio-reactor Tanks,2024-01-01 11:00:00
+17,Gravity Thickening,2024-01-01 12:00:00
+17,Blend Tank,2024-01-01 13:00:00
+17,Anaerobic Digester,2024-01-01 14:00:00
+18,Coarse Screens,2024-01-01 08:00:00
+18,Fine Screens,2024-01-01 09:00:00
+18,Primary Clarifiers,2024-01-01 10:00:00
+18,Bio-reactor Tanks,2024-01-01 11:00:00
+18,Gravity Thickening,2024-01-01 12:00:00
+18,Blend Tank,2024-01-01 13:00:00
+18,Anaerobic Digester,2024-01-01 14:00:00
+19,Coarse Screens,2024-01-01 08:00:00
+19,Fine Screens,2024-01-01 09:00:00
+19,Primary Clarifiers,2024-01-01 10:00:00
+19,Bio-reactor Tanks,2024-01-01 11:00:00
+19,Gravity Thickening,2024-01-01 12:00:00
+19,Blend Tank,2024-01-01 13:00:00
+19,Anaerobic Digester,2024-01-01 14:00:00
+20,Coarse Screens,2024-01-01 08:00:00
+20,Fine Screens,2024-01-01 09:00:00
+20,Primary Clarifiers,2024-01-01 10:00:00
+20,Bio-reactor Tanks,2024-01-01 11:00:00
+20,Gravity Thickening,2024-01-01 12:00:00
+20,Blend Tank,2024-01-01 13:00:00
+20,Anaerobic Digester,2024-01-01 14:00:00
+21,Coarse Screens,2024-01-01 08:00:00
+21,Fine Screens,2024-01-01 09:00:00
+21,Primary Clarifiers,2024-01-01 10:00:00
+21,Bio-reactor Tanks,2024-01-01 11:00:00
+21,Gravity Thickening,2024-01-01 12:00:00
+21,Blend Tank,2024-01-01 13:00:00
+21,Anaerobic Digester,2024-01-01 14:00:00
+22,Coarse Screens,2024-01-01 08:00:00
+22,Fine Screens,2024-01-01 09:00:00
+22,Primary Clarifiers,2024-01-01 10:00:00
+22,Bio-reactor Tanks,2024-01-01 11:00:00
+22,Gravity Thickening,2024-01-01 12:00:00
+22,Blend Tank,2024-01-01 13:00:00
+22,Anaerobic Digester,2024-01-01 14:00:00
+23,Coarse Screens,2024-01-01 08:00:00
+23,Fine Screens,2024-01-01 09:00:00
+23,Primary Clarifiers,2024-01-01 10:00:00
+23,Bio-reactor Tanks,2024-01-01 11:00:00
+23,Gravity Thickening,2024-01-01 12:00:00
+23,Blend Tank,2024-01-01 13:00:00
+23,Anaerobic Digester,2024-01-01 14:00:00
+24,Coarse Screens,2024-01-01 08:00:00
+24,Fine Screens,2024-01-01 09:00:00
+24,Compacted Screenings,2024-01-01 10:00:00
+24,Disposal to Landfill,2024-01-01 11:00:00
+25,Coarse Screens,2024-01-01 08:00:00
+25,Fine Screens,2024-01-01 09:00:00
+25,Compacted Screenings,2024-01-01 10:00:00
+25,Disposal to Landfill,2024-01-01 11:00:00
+26,Coarse Screens,2024-01-01 08:00:00
+26,Fine Screens,2024-01-01 09:00:00
+26,Compacted Screenings,2024-01-01 10:00:00
+26,Disposal to Landfill,2024-01-01 11:00:00
+27,Coarse Screens,2024-01-01 08:00:00
+27,Fine Screens,2024-01-01 09:00:00
+27,Compacted Screenings,2024-01-01 10:00:00
+27,Disposal to Landfill,2024-01-01 11:00:00
+28,Coarse Screens,2024-01-01 08:00:00
+28,Fine Screens,2024-01-01 09:00:00
+28,Compacted Screenings,2024-01-01 10:00:00
+28,Disposal to Landfill,2024-01-01 11:00:00
+29,Coarse Screens,2024-01-01 08:00:00
+29,Fine Screens,2024-01-01 09:00:00
+29,Compacted Screenings,2024-01-01 10:00:00
+29,Disposal to Landfill,2024-01-01 11:00:00
+30,Coarse Screens,2024-01-01 08:00:00
+30,Fine Screens,2024-01-01 09:00:00
+30,Compacted Screenings,2024-01-01 10:00:00
+30,Disposal to Landfill,2024-01-01 11:00:00
+31,Coarse Screens,2024-01-01 08:00:00
+31,Fine Screens,2024-01-01 09:00:00
+31,Compacted Screenings,2024-01-01 10:00:00
+31,Disposal to Landfill,2024-01-01 11:00:00
+32,Coarse Screens,2024-01-01 08:00:00
+32,Fine Screens,2024-01-01 09:00:00
+32,Compacted Screenings,2024-01-01 10:00:00
+32,Disposal to Landfill,2024-01-01 11:00:00
+33,Coarse Screens,2024-01-01 08:00:00
+33,Fine Screens,2024-01-01 09:00:00
+33,Compacted Screenings,2024-01-01 10:00:00
+33,Disposal to Landfill,2024-01-01 11:00:00
+34,Coarse Screens,2024-01-01 08:00:00
+34,Fine Screens,2024-01-01 09:00:00
+34,Compacted Screenings,2024-01-01 10:00:00
+34,Disposal to Landfill,2024-01-01 11:00:00
+35,Coarse Screens,2024-01-01 08:00:00
+35,Fine Screens,2024-01-01 09:00:00
+35,Compacted Screenings,2024-01-01 10:00:00
+35,Disposal to Landfill,2024-01-01 11:00:00
+36,Coarse Screens,2024-01-01 08:00:00
+36,Fine Screens,2024-01-01 09:00:00
+36,Compacted Screenings,2024-01-01 10:00:00
+36,Disposal to Landfill,2024-01-01 11:00:00
+37,Coarse Screens,2024-01-01 08:00:00
+37,Fine Screens,2024-01-01 09:00:00
+37,Compacted Screenings,2024-01-01 10:00:00
+37,Disposal to Landfill,2024-01-01 11:00:00
+38,Coarse Screens,2024-01-01 08:00:00
+38,Fine Screens,2024-01-01 09:00:00
+38,Compacted Screenings,2024-01-01 10:00:00
+38,Disposal to Landfill,2024-01-01 11:00:00
+39,Coarse Screens,2024-01-01 08:00:00
+39,Fine Screens,2024-01-01 09:00:00
+39,Compacted Screenings,2024-01-01 10:00:00
+39,Disposal to Landfill,2024-01-01 11:00:00
+40,Coarse Screens,2024-01-01 08:00:00
+40,Fine Screens,2024-01-01 09:00:00
+40,Compacted Screenings,2024-01-01 10:00:00
+40,Disposal to Landfill,2024-01-01 11:00:00
+41,Coarse Screens,2024-01-01 08:00:00
+41,Fine Screens,2024-01-01 09:00:00
+41,Compacted Screenings,2024-01-01 10:00:00
+41,Disposal to Landfill,2024-01-01 11:00:00
+42,Coarse Screens,2024-01-01 08:00:00
+42,Fine Screens,2024-01-01 09:00:00
+42,Compacted Screenings,2024-01-01 10:00:00
+42,Disposal to Landfill,2024-01-01 11:00:00
+43,Coarse Screens,2024-01-01 08:00:00
+43,Fine Screens,2024-01-01 09:00:00
+43,Compacted Screenings,2024-01-01 10:00:00
+43,Disposal to Landfill,2024-01-01 11:00:00
+44,Coarse Screens,2024-01-01 08:00:00
+44,Fine Screens,2024-01-01 09:00:00
+44,Compacted Screenings,2024-01-01 10:00:00
+44,Disposal to Landfill,2024-01-01 11:00:00
+45,Coarse Screens,2024-01-01 08:00:00
+45,Fine Screens,2024-01-01 09:00:00
+45,Compacted Screenings,2024-01-01 10:00:00
+45,Disposal to Landfill,2024-01-01 11:00:00
+46,Coarse Screens,2024-01-01 08:00:00
+46,Fine Screens,2024-01-01 09:00:00
+46,Compacted Screenings,2024-01-01 10:00:00
+46,Disposal to Landfill,2024-01-01 11:00:00
+47,Coarse Screens,2024-01-01 08:00:00
+47,Fine Screens,2024-01-01 09:00:00
+47,Compacted Screenings,2024-01-01 10:00:00
+47,Disposal to Landfill,2024-01-01 11:00:00
+48,Coarse Screens,2024-01-01 08:00:00
+48,Fine Screens,2024-01-01 09:00:00
+48,Compacted Screenings,2024-01-01 10:00:00
+48,Disposal to Landfill,2024-01-01 11:00:00
+49,Coarse Screens,2024-01-01 08:00:00
+49,Fine Screens,2024-01-01 09:00:00
+49,Compacted Screenings,2024-01-01 10:00:00
+49,Disposal to Landfill,2024-01-01 11:00:00
+50,Coarse Screens,2024-01-01 08:00:00
+50,Fine Screens,2024-01-01 09:00:00
+50,Compacted Screenings,2024-01-01 10:00:00
+50,Disposal to Landfill,2024-01-01 11:00:00
+51,Coarse Screens,2024-01-01 08:00:00
+51,Fine Screens,2024-01-01 09:00:00
+51,Compacted Screenings,2024-01-01 10:00:00
+51,Disposal to Landfill,2024-01-01 11:00:00
+52,Coarse Screens,2024-01-01 08:00:00
+52,Fine Screens,2024-01-01 09:00:00
+52,Compacted Screenings,2024-01-01 10:00:00
+52,Disposal to Landfill,2024-01-01 11:00:00
+53,Coarse Screens,2024-01-01 08:00:00
+53,Fine Screens,2024-01-01 09:00:00
+53,Compacted Screenings,2024-01-01 10:00:00
+53,Disposal to Landfill,2024-01-01 11:00:00
+54,Coarse Screens,2024-01-01 08:00:00
+54,Fine Screens,2024-01-01 09:00:00
+54,Compacted Screenings,2024-01-01 10:00:00
+54,Disposal to Landfill,2024-01-01 11:00:00
+55,Coarse Screens,2024-01-01 08:00:00
+55,Fine Screens,2024-01-01 09:00:00
+55,Compacted Screenings,2024-01-01 10:00:00
+55,Disposal to Landfill,2024-01-01 11:00:00
+56,Coarse Screens,2024-01-01 08:00:00
+56,Fine Screens,2024-01-01 09:00:00
+56,Compacted Screenings,2024-01-01 10:00:00
+56,Disposal to Landfill,2024-01-01 11:00:00
+57,Coarse Screens,2024-01-01 08:00:00
+57,Fine Screens,2024-01-01 09:00:00
+57,Compacted Screenings,2024-01-01 10:00:00
+57,Disposal to Landfill,2024-01-01 11:00:00
+58,Coarse Screens,2024-01-01 08:00:00
+58,Fine Screens,2024-01-01 09:00:00
+58,Compacted Screenings,2024-01-01 10:00:00
+58,Disposal to Landfill,2024-01-01 11:00:00
+59,Coarse Screens,2024-01-01 08:00:00
+59,Fine Screens,2024-01-01 09:00:00
+59,Compacted Screenings,2024-01-01 10:00:00
+59,Disposal to Landfill,2024-01-01 11:00:00
+60,Coarse Screens,2024-01-01 08:00:00
+60,Fine Screens,2024-01-01 09:00:00
+60,Compacted Screenings,2024-01-01 10:00:00
+60,Disposal to Landfill,2024-01-01 11:00:00
+61,Coarse Screens,2024-01-01 08:00:00
+61,Fine Screens,2024-01-01 09:00:00
+61,Compacted Screenings,2024-01-01 10:00:00
+61,Disposal to Landfill,2024-01-01 11:00:00
+62,Coarse Screens,2024-01-01 08:00:00
+62,Fine Screens,2024-01-01 09:00:00
+62,Compacted Screenings,2024-01-01 10:00:00
+62,Disposal to Landfill,2024-01-01 11:00:00
+63,Coarse Screens,2024-01-01 08:00:00
+63,Fine Screens,2024-01-01 09:00:00
+63,Compacted Screenings,2024-01-01 10:00:00
+63,Disposal to Landfill,2024-01-01 11:00:00
+64,Coarse Screens,2024-01-01 08:00:00
+64,Fine Screens,2024-01-01 09:00:00
+64,Compacted Screenings,2024-01-01 10:00:00
+64,Disposal to Landfill,2024-01-01 11:00:00
+65,Coarse Screens,2024-01-01 08:00:00
+65,Fine Screens,2024-01-01 09:00:00
+65,Compacted Screenings,2024-01-01 10:00:00
+65,Disposal to Landfill,2024-01-01 11:00:00
+66,Coarse Screens,2024-01-01 08:00:00
+66,Fine Screens,2024-01-01 09:00:00
+66,Compacted Screenings,2024-01-01 10:00:00
+66,Disposal to Landfill,2024-01-01 11:00:00
+67,Coarse Screens,2024-01-01 08:00:00
+67,Fine Screens,2024-01-01 09:00:00
+67,Compacted Screenings,2024-01-01 10:00:00
+67,Disposal to Landfill,2024-01-01 11:00:00
+68,Coarse Screens,2024-01-01 08:00:00
+68,Fine Screens,2024-01-01 09:00:00
+68,Compacted Screenings,2024-01-01 10:00:00
+68,Disposal to Landfill,2024-01-01 11:00:00
+69,Coarse Screens,2024-01-01 08:00:00
+69,Fine Screens,2024-01-01 09:00:00
+69,Compacted Screenings,2024-01-01 10:00:00
+69,Disposal to Landfill,2024-01-01 11:00:00
+70,Coarse Screens,2024-01-01 08:00:00
+70,Fine Screens,2024-01-01 09:00:00
+70,Compacted Screenings,2024-01-01 10:00:00
+70,Disposal to Landfill,2024-01-01 11:00:00
+71,Coarse Screens,2024-01-01 08:00:00
+71,Fine Screens,2024-01-01 09:00:00
+71,Compacted Screenings,2024-01-01 10:00:00
+71,Disposal to Landfill,2024-01-01 11:00:00
+72,Coarse Screens,2024-01-01 08:00:00
+72,Fine Screens,2024-01-01 09:00:00
+72,Compacted Screenings,2024-01-01 10:00:00
+72,Disposal to Landfill,2024-01-01 11:00:00
+73,Coarse Screens,2024-01-01 08:00:00
+73,Fine Screens,2024-01-01 09:00:00
+73,Compacted Screenings,2024-01-01 10:00:00
+73,Disposal to Landfill,2024-01-01 11:00:00
+74,Coarse Screens,2024-01-01 08:00:00
+74,Fine Screens,2024-01-01 09:00:00
+74,Compacted Screenings,2024-01-01 10:00:00
+74,Disposal to Landfill,2024-01-01 11:00:00
+75,Coarse Screens,2024-01-01 08:00:00
+75,Fine Screens,2024-01-01 09:00:00
+75,Compacted Screenings,2024-01-01 10:00:00
+75,Disposal to Landfill,2024-01-01 11:00:00
+76,Coarse Screens,2024-01-01 08:00:00
+76,Fine Screens,2024-01-01 09:00:00
+76,Compacted Screenings,2024-01-01 10:00:00
+76,Disposal to Landfill,2024-01-01 11:00:00
+77,Coarse Screens,2024-01-01 08:00:00
+77,Fine Screens,2024-01-01 09:00:00
+77,Compacted Screenings,2024-01-01 10:00:00
+77,Disposal to Landfill,2024-01-01 11:00:00
+78,Coarse Screens,2024-01-01 08:00:00
+78,Fine Screens,2024-01-01 09:00:00
+78,Compacted Screenings,2024-01-01 10:00:00
+78,Disposal to Landfill,2024-01-01 11:00:00
+79,Coarse Screens,2024-01-01 08:00:00
+79,Fine Screens,2024-01-01 09:00:00
+79,Compacted Screenings,2024-01-01 10:00:00
+79,Disposal to Landfill,2024-01-01 11:00:00
+80,Coarse Screens,2024-01-01 08:00:00
+80,Fine Screens,2024-01-01 09:00:00
+80,Compacted Screenings,2024-01-01 10:00:00
+80,Disposal to Landfill,2024-01-01 11:00:00
+81,Coarse Screens,2024-01-01 08:00:00
+81,Fine Screens,2024-01-01 09:00:00
+81,Compacted Screenings,2024-01-01 10:00:00
+81,Disposal to Landfill,2024-01-01 11:00:00
+82,Coarse Screens,2024-01-01 08:00:00
+82,Fine Screens,2024-01-01 09:00:00
+82,Compacted Screenings,2024-01-01 10:00:00
+82,Disposal to Landfill,2024-01-01 11:00:00
+83,Coarse Screens,2024-01-01 08:00:00
+83,Fine Screens,2024-01-01 09:00:00
+83,Compacted Screenings,2024-01-01 10:00:00
+83,Disposal to Landfill,2024-01-01 11:00:00
+84,Coarse Screens,2024-01-01 08:00:00
+84,Fine Screens,2024-01-01 09:00:00
+84,Compacted Screenings,2024-01-01 10:00:00
+84,Disposal to Landfill,2024-01-01 11:00:00
+85,Coarse Screens,2024-01-01 08:00:00
+85,Fine Screens,2024-01-01 09:00:00
+85,Compacted Screenings,2024-01-01 10:00:00
+85,Disposal to Landfill,2024-01-01 11:00:00
+86,Coarse Screens,2024-01-01 08:00:00
+86,Fine Screens,2024-01-01 09:00:00
+86,Compacted Screenings,2024-01-01 10:00:00
+86,Disposal to Landfill,2024-01-01 11:00:00
+87,Coarse Screens,2024-01-01 08:00:00
+87,Fine Screens,2024-01-01 09:00:00
+87,Compacted Screenings,2024-01-01 10:00:00
+87,Disposal to Landfill,2024-01-01 11:00:00
+88,Coarse Screens,2024-01-01 08:00:00
+88,Fine Screens,2024-01-01 09:00:00
+88,Compacted Screenings,2024-01-01 10:00:00
+88,Disposal to Landfill,2024-01-01 11:00:00
+89,Coarse Screens,2024-01-01 08:00:00
+89,Fine Screens,2024-01-01 09:00:00
+89,Compacted Screenings,2024-01-01 10:00:00
+89,Disposal to Landfill,2024-01-01 11:00:00
+90,Coarse Screens,2024-01-01 08:00:00
+90,Fine Screens,2024-01-01 09:00:00
+90,Compacted Screenings,2024-01-01 10:00:00
+90,Disposal to Landfill,2024-01-01 11:00:00
+91,Coarse Screens,2024-01-01 08:00:00
+91,Fine Screens,2024-01-01 09:00:00
+91,Compacted Screenings,2024-01-01 10:00:00
+91,Disposal to Landfill,2024-01-01 11:00:00
+92,Coarse Screens,2024-01-01 08:00:00
+92,Fine Screens,2024-01-01 09:00:00
+92,Compacted Screenings,2024-01-01 10:00:00
+92,Disposal to Landfill,2024-01-01 11:00:00
+93,Coarse Screens,2024-01-01 08:00:00
+93,Fine Screens,2024-01-01 09:00:00
+93,Compacted Screenings,2024-01-01 10:00:00
+93,Disposal to Landfill,2024-01-01 11:00:00
+94,Coarse Screens,2024-01-01 08:00:00
+94,Fine Screens,2024-01-01 09:00:00
+94,Compacted Screenings,2024-01-01 10:00:00
+94,Disposal to Landfill,2024-01-01 11:00:00
+95,Coarse Screens,2024-01-01 08:00:00
+95,Fine Screens,2024-01-01 09:00:00
+95,Compacted Screenings,2024-01-01 10:00:00
+95,Disposal to Landfill,2024-01-01 11:00:00
+96,Coarse Screens,2024-01-01 08:00:00
+96,Fine Screens,2024-01-01 09:00:00
+96,Compacted Screenings,2024-01-01 10:00:00
+96,Disposal to Landfill,2024-01-01 11:00:00
+97,Coarse Screens,2024-01-01 08:00:00
+97,Fine Screens,2024-01-01 09:00:00
+97,Compacted Screenings,2024-01-01 10:00:00
+97,Disposal to Landfill,2024-01-01 11:00:00
+98,Coarse Screens,2024-01-01 08:00:00
+98,Fine Screens,2024-01-01 09:00:00
+98,Compacted Screenings,2024-01-01 10:00:00
+98,Disposal to Landfill,2024-01-01 11:00:00
+99,Coarse Screens,2024-01-01 08:00:00
+99,Fine Screens,2024-01-01 09:00:00
+99,Compacted Screenings,2024-01-01 10:00:00
+99,Disposal to Landfill,2024-01-01 11:00:00
+100,Coarse Screens,2024-01-01 08:00:00
+100,Fine Screens,2024-01-01 09:00:00
+100,Compacted Screenings,2024-01-01 10:00:00
+100,Disposal to Landfill,2024-01-01 11:00:00
+101,Coarse Screens,2024-01-01 08:00:00
+101,Fine Screens,2024-01-01 09:00:00
+101,Compacted Screenings,2024-01-01 10:00:00
+101,Disposal to Landfill,2024-01-01 11:00:00
+102,Coarse Screens,2024-01-01 08:00:00
+102,Fine Screens,2024-01-01 09:00:00
+102,Compacted Screenings,2024-01-01 10:00:00
+102,Disposal to Landfill,2024-01-01 11:00:00
+103,Coarse Screens,2024-01-01 08:00:00
+103,Fine Screens,2024-01-01 09:00:00
+103,Compacted Screenings,2024-01-01 10:00:00
+103,Disposal to Landfill,2024-01-01 11:00:00
+104,Coarse Screens,2024-01-01 08:00:00
+104,Fine Screens,2024-01-01 09:00:00
+104,Compacted Screenings,2024-01-01 10:00:00
+104,Disposal to Landfill,2024-01-01 11:00:00
+105,Coarse Screens,2024-01-01 08:00:00
+105,Fine Screens,2024-01-01 09:00:00
+105,Compacted Screenings,2024-01-01 10:00:00
+105,Disposal to Landfill,2024-01-01 11:00:00
+106,Coarse Screens,2024-01-01 08:00:00
+106,Fine Screens,2024-01-01 09:00:00
+106,Compacted Screenings,2024-01-01 10:00:00
+106,Disposal to Landfill,2024-01-01 11:00:00
+107,Coarse Screens,2024-01-01 08:00:00
+107,Fine Screens,2024-01-01 09:00:00
+107,Compacted Screenings,2024-01-01 10:00:00
+107,Disposal to Landfill,2024-01-01 11:00:00
+108,Coarse Screens,2024-01-01 08:00:00
+108,Fine Screens,2024-01-01 09:00:00
+108,Compacted Screenings,2024-01-01 10:00:00
+108,Disposal to Landfill,2024-01-01 11:00:00
+109,Coarse Screens,2024-01-01 08:00:00
+109,Fine Screens,2024-01-01 09:00:00
+109,Compacted Screenings,2024-01-01 10:00:00
+109,Disposal to Landfill,2024-01-01 11:00:00
+110,Coarse Screens,2024-01-01 08:00:00
+110,Fine Screens,2024-01-01 09:00:00
+110,Compacted Screenings,2024-01-01 10:00:00
+110,Disposal to Landfill,2024-01-01 11:00:00
+111,Coarse Screens,2024-01-01 08:00:00
+111,Fine Screens,2024-01-01 09:00:00
+111,Compacted Screenings,2024-01-01 10:00:00
+111,Disposal to Landfill,2024-01-01 11:00:00
+112,Coarse Screens,2024-01-01 08:00:00
+112,Fine Screens,2024-01-01 09:00:00
+112,Compacted Screenings,2024-01-01 10:00:00
+112,Disposal to Landfill,2024-01-01 11:00:00
+113,Coarse Screens,2024-01-01 08:00:00
+113,Fine Screens,2024-01-01 09:00:00
+113,Compacted Screenings,2024-01-01 10:00:00
+113,Disposal to Landfill,2024-01-01 11:00:00
+114,Coarse Screens,2024-01-01 08:00:00
+114,Fine Screens,2024-01-01 09:00:00
+114,Compacted Screenings,2024-01-01 10:00:00
+114,Disposal to Landfill,2024-01-01 11:00:00
+115,Coarse Screens,2024-01-01 08:00:00
+115,Fine Screens,2024-01-01 09:00:00
+115,Compacted Screenings,2024-01-01 10:00:00
+115,Disposal to Landfill,2024-01-01 11:00:00
+116,Coarse Screens,2024-01-01 08:00:00
+116,Fine Screens,2024-01-01 09:00:00
+116,Compacted Screenings,2024-01-01 10:00:00
+116,Disposal to Landfill,2024-01-01 11:00:00
+117,Coarse Screens,2024-01-01 08:00:00
+117,Fine Screens,2024-01-01 09:00:00
+117,Compacted Screenings,2024-01-01 10:00:00
+117,Disposal to Landfill,2024-01-01 11:00:00
+118,Coarse Screens,2024-01-01 08:00:00
+118,Fine Screens,2024-01-01 09:00:00
+118,Compacted Screenings,2024-01-01 10:00:00
+118,Disposal to Landfill,2024-01-01 11:00:00
+119,Coarse Screens,2024-01-01 08:00:00
+119,Fine Screens,2024-01-01 09:00:00
+119,Compacted Screenings,2024-01-01 10:00:00
+119,Disposal to Landfill,2024-01-01 11:00:00
+120,Coarse Screens,2024-01-01 08:00:00
+120,Fine Screens,2024-01-01 09:00:00
+120,Compacted Screenings,2024-01-01 10:00:00
+120,Disposal to Landfill,2024-01-01 11:00:00
+121,Coarse Screens,2024-01-01 08:00:00
+121,Fine Screens,2024-01-01 09:00:00
+121,Compacted Screenings,2024-01-01 10:00:00
+121,Disposal to Landfill,2024-01-01 11:00:00
+122,Coarse Screens,2024-01-01 08:00:00
+122,Fine Screens,2024-01-01 09:00:00
+122,Compacted Screenings,2024-01-01 10:00:00
+122,Disposal to Landfill,2024-01-01 11:00:00
+123,Coarse Screens,2024-01-01 08:00:00
+123,Fine Screens,2024-01-01 09:00:00
+123,Compacted Screenings,2024-01-01 10:00:00
+123,Disposal to Landfill,2024-01-01 11:00:00
+124,Coarse Screens,2024-01-01 08:00:00
+124,Fine Screens,2024-01-01 09:00:00
+124,Primary Clarifiers,2024-01-01 10:00:00
+124,Bio-reactor Tanks,2024-01-01 11:00:00
+124,Gravity Thickening,2024-01-01 12:00:00
+124,Blend Tank,2024-01-01 13:00:00
+124,Anaerobic Digester,2024-01-01 14:00:00
+124,Storage Tank,2024-01-01 15:00:00
+124,Disposal to Landfill,2024-01-01 16:00:00
+125,Coarse Screens,2024-01-01 08:00:00
+125,Fine Screens,2024-01-01 09:00:00
+125,Primary Clarifiers,2024-01-01 10:00:00
+125,Bio-reactor Tanks,2024-01-01 11:00:00
+125,Gravity Thickening,2024-01-01 12:00:00
+125,Blend Tank,2024-01-01 13:00:00
+125,Anaerobic Digester,2024-01-01 14:00:00
+125,Storage Tank,2024-01-01 15:00:00
+125,Disposal to Landfill,2024-01-01 16:00:00
+126,Coarse Screens,2024-01-01 08:00:00
+126,Fine Screens,2024-01-01 09:00:00
+126,Primary Clarifiers,2024-01-01 10:00:00
+126,Bio-reactor Tanks,2024-01-01 11:00:00
+126,Gravity Thickening,2024-01-01 12:00:00
+126,Blend Tank,2024-01-01 13:00:00
+126,Anaerobic Digester,2024-01-01 14:00:00
+126,Storage Tank,2024-01-01 15:00:00
+126,Disposal to Landfill,2024-01-01 16:00:00
+127,Coarse Screens,2024-01-01 08:00:00
+127,Fine Screens,2024-01-01 09:00:00
+127,Primary Clarifiers,2024-01-01 10:00:00
+127,Bio-reactor Tanks,2024-01-01 11:00:00
+127,Gravity Thickening,2024-01-01 12:00:00
+127,Blend Tank,2024-01-01 13:00:00
+127,Anaerobic Digester,2024-01-01 14:00:00
+127,Storage Tank,2024-01-01 15:00:00
+127,Disposal to Landfill,2024-01-01 16:00:00
+128,Coarse Screens,2024-01-01 08:00:00
+128,Fine Screens,2024-01-01 09:00:00
+128,Primary Clarifiers,2024-01-01 10:00:00
+128,Bio-reactor Tanks,2024-01-01 11:00:00
+128,Gravity Thickening,2024-01-01 12:00:00
+128,Blend Tank,2024-01-01 13:00:00
+128,Anaerobic Digester,2024-01-01 14:00:00
+128,Storage Tank,2024-01-01 15:00:00
+128,Disposal to Landfill,2024-01-01 16:00:00
+129,Coarse Screens,2024-01-01 08:00:00
+129,Fine Screens,2024-01-01 09:00:00
+129,Primary Clarifiers,2024-01-01 10:00:00
+129,Bio-reactor Tanks,2024-01-01 11:00:00
+129,Gravity Thickening,2024-01-01 12:00:00
+129,Blend Tank,2024-01-01 13:00:00
+129,Anaerobic Digester,2024-01-01 14:00:00
+129,Storage Tank,2024-01-01 15:00:00
+129,Disposal to Landfill,2024-01-01 16:00:00
+130,Coarse Screens,2024-01-01 08:00:00
+130,Fine Screens,2024-01-01 09:00:00
+130,Primary Clarifiers,2024-01-01 10:00:00
+130,Bio-reactor Tanks,2024-01-01 11:00:00
+130,Gravity Thickening,2024-01-01 12:00:00
+130,Blend Tank,2024-01-01 13:00:00
+130,Anaerobic Digester,2024-01-01 14:00:00
+130,Storage Tank,2024-01-01 15:00:00
+130,Disposal to Landfill,2024-01-01 16:00:00
+131,Coarse Screens,2024-01-01 08:00:00
+131,Fine Screens,2024-01-01 09:00:00
+131,Primary Clarifiers,2024-01-01 10:00:00
+131,Bio-reactor Tanks,2024-01-01 11:00:00
+131,Gravity Thickening,2024-01-01 12:00:00
+131,Blend Tank,2024-01-01 13:00:00
+131,Anaerobic Digester,2024-01-01 14:00:00
+131,Storage Tank,2024-01-01 15:00:00
+131,Disposal to Landfill,2024-01-01 16:00:00
+132,Coarse Screens,2024-01-01 08:00:00
+132,Fine Screens,2024-01-01 09:00:00
+132,Primary Clarifiers,2024-01-01 10:00:00
+132,Bio-reactor Tanks,2024-01-01 11:00:00
+132,Gravity Thickening,2024-01-01 12:00:00
+132,Blend Tank,2024-01-01 13:00:00
+132,Anaerobic Digester,2024-01-01 14:00:00
+132,Storage Tank,2024-01-01 15:00:00
+132,Disposal to Landfill,2024-01-01 16:00:00
+133,Coarse Screens,2024-01-01 08:00:00
+133,Fine Screens,2024-01-01 09:00:00
+133,Primary Clarifiers,2024-01-01 10:00:00
+133,Bio-reactor Tanks,2024-01-01 11:00:00
+133,Gravity Thickening,2024-01-01 12:00:00
+133,Blend Tank,2024-01-01 13:00:00
+133,Anaerobic Digester,2024-01-01 14:00:00
+133,Storage Tank,2024-01-01 15:00:00
+133,Disposal to Landfill,2024-01-01 16:00:00
+134,Coarse Screens,2024-01-01 08:00:00
+134,Fine Screens,2024-01-01 09:00:00
+134,Primary Clarifiers,2024-01-01 10:00:00
+134,Bio-reactor Tanks,2024-01-01 11:00:00
+134,Gravity Thickening,2024-01-01 12:00:00
+134,Blend Tank,2024-01-01 13:00:00
+134,Anaerobic Digester,2024-01-01 14:00:00
+134,Storage Tank,2024-01-01 15:00:00
+134,Disposal to Landfill,2024-01-01 16:00:00
+135,Coarse Screens,2024-01-01 08:00:00
+135,Fine Screens,2024-01-01 09:00:00
+135,Primary Clarifiers,2024-01-01 10:00:00
+135,Bio-reactor Tanks,2024-01-01 11:00:00
+135,Gravity Thickening,2024-01-01 12:00:00
+135,Blend Tank,2024-01-01 13:00:00
+135,Anaerobic Digester,2024-01-01 14:00:00
+135,Storage Tank,2024-01-01 15:00:00
+135,Disposal to Landfill,2024-01-01 16:00:00
+136,Coarse Screens,2024-01-01 08:00:00
+136,Fine Screens,2024-01-01 09:00:00
+136,Primary Clarifiers,2024-01-01 10:00:00
+136,Bio-reactor Tanks,2024-01-01 11:00:00
+136,Gravity Thickening,2024-01-01 12:00:00
+136,Blend Tank,2024-01-01 13:00:00
+136,Anaerobic Digester,2024-01-01 14:00:00
+136,Storage Tank,2024-01-01 15:00:00
+136,Disposal to Landfill,2024-01-01 16:00:00
+137,Coarse Screens,2024-01-01 08:00:00
+137,Fine Screens,2024-01-01 09:00:00
+137,Primary Clarifiers,2024-01-01 10:00:00
+137,Bio-reactor Tanks,2024-01-01 11:00:00
+137,Gravity Thickening,2024-01-01 12:00:00
+137,Blend Tank,2024-01-01 13:00:00
+137,Anaerobic Digester,2024-01-01 14:00:00
+137,Storage Tank,2024-01-01 15:00:00
+137,Disposal to Landfill,2024-01-01 16:00:00
+138,Coarse Screens,2024-01-01 08:00:00
+138,Fine Screens,2024-01-01 09:00:00
+138,Primary Clarifiers,2024-01-01 10:00:00
+138,Bio-reactor Tanks,2024-01-01 11:00:00
+138,Gravity Thickening,2024-01-01 12:00:00
+138,Blend Tank,2024-01-01 13:00:00
+138,Anaerobic Digester,2024-01-01 14:00:00
+138,Storage Tank,2024-01-01 15:00:00
+138,Disposal to Landfill,2024-01-01 16:00:00
+139,Coarse Screens,2024-01-01 08:00:00
+139,Fine Screens,2024-01-01 09:00:00
+139,Primary Clarifiers,2024-01-01 10:00:00
+139,Bio-reactor Tanks,2024-01-01 11:00:00
+139,Gravity Thickening,2024-01-01 12:00:00
+139,Blend Tank,2024-01-01 13:00:00
+139,Anaerobic Digester,2024-01-01 14:00:00
+139,Storage Tank,2024-01-01 15:00:00
+139,Disposal to Landfill,2024-01-01 16:00:00
+140,Coarse Screens,2024-01-01 08:00:00
+140,Fine Screens,2024-01-01 09:00:00
+140,Primary Clarifiers,2024-01-01 10:00:00
+140,Bio-reactor Tanks,2024-01-01 11:00:00
+140,Gravity Thickening,2024-01-01 12:00:00
+140,Blend Tank,2024-01-01 13:00:00
+140,Anaerobic Digester,2024-01-01 14:00:00
+140,Storage Tank,2024-01-01 15:00:00
+140,Disposal to Landfill,2024-01-01 16:00:00
+141,Coarse Screens,2024-01-01 08:00:00
+141,Fine Screens,2024-01-01 09:00:00
+141,Primary Clarifiers,2024-01-01 10:00:00
+141,Bio-reactor Tanks,2024-01-01 11:00:00
+141,Gravity Thickening,2024-01-01 12:00:00
+141,Blend Tank,2024-01-01 13:00:00
+141,Anaerobic Digester,2024-01-01 14:00:00
+141,Storage Tank,2024-01-01 15:00:00
+141,Disposal to Landfill,2024-01-01 16:00:00
+142,Coarse Screens,2024-01-01 08:00:00
+142,Fine Screens,2024-01-01 09:00:00
+142,Primary Clarifiers,2024-01-01 10:00:00
+142,Bio-reactor Tanks,2024-01-01 11:00:00
+142,Gravity Thickening,2024-01-01 12:00:00
+142,Blend Tank,2024-01-01 13:00:00
+142,Anaerobic Digester,2024-01-01 14:00:00
+142,Storage Tank,2024-01-01 15:00:00
+142,Disposal to Landfill,2024-01-01 16:00:00
+143,Coarse Screens,2024-01-01 08:00:00
+143,Fine Screens,2024-01-01 09:00:00
+143,Primary Clarifiers,2024-01-01 10:00:00
+143,Bio-reactor Tanks,2024-01-01 11:00:00
+143,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+143,Blend Tank,2024-01-01 13:00:00
+143,Anaerobic Digester,2024-01-01 14:00:00
+144,Coarse Screens,2024-01-01 08:00:00
+144,Fine Screens,2024-01-01 09:00:00
+144,Primary Clarifiers,2024-01-01 10:00:00
+144,Bio-reactor Tanks,2024-01-01 11:00:00
+144,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+144,Blend Tank,2024-01-01 13:00:00
+144,Anaerobic Digester,2024-01-01 14:00:00
+145,Coarse Screens,2024-01-01 08:00:00
+145,Fine Screens,2024-01-01 09:00:00
+145,Primary Clarifiers,2024-01-01 10:00:00
+145,Bio-reactor Tanks,2024-01-01 11:00:00
+145,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+145,Blend Tank,2024-01-01 13:00:00
+145,Anaerobic Digester,2024-01-01 14:00:00
+146,Coarse Screens,2024-01-01 08:00:00
+146,Fine Screens,2024-01-01 09:00:00
+146,Primary Clarifiers,2024-01-01 10:00:00
+146,Bio-reactor Tanks,2024-01-01 11:00:00
+146,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+146,Blend Tank,2024-01-01 13:00:00
+146,Anaerobic Digester,2024-01-01 14:00:00
+147,Coarse Screens,2024-01-01 08:00:00
+147,Fine Screens,2024-01-01 09:00:00
+147,Primary Clarifiers,2024-01-01 10:00:00
+147,Bio-reactor Tanks,2024-01-01 11:00:00
+147,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+147,Blend Tank,2024-01-01 13:00:00
+147,Anaerobic Digester,2024-01-01 14:00:00
+148,Coarse Screens,2024-01-01 08:00:00
+148,Fine Screens,2024-01-01 09:00:00
+148,Primary Clarifiers,2024-01-01 10:00:00
+148,Bio-reactor Tanks,2024-01-01 11:00:00
+148,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+148,Blend Tank,2024-01-01 13:00:00
+148,Anaerobic Digester,2024-01-01 14:00:00
+149,Coarse Screens,2024-01-01 08:00:00
+149,Fine Screens,2024-01-01 09:00:00
+149,Primary Clarifiers,2024-01-01 10:00:00
+149,Bio-reactor Tanks,2024-01-01 11:00:00
+149,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+149,Blend Tank,2024-01-01 13:00:00
+149,Anaerobic Digester,2024-01-01 14:00:00
+150,Coarse Screens,2024-01-01 08:00:00
+150,Fine Screens,2024-01-01 09:00:00
+150,Primary Clarifiers,2024-01-01 10:00:00
+150,Bio-reactor Tanks,2024-01-01 11:00:00
+150,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+150,Blend Tank,2024-01-01 13:00:00
+150,Anaerobic Digester,2024-01-01 14:00:00
+151,Coarse Screens,2024-01-01 08:00:00
+151,Fine Screens,2024-01-01 09:00:00
+151,Primary Clarifiers,2024-01-01 10:00:00
+151,Bio-reactor Tanks,2024-01-01 11:00:00
+151,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+151,Blend Tank,2024-01-01 13:00:00
+151,Anaerobic Digester,2024-01-01 14:00:00
+152,Coarse Screens,2024-01-01 08:00:00
+152,Fine Screens,2024-01-01 09:00:00
+152,Primary Clarifiers,2024-01-01 10:00:00
+152,Bio-reactor Tanks,2024-01-01 11:00:00
+152,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+152,Blend Tank,2024-01-01 13:00:00
+152,Anaerobic Digester,2024-01-01 14:00:00
+153,Coarse Screens,2024-01-01 08:00:00
+153,Fine Screens,2024-01-01 09:00:00
+153,Primary Clarifiers,2024-01-01 10:00:00
+153,Bio-reactor Tanks,2024-01-01 11:00:00
+153,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+153,Blend Tank,2024-01-01 13:00:00
+153,Anaerobic Digester,2024-01-01 14:00:00
+154,Coarse Screens,2024-01-01 08:00:00
+154,Fine Screens,2024-01-01 09:00:00
+154,Primary Clarifiers,2024-01-01 10:00:00
+154,Bio-reactor Tanks,2024-01-01 11:00:00
+154,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+154,Blend Tank,2024-01-01 13:00:00
+154,Anaerobic Digester,2024-01-01 14:00:00
+155,Coarse Screens,2024-01-01 08:00:00
+155,Fine Screens,2024-01-01 09:00:00
+155,Primary Clarifiers,2024-01-01 10:00:00
+155,Bio-reactor Tanks,2024-01-01 11:00:00
+155,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+155,Blend Tank,2024-01-01 13:00:00
+155,Anaerobic Digester,2024-01-01 14:00:00
+156,Coarse Screens,2024-01-01 08:00:00
+156,Fine Screens,2024-01-01 09:00:00
+156,Primary Clarifiers,2024-01-01 10:00:00
+156,Bio-reactor Tanks,2024-01-01 11:00:00
+156,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+156,Blend Tank,2024-01-01 13:00:00
+156,Anaerobic Digester,2024-01-01 14:00:00
+157,Coarse Screens,2024-01-01 08:00:00
+157,Fine Screens,2024-01-01 09:00:00
+157,Primary Clarifiers,2024-01-01 10:00:00
+157,Bio-reactor Tanks,2024-01-01 11:00:00
+157,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+157,Blend Tank,2024-01-01 13:00:00
+157,Anaerobic Digester,2024-01-01 14:00:00
+158,Coarse Screens,2024-01-01 08:00:00
+158,Fine Screens,2024-01-01 09:00:00
+158,Primary Clarifiers,2024-01-01 10:00:00
+158,Bio-reactor Tanks,2024-01-01 11:00:00
+158,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+158,Blend Tank,2024-01-01 13:00:00
+158,Anaerobic Digester,2024-01-01 14:00:00
+159,Coarse Screens,2024-01-01 08:00:00
+159,Fine Screens,2024-01-01 09:00:00
+159,Primary Clarifiers,2024-01-01 10:00:00
+159,Bio-reactor Tanks,2024-01-01 11:00:00
+159,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+159,Blend Tank,2024-01-01 13:00:00
+159,Anaerobic Digester,2024-01-01 14:00:00
+160,Coarse Screens,2024-01-01 08:00:00
+160,Fine Screens,2024-01-01 09:00:00
+160,Primary Clarifiers,2024-01-01 10:00:00
+160,Bio-reactor Tanks,2024-01-01 11:00:00
+160,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+160,Blend Tank,2024-01-01 13:00:00
+160,Anaerobic Digester,2024-01-01 14:00:00
+161,Coarse Screens,2024-01-01 08:00:00
+161,Fine Screens,2024-01-01 09:00:00
+161,Primary Clarifiers,2024-01-01 10:00:00
+161,Bio-reactor Tanks,2024-01-01 11:00:00
+161,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+161,Blend Tank,2024-01-01 13:00:00
+161,Anaerobic Digester,2024-01-01 14:00:00
+162,Coarse Screens,2024-01-01 08:00:00
+162,Fine Screens,2024-01-01 09:00:00
+162,Primary Clarifiers,2024-01-01 10:00:00
+162,Bio-reactor Tanks,2024-01-01 11:00:00
+162,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+162,Blend Tank,2024-01-01 13:00:00
+162,Anaerobic Digester,2024-01-01 14:00:00
+163,Coarse Screens,2024-01-01 08:00:00
+163,Fine Screens,2024-01-01 09:00:00
+163,Primary Clarifiers,2024-01-01 10:00:00
+163,Bio-reactor Tanks,2024-01-01 11:00:00
+163,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+163,Blend Tank,2024-01-01 13:00:00
+163,Anaerobic Digester,2024-01-01 14:00:00
+164,Coarse Screens,2024-01-01 08:00:00
+164,Fine Screens,2024-01-01 09:00:00
+164,Primary Clarifiers,2024-01-01 10:00:00
+164,Bio-reactor Tanks,2024-01-01 11:00:00
+164,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+164,Blend Tank,2024-01-01 13:00:00
+164,Anaerobic Digester,2024-01-01 14:00:00
+165,Coarse Screens,2024-01-01 08:00:00
+165,Fine Screens,2024-01-01 09:00:00
+165,Primary Clarifiers,2024-01-01 10:00:00
+165,Bio-reactor Tanks,2024-01-01 11:00:00
+165,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+165,Blend Tank,2024-01-01 13:00:00
+165,Anaerobic Digester,2024-01-01 14:00:00
+166,Coarse Screens,2024-01-01 08:00:00
+166,Fine Screens,2024-01-01 09:00:00
+166,Primary Clarifiers,2024-01-01 10:00:00
+166,Sludge Grinder,2024-01-01 11:00:00
+166,Blend Tank,2024-01-01 12:00:00
+166,Anaerobic Digester,2024-01-01 13:00:00
+166,Storage Tank,2024-01-01 14:00:00
+166,Disposal to Landfill,2024-01-01 15:00:00
+167,Coarse Screens,2024-01-01 08:00:00
+167,Fine Screens,2024-01-01 09:00:00
+167,Primary Clarifiers,2024-01-01 10:00:00
+167,Sludge Grinder,2024-01-01 11:00:00
+167,Blend Tank,2024-01-01 12:00:00
+167,Anaerobic Digester,2024-01-01 13:00:00
+167,Storage Tank,2024-01-01 14:00:00
+167,Disposal to Landfill,2024-01-01 15:00:00
+168,Coarse Screens,2024-01-01 08:00:00
+168,Fine Screens,2024-01-01 09:00:00
+168,Primary Clarifiers,2024-01-01 10:00:00
+168,Sludge Grinder,2024-01-01 11:00:00
+168,Blend Tank,2024-01-01 12:00:00
+168,Anaerobic Digester,2024-01-01 13:00:00
+168,Storage Tank,2024-01-01 14:00:00
+168,Disposal to Landfill,2024-01-01 15:00:00
+169,Coarse Screens,2024-01-01 08:00:00
+169,Fine Screens,2024-01-01 09:00:00
+169,Primary Clarifiers,2024-01-01 10:00:00
+169,Sludge Grinder,2024-01-01 11:00:00
+169,Blend Tank,2024-01-01 12:00:00
+169,Anaerobic Digester,2024-01-01 13:00:00
+169,Storage Tank,2024-01-01 14:00:00
+169,Disposal to Landfill,2024-01-01 15:00:00
+170,Coarse Screens,2024-01-01 08:00:00
+170,Fine Screens,2024-01-01 09:00:00
+170,Primary Clarifiers,2024-01-01 10:00:00
+170,Sludge Grinder,2024-01-01 11:00:00
+170,Blend Tank,2024-01-01 12:00:00
+170,Anaerobic Digester,2024-01-01 13:00:00
+170,Storage Tank,2024-01-01 14:00:00
+170,Disposal to Landfill,2024-01-01 15:00:00
+171,Coarse Screens,2024-01-01 08:00:00
+171,Fine Screens,2024-01-01 09:00:00
+171,Primary Clarifiers,2024-01-01 10:00:00
+171,Sludge Grinder,2024-01-01 11:00:00
+171,Blend Tank,2024-01-01 12:00:00
+171,Anaerobic Digester,2024-01-01 13:00:00
+171,Storage Tank,2024-01-01 14:00:00
+171,Disposal to Landfill,2024-01-01 15:00:00
+172,Coarse Screens,2024-01-01 08:00:00
+172,Fine Screens,2024-01-01 09:00:00
+172,Primary Clarifiers,2024-01-01 10:00:00
+172,Sludge Grinder,2024-01-01 11:00:00
+172,Blend Tank,2024-01-01 12:00:00
+172,Anaerobic Digester,2024-01-01 13:00:00
+172,Storage Tank,2024-01-01 14:00:00
+172,Disposal to Landfill,2024-01-01 15:00:00
+173,Coarse Screens,2024-01-01 08:00:00
+173,Fine Screens,2024-01-01 09:00:00
+173,Primary Clarifiers,2024-01-01 10:00:00
+173,Sludge Grinder,2024-01-01 11:00:00
+173,Blend Tank,2024-01-01 12:00:00
+173,Anaerobic Digester,2024-01-01 13:00:00
+173,Storage Tank,2024-01-01 14:00:00
+173,Disposal to Landfill,2024-01-01 15:00:00
+174,Coarse Screens,2024-01-01 08:00:00
+174,Fine Screens,2024-01-01 09:00:00
+174,Primary Clarifiers,2024-01-01 10:00:00
+174,Sludge Grinder,2024-01-01 11:00:00
+174,Blend Tank,2024-01-01 12:00:00
+174,Anaerobic Digester,2024-01-01 13:00:00
+174,Storage Tank,2024-01-01 14:00:00
+174,Disposal to Landfill,2024-01-01 15:00:00
+175,Coarse Screens,2024-01-01 08:00:00
+175,Fine Screens,2024-01-01 09:00:00
+175,Primary Clarifiers,2024-01-01 10:00:00
+175,Sludge Grinder,2024-01-01 11:00:00
+175,Blend Tank,2024-01-01 12:00:00
+175,Anaerobic Digester,2024-01-01 13:00:00
+175,Storage Tank,2024-01-01 14:00:00
+175,Disposal to Landfill,2024-01-01 15:00:00
+176,Coarse Screens,2024-01-01 08:00:00
+176,Fine Screens,2024-01-01 09:00:00
+176,Primary Clarifiers,2024-01-01 10:00:00
+176,Sludge Grinder,2024-01-01 11:00:00
+176,Blend Tank,2024-01-01 12:00:00
+176,Anaerobic Digester,2024-01-01 13:00:00
+176,Storage Tank,2024-01-01 14:00:00
+176,Disposal to Landfill,2024-01-01 15:00:00
+177,Coarse Screens,2024-01-01 08:00:00
+177,Fine Screens,2024-01-01 09:00:00
+177,Primary Clarifiers,2024-01-01 10:00:00
+177,Sludge Grinder,2024-01-01 11:00:00
+177,Blend Tank,2024-01-01 12:00:00
+177,Anaerobic Digester,2024-01-01 13:00:00
+177,Storage Tank,2024-01-01 14:00:00
+177,Disposal to Landfill,2024-01-01 15:00:00
+178,Coarse Screens,2024-01-01 08:00:00
+178,Fine Screens,2024-01-01 09:00:00
+178,Primary Clarifiers,2024-01-01 10:00:00
+178,Sludge Grinder,2024-01-01 11:00:00
+178,Blend Tank,2024-01-01 12:00:00
+178,Anaerobic Digester,2024-01-01 13:00:00
+178,Storage Tank,2024-01-01 14:00:00
+178,Disposal to Landfill,2024-01-01 15:00:00
+179,Coarse Screens,2024-01-01 08:00:00
+179,Fine Screens,2024-01-01 09:00:00
+179,Primary Clarifiers,2024-01-01 10:00:00
+179,Sludge Grinder,2024-01-01 11:00:00
+179,Blend Tank,2024-01-01 12:00:00
+179,Anaerobic Digester,2024-01-01 13:00:00
+179,Storage Tank,2024-01-01 14:00:00
+179,Disposal to Landfill,2024-01-01 15:00:00
+180,Coarse Screens,2024-01-01 08:00:00
+180,Fine Screens,2024-01-01 09:00:00
+180,Primary Clarifiers,2024-01-01 10:00:00
+180,Sludge Grinder,2024-01-01 11:00:00
+180,Blend Tank,2024-01-01 12:00:00
+180,Anaerobic Digester,2024-01-01 13:00:00
+180,Storage Tank,2024-01-01 14:00:00
+180,Disposal to Landfill,2024-01-01 15:00:00
+181,Coarse Screens,2024-01-01 08:00:00
+181,Fine Screens,2024-01-01 09:00:00
+181,Primary Clarifiers,2024-01-01 10:00:00
+181,Sludge Grinder,2024-01-01 11:00:00
+181,Blend Tank,2024-01-01 12:00:00
+181,Anaerobic Digester,2024-01-01 13:00:00
+181,Storage Tank,2024-01-01 14:00:00
+181,Disposal to Landfill,2024-01-01 15:00:00
+182,Coarse Screens,2024-01-01 08:00:00
+182,Fine Screens,2024-01-01 09:00:00
+182,Primary Clarifiers,2024-01-01 10:00:00
+182,Sludge Grinder,2024-01-01 11:00:00
+182,Blend Tank,2024-01-01 12:00:00
+182,Anaerobic Digester,2024-01-01 13:00:00
+182,Storage Tank,2024-01-01 14:00:00
+182,Disposal to Landfill,2024-01-01 15:00:00
+183,Coarse Screens,2024-01-01 08:00:00
+183,Fine Screens,2024-01-01 09:00:00
+183,Primary Clarifiers,2024-01-01 10:00:00
+183,Sludge Grinder,2024-01-01 11:00:00
+183,Blend Tank,2024-01-01 12:00:00
+183,Anaerobic Digester,2024-01-01 13:00:00
+183,Storage Tank,2024-01-01 14:00:00
+183,Disposal to Landfill,2024-01-01 15:00:00
+184,Coarse Screens,2024-01-01 08:00:00
+184,Fine Screens,2024-01-01 09:00:00
+184,Primary Clarifiers,2024-01-01 10:00:00
+184,Sludge Grinder,2024-01-01 11:00:00
+184,Blend Tank,2024-01-01 12:00:00
+184,Anaerobic Digester,2024-01-01 13:00:00
+184,Storage Tank,2024-01-01 14:00:00
+184,Disposal to Landfill,2024-01-01 15:00:00
+185,Coarse Screens,2024-01-01 08:00:00
+185,Fine Screens,2024-01-01 09:00:00
+185,Primary Clarifiers,2024-01-01 10:00:00
+185,Sludge Grinder,2024-01-01 11:00:00
+185,Blend Tank,2024-01-01 12:00:00
+185,Anaerobic Digester,2024-01-01 13:00:00
+185,Storage Tank,2024-01-01 14:00:00
+185,Disposal to Landfill,2024-01-01 15:00:00
+186,Coarse Screens,2024-01-01 08:00:00
+186,Fine Screens,2024-01-01 09:00:00
+186,Primary Clarifiers,2024-01-01 10:00:00
+186,Sludge Grinder,2024-01-01 11:00:00
+186,Blend Tank,2024-01-01 12:00:00
+186,Anaerobic Digester,2024-01-01 13:00:00
+186,Storage Tank,2024-01-01 14:00:00
+186,Disposal to Landfill,2024-01-01 15:00:00
+187,Coarse Screens,2024-01-01 08:00:00
+187,Fine Screens,2024-01-01 09:00:00
+187,Primary Clarifiers,2024-01-01 10:00:00
+187,Sludge Grinder,2024-01-01 11:00:00
+187,Blend Tank,2024-01-01 12:00:00
+187,Anaerobic Digester,2024-01-01 13:00:00
+187,Storage Tank,2024-01-01 14:00:00
+187,Disposal to Landfill,2024-01-01 15:00:00
+188,Coarse Screens,2024-01-01 08:00:00
+188,Fine Screens,2024-01-01 09:00:00
+188,Primary Clarifiers,2024-01-01 10:00:00
+188,Sludge Grinder,2024-01-01 11:00:00
+188,Blend Tank,2024-01-01 12:00:00
+188,Anaerobic Digester,2024-01-01 13:00:00
+188,Storage Tank,2024-01-01 14:00:00
+188,Disposal to Landfill,2024-01-01 15:00:00
+189,Coarse Screens,2024-01-01 08:00:00
+189,Fine Screens,2024-01-01 09:00:00
+189,Primary Clarifiers,2024-01-01 10:00:00
+189,Sludge Grinder,2024-01-01 11:00:00
+189,Blend Tank,2024-01-01 12:00:00
+189,Anaerobic Digester,2024-01-01 13:00:00
+189,Storage Tank,2024-01-01 14:00:00
+189,Disposal to Landfill,2024-01-01 15:00:00
+190,Coarse Screens,2024-01-01 08:00:00
+190,Fine Screens,2024-01-01 09:00:00
+190,Primary Clarifiers,2024-01-01 10:00:00
+190,Sludge Grinder,2024-01-01 11:00:00
+190,Blend Tank,2024-01-01 12:00:00
+190,Anaerobic Digester,2024-01-01 13:00:00
+190,Storage Tank,2024-01-01 14:00:00
+190,Disposal to Landfill,2024-01-01 15:00:00
+191,Coarse Screens,2024-01-01 08:00:00
+191,Fine Screens,2024-01-01 09:00:00
+191,Primary Clarifiers,2024-01-01 10:00:00
+191,Sludge Grinder,2024-01-01 11:00:00
+191,Blend Tank,2024-01-01 12:00:00
+191,Anaerobic Digester,2024-01-01 13:00:00
+191,Storage Tank,2024-01-01 14:00:00
+191,Disposal to Landfill,2024-01-01 15:00:00
+192,Coarse Screens,2024-01-01 08:00:00
+192,Fine Screens,2024-01-01 09:00:00
+192,Primary Clarifiers,2024-01-01 10:00:00
+192,Sludge Grinder,2024-01-01 11:00:00
+192,Blend Tank,2024-01-01 12:00:00
+192,Anaerobic Digester,2024-01-01 13:00:00
+192,Storage Tank,2024-01-01 14:00:00
+192,Disposal to Landfill,2024-01-01 15:00:00
+193,Coarse Screens,2024-01-01 08:00:00
+193,Fine Screens,2024-01-01 09:00:00
+193,Primary Clarifiers,2024-01-01 10:00:00
+193,Sludge Grinder,2024-01-01 11:00:00
+193,Blend Tank,2024-01-01 12:00:00
+193,Anaerobic Digester,2024-01-01 13:00:00
+193,Storage Tank,2024-01-01 14:00:00
+193,Disposal to Landfill,2024-01-01 15:00:00
+194,Coarse Screens,2024-01-01 08:00:00
+194,Fine Screens,2024-01-01 09:00:00
+194,Primary Clarifiers,2024-01-01 10:00:00
+194,Sludge Grinder,2024-01-01 11:00:00
+194,Blend Tank,2024-01-01 12:00:00
+194,Anaerobic Digester,2024-01-01 13:00:00
+194,Storage Tank,2024-01-01 14:00:00
+194,Disposal to Landfill,2024-01-01 15:00:00
+195,Coarse Screens,2024-01-01 08:00:00
+195,Fine Screens,2024-01-01 09:00:00
+195,Primary Clarifiers,2024-01-01 10:00:00
+195,Sludge Grinder,2024-01-01 11:00:00
+195,Blend Tank,2024-01-01 12:00:00
+195,Anaerobic Digester,2024-01-01 13:00:00
+195,Storage Tank,2024-01-01 14:00:00
+195,Disposal to Landfill,2024-01-01 15:00:00
+196,Coarse Screens,2024-01-01 08:00:00
+196,Fine Screens,2024-01-01 09:00:00
+196,Primary Clarifiers,2024-01-01 10:00:00
+196,Sludge Grinder,2024-01-01 11:00:00
+196,Blend Tank,2024-01-01 12:00:00
+196,Anaerobic Digester,2024-01-01 13:00:00
+196,Storage Tank,2024-01-01 14:00:00
+196,Disposal to Landfill,2024-01-01 15:00:00
+197,Coarse Screens,2024-01-01 08:00:00
+197,Fine Screens,2024-01-01 09:00:00
+197,Primary Clarifiers,2024-01-01 10:00:00
+197,Sludge Grinder,2024-01-01 11:00:00
+197,Blend Tank,2024-01-01 12:00:00
+197,Anaerobic Digester,2024-01-01 13:00:00
+197,Storage Tank,2024-01-01 14:00:00
+197,Disposal to Landfill,2024-01-01 15:00:00
+198,Coarse Screens,2024-01-01 08:00:00
+198,Fine Screens,2024-01-01 09:00:00
+198,Primary Clarifiers,2024-01-01 10:00:00
+198,Sludge Grinder,2024-01-01 11:00:00
+198,Blend Tank,2024-01-01 12:00:00
+198,Anaerobic Digester,2024-01-01 13:00:00
+198,Storage Tank,2024-01-01 14:00:00
+198,Disposal to Landfill,2024-01-01 15:00:00
+199,Coarse Screens,2024-01-01 08:00:00
+199,Fine Screens,2024-01-01 09:00:00
+199,Primary Clarifiers,2024-01-01 10:00:00
+199,Sludge Grinder,2024-01-01 11:00:00
+199,Blend Tank,2024-01-01 12:00:00
+199,Anaerobic Digester,2024-01-01 13:00:00
+199,Storage Tank,2024-01-01 14:00:00
+199,Disposal to Landfill,2024-01-01 15:00:00
+200,Coarse Screens,2024-01-01 08:00:00
+200,Fine Screens,2024-01-01 09:00:00
+200,Primary Clarifiers,2024-01-01 10:00:00
+200,Sludge Grinder,2024-01-01 11:00:00
+200,Blend Tank,2024-01-01 12:00:00
+200,Anaerobic Digester,2024-01-01 13:00:00
+200,Storage Tank,2024-01-01 14:00:00
+200,Disposal to Landfill,2024-01-01 15:00:00
+201,Coarse Screens,2024-01-01 08:00:00
+201,Fine Screens,2024-01-01 09:00:00
+201,Primary Clarifiers,2024-01-01 10:00:00
+201,Sludge Grinder,2024-01-01 11:00:00
+201,Blend Tank,2024-01-01 12:00:00
+201,Anaerobic Digester,2024-01-01 13:00:00
+201,Storage Tank,2024-01-01 14:00:00
+201,Disposal to Landfill,2024-01-01 15:00:00
+202,Coarse Screens,2024-01-01 08:00:00
+202,Fine Screens,2024-01-01 09:00:00
+202,Primary Clarifiers,2024-01-01 10:00:00
+202,Sludge Grinder,2024-01-01 11:00:00
+202,Blend Tank,2024-01-01 12:00:00
+202,Anaerobic Digester,2024-01-01 13:00:00
+202,Storage Tank,2024-01-01 14:00:00
+202,Disposal to Landfill,2024-01-01 15:00:00
+203,Coarse Screens,2024-01-01 08:00:00
+203,Fine Screens,2024-01-01 09:00:00
+203,Primary Clarifiers,2024-01-01 10:00:00
+203,Sludge Grinder,2024-01-01 11:00:00
+203,Blend Tank,2024-01-01 12:00:00
+203,Anaerobic Digester,2024-01-01 13:00:00
+203,Storage Tank,2024-01-01 14:00:00
+203,Disposal to Landfill,2024-01-01 15:00:00
+204,Coarse Screens,2024-01-01 08:00:00
+204,Fine Screens,2024-01-01 09:00:00
+204,Primary Clarifiers,2024-01-01 10:00:00
+204,Sludge Grinder,2024-01-01 11:00:00
+204,Blend Tank,2024-01-01 12:00:00
+204,Anaerobic Digester,2024-01-01 13:00:00
+204,Storage Tank,2024-01-01 14:00:00
+204,Disposal to Landfill,2024-01-01 15:00:00
+205,Coarse Screens,2024-01-01 08:00:00
+205,Fine Screens,2024-01-01 09:00:00
+205,Primary Clarifiers,2024-01-01 10:00:00
+205,Sludge Grinder,2024-01-01 11:00:00
+205,Blend Tank,2024-01-01 12:00:00
+205,Anaerobic Digester,2024-01-01 13:00:00
+205,Storage Tank,2024-01-01 14:00:00
+205,Disposal to Landfill,2024-01-01 15:00:00
+206,Coarse Screens,2024-01-01 08:00:00
+206,Fine Screens,2024-01-01 09:00:00
+206,Primary Clarifiers,2024-01-01 10:00:00
+206,Sludge Grinder,2024-01-01 11:00:00
+206,Blend Tank,2024-01-01 12:00:00
+206,Anaerobic Digester,2024-01-01 13:00:00
+206,Storage Tank,2024-01-01 14:00:00
+206,Disposal to Landfill,2024-01-01 15:00:00
+207,Coarse Screens,2024-01-01 08:00:00
+207,Fine Screens,2024-01-01 09:00:00
+207,Primary Clarifiers,2024-01-01 10:00:00
+207,Sludge Grinder,2024-01-01 11:00:00
+207,Blend Tank,2024-01-01 12:00:00
+207,Anaerobic Digester,2024-01-01 13:00:00
+207,Storage Tank,2024-01-01 14:00:00
+207,Disposal to Landfill,2024-01-01 15:00:00
+208,Coarse Screens,2024-01-01 08:00:00
+208,Fine Screens,2024-01-01 09:00:00
+208,Primary Clarifiers,2024-01-01 10:00:00
+208,Sludge Grinder,2024-01-01 11:00:00
+208,Blend Tank,2024-01-01 12:00:00
+208,Anaerobic Digester,2024-01-01 13:00:00
+208,Storage Tank,2024-01-01 14:00:00
+208,Disposal to Landfill,2024-01-01 15:00:00
+209,Coarse Screens,2024-01-01 08:00:00
+209,Fine Screens,2024-01-01 09:00:00
+209,Primary Clarifiers,2024-01-01 10:00:00
+209,Sludge Grinder,2024-01-01 11:00:00
+209,Blend Tank,2024-01-01 12:00:00
+209,Anaerobic Digester,2024-01-01 13:00:00
+209,Storage Tank,2024-01-01 14:00:00
+209,Disposal to Landfill,2024-01-01 15:00:00
+210,Coarse Screens,2024-01-01 08:00:00
+210,Fine Screens,2024-01-01 09:00:00
+210,Primary Clarifiers,2024-01-01 10:00:00
+210,Sludge Grinder,2024-01-01 11:00:00
+210,Blend Tank,2024-01-01 12:00:00
+210,Anaerobic Digester,2024-01-01 13:00:00
+210,Storage Tank,2024-01-01 14:00:00
+210,Disposal to Landfill,2024-01-01 15:00:00
+211,Coarse Screens,2024-01-01 08:00:00
+211,Fine Screens,2024-01-01 09:00:00
+211,Primary Clarifiers,2024-01-01 10:00:00
+211,Sludge Grinder,2024-01-01 11:00:00
+211,Blend Tank,2024-01-01 12:00:00
+211,Anaerobic Digester,2024-01-01 13:00:00
+211,Storage Tank,2024-01-01 14:00:00
+211,Disposal to Landfill,2024-01-01 15:00:00
+212,Coarse Screens,2024-01-01 08:00:00
+212,Fine Screens,2024-01-01 09:00:00
+212,Primary Clarifiers,2024-01-01 10:00:00
+212,Sludge Grinder,2024-01-01 11:00:00
+212,Blend Tank,2024-01-01 12:00:00
+212,Anaerobic Digester,2024-01-01 13:00:00
+212,Storage Tank,2024-01-01 14:00:00
+212,Disposal to Landfill,2024-01-01 15:00:00
+213,Coarse Screens,2024-01-01 08:00:00
+213,Fine Screens,2024-01-01 09:00:00
+213,Primary Clarifiers,2024-01-01 10:00:00
+213,Sludge Grinder,2024-01-01 11:00:00
+213,Blend Tank,2024-01-01 12:00:00
+213,Anaerobic Digester,2024-01-01 13:00:00
+213,Storage Tank,2024-01-01 14:00:00
+213,Disposal to Landfill,2024-01-01 15:00:00
+214,Coarse Screens,2024-01-01 08:00:00
+214,Fine Screens,2024-01-01 09:00:00
+214,Primary Clarifiers,2024-01-01 10:00:00
+214,Sludge Grinder,2024-01-01 11:00:00
+214,Blend Tank,2024-01-01 12:00:00
+214,Anaerobic Digester,2024-01-01 13:00:00
+214,Storage Tank,2024-01-01 14:00:00
+214,Disposal to Landfill,2024-01-01 15:00:00
+215,Coarse Screens,2024-01-01 08:00:00
+215,Fine Screens,2024-01-01 09:00:00
+215,Primary Clarifiers,2024-01-01 10:00:00
+215,Sludge Grinder,2024-01-01 11:00:00
+215,Blend Tank,2024-01-01 12:00:00
+215,Anaerobic Digester,2024-01-01 13:00:00
+215,Storage Tank,2024-01-01 14:00:00
+215,Disposal to Landfill,2024-01-01 15:00:00
+216,Coarse Screens,2024-01-01 08:00:00
+216,Fine Screens,2024-01-01 09:00:00
+216,Primary Clarifiers,2024-01-01 10:00:00
+216,Sludge Grinder,2024-01-01 11:00:00
+216,Blend Tank,2024-01-01 12:00:00
+216,Anaerobic Digester,2024-01-01 13:00:00
+216,Storage Tank,2024-01-01 14:00:00
+216,Disposal to Landfill,2024-01-01 15:00:00
+217,Coarse Screens,2024-01-01 08:00:00
+217,Fine Screens,2024-01-01 09:00:00
+217,Primary Clarifiers,2024-01-01 10:00:00
+217,Sludge Grinder,2024-01-01 11:00:00
+217,Blend Tank,2024-01-01 12:00:00
+217,Anaerobic Digester,2024-01-01 13:00:00
+217,Storage Tank,2024-01-01 14:00:00
+217,Disposal to Landfill,2024-01-01 15:00:00
+218,Coarse Screens,2024-01-01 08:00:00
+218,Fine Screens,2024-01-01 09:00:00
+218,Primary Clarifiers,2024-01-01 10:00:00
+218,Sludge Grinder,2024-01-01 11:00:00
+218,Blend Tank,2024-01-01 12:00:00
+218,Anaerobic Digester,2024-01-01 13:00:00
+218,Storage Tank,2024-01-01 14:00:00
+218,Disposal to Landfill,2024-01-01 15:00:00
+219,Coarse Screens,2024-01-01 08:00:00
+219,Fine Screens,2024-01-01 09:00:00
+219,Primary Clarifiers,2024-01-01 10:00:00
+219,Sludge Grinder,2024-01-01 11:00:00
+219,Blend Tank,2024-01-01 12:00:00
+219,Anaerobic Digester,2024-01-01 13:00:00
+219,Storage Tank,2024-01-01 14:00:00
+219,Disposal to Landfill,2024-01-01 15:00:00
+220,Coarse Screens,2024-01-01 08:00:00
+220,Fine Screens,2024-01-01 09:00:00
+220,Primary Clarifiers,2024-01-01 10:00:00
+220,Sludge Grinder,2024-01-01 11:00:00
+220,Blend Tank,2024-01-01 12:00:00
+220,Anaerobic Digester,2024-01-01 13:00:00
+220,Storage Tank,2024-01-01 14:00:00
+220,Disposal to Landfill,2024-01-01 15:00:00
+221,Coarse Screens,2024-01-01 08:00:00
+221,Fine Screens,2024-01-01 09:00:00
+221,Primary Clarifiers,2024-01-01 10:00:00
+221,Sludge Grinder,2024-01-01 11:00:00
+221,Blend Tank,2024-01-01 12:00:00
+221,Anaerobic Digester,2024-01-01 13:00:00
+221,Storage Tank,2024-01-01 14:00:00
+221,Disposal to Landfill,2024-01-01 15:00:00
+222,Coarse Screens,2024-01-01 08:00:00
+222,Fine Screens,2024-01-01 09:00:00
+222,Primary Clarifiers,2024-01-01 10:00:00
+222,Sludge Grinder,2024-01-01 11:00:00
+222,Blend Tank,2024-01-01 12:00:00
+222,Anaerobic Digester,2024-01-01 13:00:00
+222,Storage Tank,2024-01-01 14:00:00
+222,Disposal to Landfill,2024-01-01 15:00:00
+223,Coarse Screens,2024-01-01 08:00:00
+223,Fine Screens,2024-01-01 09:00:00
+223,Primary Clarifiers,2024-01-01 10:00:00
+223,Sludge Grinder,2024-01-01 11:00:00
+223,Blend Tank,2024-01-01 12:00:00
+223,Anaerobic Digester,2024-01-01 13:00:00
+223,Storage Tank,2024-01-01 14:00:00
+223,Disposal to Landfill,2024-01-01 15:00:00
+224,Coarse Screens,2024-01-01 08:00:00
+224,Fine Screens,2024-01-01 09:00:00
+224,Primary Clarifiers,2024-01-01 10:00:00
+224,Sludge Grinder,2024-01-01 11:00:00
+224,Blend Tank,2024-01-01 12:00:00
+224,Anaerobic Digester,2024-01-01 13:00:00
+224,Storage Tank,2024-01-01 14:00:00
+224,Disposal to Landfill,2024-01-01 15:00:00
+225,Coarse Screens,2024-01-01 08:00:00
+225,Fine Screens,2024-01-01 09:00:00
+225,Primary Clarifiers,2024-01-01 10:00:00
+225,Sludge Grinder,2024-01-01 11:00:00
+225,Blend Tank,2024-01-01 12:00:00
+225,Anaerobic Digester,2024-01-01 13:00:00
+225,Storage Tank,2024-01-01 14:00:00
+225,Disposal to Landfill,2024-01-01 15:00:00
+226,Coarse Screens,2024-01-01 08:00:00
+226,Fine Screens,2024-01-01 09:00:00
+226,Primary Clarifiers,2024-01-01 10:00:00
+226,Sludge Grinder,2024-01-01 11:00:00
+226,Blend Tank,2024-01-01 12:00:00
+226,Anaerobic Digester,2024-01-01 13:00:00
+226,Storage Tank,2024-01-01 14:00:00
+226,Disposal to Landfill,2024-01-01 15:00:00
+227,Coarse Screens,2024-01-01 08:00:00
+227,Fine Screens,2024-01-01 09:00:00
+227,Primary Clarifiers,2024-01-01 10:00:00
+227,Sludge Grinder,2024-01-01 11:00:00
+227,Blend Tank,2024-01-01 12:00:00
+227,Anaerobic Digester,2024-01-01 13:00:00
+227,Storage Tank,2024-01-01 14:00:00
+227,Disposal to Landfill,2024-01-01 15:00:00
+228,Coarse Screens,2024-01-01 08:00:00
+228,Fine Screens,2024-01-01 09:00:00
+228,Primary Clarifiers,2024-01-01 10:00:00
+228,Sludge Grinder,2024-01-01 11:00:00
+228,Blend Tank,2024-01-01 12:00:00
+228,Anaerobic Digester,2024-01-01 13:00:00
+228,Storage Tank,2024-01-01 14:00:00
+228,Disposal to Landfill,2024-01-01 15:00:00
+229,Coarse Screens,2024-01-01 08:00:00
+229,Fine Screens,2024-01-01 09:00:00
+229,Primary Clarifiers,2024-01-01 10:00:00
+229,Sludge Grinder,2024-01-01 11:00:00
+229,Blend Tank,2024-01-01 12:00:00
+229,Anaerobic Digester,2024-01-01 13:00:00
+229,Storage Tank,2024-01-01 14:00:00
+229,Disposal to Landfill,2024-01-01 15:00:00
+230,Coarse Screens,2024-01-01 08:00:00
+230,Fine Screens,2024-01-01 09:00:00
+230,Primary Clarifiers,2024-01-01 10:00:00
+230,Sludge Grinder,2024-01-01 11:00:00
+230,Blend Tank,2024-01-01 12:00:00
+230,Anaerobic Digester,2024-01-01 13:00:00
+230,Storage Tank,2024-01-01 14:00:00
+230,Disposal to Landfill,2024-01-01 15:00:00
+231,Coarse Screens,2024-01-01 08:00:00
+231,Fine Screens,2024-01-01 09:00:00
+231,Primary Clarifiers,2024-01-01 10:00:00
+231,Sludge Grinder,2024-01-01 11:00:00
+231,Blend Tank,2024-01-01 12:00:00
+231,Anaerobic Digester,2024-01-01 13:00:00
+231,Storage Tank,2024-01-01 14:00:00
+231,Disposal to Landfill,2024-01-01 15:00:00
+232,Coarse Screens,2024-01-01 08:00:00
+232,Fine Screens,2024-01-01 09:00:00
+232,Primary Clarifiers,2024-01-01 10:00:00
+232,Sludge Grinder,2024-01-01 11:00:00
+232,Blend Tank,2024-01-01 12:00:00
+232,Anaerobic Digester,2024-01-01 13:00:00
+232,Storage Tank,2024-01-01 14:00:00
+232,Disposal to Landfill,2024-01-01 15:00:00
+233,Coarse Screens,2024-01-01 08:00:00
+233,Fine Screens,2024-01-01 09:00:00
+233,Primary Clarifiers,2024-01-01 10:00:00
+233,Sludge Grinder,2024-01-01 11:00:00
+233,Blend Tank,2024-01-01 12:00:00
+233,Anaerobic Digester,2024-01-01 13:00:00
+233,Storage Tank,2024-01-01 14:00:00
+233,Disposal to Landfill,2024-01-01 15:00:00
+234,Coarse Screens,2024-01-01 08:00:00
+234,Fine Screens,2024-01-01 09:00:00
+234,Primary Clarifiers,2024-01-01 10:00:00
+234,Sludge Grinder,2024-01-01 11:00:00
+234,Blend Tank,2024-01-01 12:00:00
+234,Anaerobic Digester,2024-01-01 13:00:00
+234,Storage Tank,2024-01-01 14:00:00
+234,Disposal to Landfill,2024-01-01 15:00:00
+235,Coarse Screens,2024-01-01 08:00:00
+235,Fine Screens,2024-01-01 09:00:00
+235,Primary Clarifiers,2024-01-01 10:00:00
+235,Sludge Grinder,2024-01-01 11:00:00
+235,Blend Tank,2024-01-01 12:00:00
+235,Anaerobic Digester,2024-01-01 13:00:00
+235,Storage Tank,2024-01-01 14:00:00
+235,Disposal to Landfill,2024-01-01 15:00:00
+236,Coarse Screens,2024-01-01 08:00:00
+236,Fine Screens,2024-01-01 09:00:00
+236,Primary Clarifiers,2024-01-01 10:00:00
+236,Sludge Grinder,2024-01-01 11:00:00
+236,Blend Tank,2024-01-01 12:00:00
+236,Anaerobic Digester,2024-01-01 13:00:00
+236,Storage Tank,2024-01-01 14:00:00
+236,Disposal to Landfill,2024-01-01 15:00:00
+237,Coarse Screens,2024-01-01 08:00:00
+237,Fine Screens,2024-01-01 09:00:00
+237,Primary Clarifiers,2024-01-01 10:00:00
+237,Sludge Grinder,2024-01-01 11:00:00
+237,Blend Tank,2024-01-01 12:00:00
+237,Anaerobic Digester,2024-01-01 13:00:00
+237,Storage Tank,2024-01-01 14:00:00
+237,Disposal to Landfill,2024-01-01 15:00:00
+238,Coarse Screens,2024-01-01 08:00:00
+238,Fine Screens,2024-01-01 09:00:00
+238,Primary Clarifiers,2024-01-01 10:00:00
+238,Sludge Grinder,2024-01-01 11:00:00
+238,Blend Tank,2024-01-01 12:00:00
+238,Anaerobic Digester,2024-01-01 13:00:00
+238,Storage Tank,2024-01-01 14:00:00
+238,Disposal to Landfill,2024-01-01 15:00:00
+239,Coarse Screens,2024-01-01 08:00:00
+239,Fine Screens,2024-01-01 09:00:00
+239,Primary Clarifiers,2024-01-01 10:00:00
+239,Sludge Grinder,2024-01-01 11:00:00
+239,Blend Tank,2024-01-01 12:00:00
+239,Anaerobic Digester,2024-01-01 13:00:00
+239,Storage Tank,2024-01-01 14:00:00
+239,Disposal to Landfill,2024-01-01 15:00:00
+240,Coarse Screens,2024-01-01 08:00:00
+240,Fine Screens,2024-01-01 09:00:00
+240,Primary Clarifiers,2024-01-01 10:00:00
+240,Sludge Grinder,2024-01-01 11:00:00
+240,Blend Tank,2024-01-01 12:00:00
+240,Anaerobic Digester,2024-01-01 13:00:00
+240,Storage Tank,2024-01-01 14:00:00
+240,Disposal to Landfill,2024-01-01 15:00:00
+241,Coarse Screens,2024-01-01 08:00:00
+241,Fine Screens,2024-01-01 09:00:00
+241,Primary Clarifiers,2024-01-01 10:00:00
+241,Sludge Grinder,2024-01-01 11:00:00
+241,Blend Tank,2024-01-01 12:00:00
+241,Anaerobic Digester,2024-01-01 13:00:00
+241,Storage Tank,2024-01-01 14:00:00
+241,Disposal to Landfill,2024-01-01 15:00:00
+242,Coarse Screens,2024-01-01 08:00:00
+242,Fine Screens,2024-01-01 09:00:00
+242,Primary Clarifiers,2024-01-01 10:00:00
+242,Sludge Grinder,2024-01-01 11:00:00
+242,Blend Tank,2024-01-01 12:00:00
+242,Anaerobic Digester,2024-01-01 13:00:00
+242,Storage Tank,2024-01-01 14:00:00
+242,Disposal to Landfill,2024-01-01 15:00:00
+243,Coarse Screens,2024-01-01 08:00:00
+243,Fine Screens,2024-01-01 09:00:00
+243,Primary Clarifiers,2024-01-01 10:00:00
+243,Sludge Grinder,2024-01-01 11:00:00
+243,Blend Tank,2024-01-01 12:00:00
+243,Anaerobic Digester,2024-01-01 13:00:00
+243,Storage Tank,2024-01-01 14:00:00
+243,Disposal to Landfill,2024-01-01 15:00:00
+244,Coarse Screens,2024-01-01 08:00:00
+244,Fine Screens,2024-01-01 09:00:00
+244,Primary Clarifiers,2024-01-01 10:00:00
+244,Sludge Grinder,2024-01-01 11:00:00
+244,Blend Tank,2024-01-01 12:00:00
+244,Anaerobic Digester,2024-01-01 13:00:00
+244,Storage Tank,2024-01-01 14:00:00
+244,Disposal to Landfill,2024-01-01 15:00:00
+245,Coarse Screens,2024-01-01 08:00:00
+245,Fine Screens,2024-01-01 09:00:00
+245,Primary Clarifiers,2024-01-01 10:00:00
+245,Sludge Grinder,2024-01-01 11:00:00
+245,Blend Tank,2024-01-01 12:00:00
+245,Anaerobic Digester,2024-01-01 13:00:00
+245,Storage Tank,2024-01-01 14:00:00
+245,Disposal to Landfill,2024-01-01 15:00:00
+246,Coarse Screens,2024-01-01 08:00:00
+246,Fine Screens,2024-01-01 09:00:00
+246,Primary Clarifiers,2024-01-01 10:00:00
+246,Sludge Grinder,2024-01-01 11:00:00
+246,Blend Tank,2024-01-01 12:00:00
+246,Anaerobic Digester,2024-01-01 13:00:00
+246,Storage Tank,2024-01-01 14:00:00
+246,Disposal to Landfill,2024-01-01 15:00:00
+247,Coarse Screens,2024-01-01 08:00:00
+247,Fine Screens,2024-01-01 09:00:00
+247,Primary Clarifiers,2024-01-01 10:00:00
+247,Sludge Grinder,2024-01-01 11:00:00
+247,Blend Tank,2024-01-01 12:00:00
+247,Anaerobic Digester,2024-01-01 13:00:00
+247,Storage Tank,2024-01-01 14:00:00
+247,Disposal to Landfill,2024-01-01 15:00:00
+248,Coarse Screens,2024-01-01 08:00:00
+248,Fine Screens,2024-01-01 09:00:00
+248,Primary Clarifiers,2024-01-01 10:00:00
+248,Sludge Grinder,2024-01-01 11:00:00
+248,Blend Tank,2024-01-01 12:00:00
+248,Anaerobic Digester,2024-01-01 13:00:00
+248,Storage Tank,2024-01-01 14:00:00
+248,Disposal to Landfill,2024-01-01 15:00:00
+249,Coarse Screens,2024-01-01 08:00:00
+249,Fine Screens,2024-01-01 09:00:00
+249,Primary Clarifiers,2024-01-01 10:00:00
+249,Sludge Grinder,2024-01-01 11:00:00
+249,Blend Tank,2024-01-01 12:00:00
+249,Anaerobic Digester,2024-01-01 13:00:00
+249,Storage Tank,2024-01-01 14:00:00
+249,Disposal to Landfill,2024-01-01 15:00:00
+250,Coarse Screens,2024-01-01 08:00:00
+250,Fine Screens,2024-01-01 09:00:00
+250,Primary Clarifiers,2024-01-01 10:00:00
+250,Sludge Grinder,2024-01-01 11:00:00
+250,Blend Tank,2024-01-01 12:00:00
+250,Anaerobic Digester,2024-01-01 13:00:00
+250,Storage Tank,2024-01-01 14:00:00
+250,Disposal to Landfill,2024-01-01 15:00:00
+251,Coarse Screens,2024-01-01 08:00:00
+251,Fine Screens,2024-01-01 09:00:00
+251,Primary Clarifiers,2024-01-01 10:00:00
+251,Sludge Grinder,2024-01-01 11:00:00
+251,Blend Tank,2024-01-01 12:00:00
+251,Anaerobic Digester,2024-01-01 13:00:00
+251,Storage Tank,2024-01-01 14:00:00
+251,Disposal to Landfill,2024-01-01 15:00:00
+252,Coarse Screens,2024-01-01 08:00:00
+252,Fine Screens,2024-01-01 09:00:00
+252,Primary Clarifiers,2024-01-01 10:00:00
+252,Sludge Grinder,2024-01-01 11:00:00
+252,Blend Tank,2024-01-01 12:00:00
+252,Anaerobic Digester,2024-01-01 13:00:00
+252,Storage Tank,2024-01-01 14:00:00
+252,Disposal to Landfill,2024-01-01 15:00:00
+253,Coarse Screens,2024-01-01 08:00:00
+253,Fine Screens,2024-01-01 09:00:00
+253,Primary Clarifiers,2024-01-01 10:00:00
+253,Sludge Grinder,2024-01-01 11:00:00
+253,Blend Tank,2024-01-01 12:00:00
+253,Anaerobic Digester,2024-01-01 13:00:00
+253,Storage Tank,2024-01-01 14:00:00
+253,Disposal to Landfill,2024-01-01 15:00:00
+254,Coarse Screens,2024-01-01 08:00:00
+254,Fine Screens,2024-01-01 09:00:00
+254,Primary Clarifiers,2024-01-01 10:00:00
+254,Sludge Grinder,2024-01-01 11:00:00
+254,Blend Tank,2024-01-01 12:00:00
+254,Anaerobic Digester,2024-01-01 13:00:00
+254,Storage Tank,2024-01-01 14:00:00
+254,Disposal to Landfill,2024-01-01 15:00:00
+255,Coarse Screens,2024-01-01 08:00:00
+255,Fine Screens,2024-01-01 09:00:00
+255,Primary Clarifiers,2024-01-01 10:00:00
+255,Sludge Grinder,2024-01-01 11:00:00
+255,Blend Tank,2024-01-01 12:00:00
+255,Anaerobic Digester,2024-01-01 13:00:00
+255,Storage Tank,2024-01-01 14:00:00
+255,Disposal to Landfill,2024-01-01 15:00:00
+256,Coarse Screens,2024-01-01 08:00:00
+256,Fine Screens,2024-01-01 09:00:00
+256,Primary Clarifiers,2024-01-01 10:00:00
+256,Sludge Grinder,2024-01-01 11:00:00
+256,Blend Tank,2024-01-01 12:00:00
+256,Anaerobic Digester,2024-01-01 13:00:00
+256,Storage Tank,2024-01-01 14:00:00
+256,Disposal to Landfill,2024-01-01 15:00:00
+257,Coarse Screens,2024-01-01 08:00:00
+257,Fine Screens,2024-01-01 09:00:00
+257,Primary Clarifiers,2024-01-01 10:00:00
+257,Sludge Grinder,2024-01-01 11:00:00
+257,Blend Tank,2024-01-01 12:00:00
+257,Anaerobic Digester,2024-01-01 13:00:00
+257,Storage Tank,2024-01-01 14:00:00
+257,Disposal to Landfill,2024-01-01 15:00:00
+258,Coarse Screens,2024-01-01 08:00:00
+258,Fine Screens,2024-01-01 09:00:00
+258,Primary Clarifiers,2024-01-01 10:00:00
+258,Sludge Grinder,2024-01-01 11:00:00
+258,Blend Tank,2024-01-01 12:00:00
+258,Anaerobic Digester,2024-01-01 13:00:00
+258,Storage Tank,2024-01-01 14:00:00
+258,Disposal to Landfill,2024-01-01 15:00:00
+259,Coarse Screens,2024-01-01 08:00:00
+259,Fine Screens,2024-01-01 09:00:00
+259,Primary Clarifiers,2024-01-01 10:00:00
+259,Sludge Grinder,2024-01-01 11:00:00
+259,Blend Tank,2024-01-01 12:00:00
+259,Anaerobic Digester,2024-01-01 13:00:00
+259,Storage Tank,2024-01-01 14:00:00
+259,Disposal to Landfill,2024-01-01 15:00:00
+260,Coarse Screens,2024-01-01 08:00:00
+260,Fine Screens,2024-01-01 09:00:00
+260,Primary Clarifiers,2024-01-01 10:00:00
+260,Sludge Grinder,2024-01-01 11:00:00
+260,Blend Tank,2024-01-01 12:00:00
+260,Anaerobic Digester,2024-01-01 13:00:00
+260,Storage Tank,2024-01-01 14:00:00
+260,Disposal to Landfill,2024-01-01 15:00:00
+261,Coarse Screens,2024-01-01 08:00:00
+261,Fine Screens,2024-01-01 09:00:00
+261,Primary Clarifiers,2024-01-01 10:00:00
+261,Sludge Grinder,2024-01-01 11:00:00
+261,Blend Tank,2024-01-01 12:00:00
+261,Anaerobic Digester,2024-01-01 13:00:00
+261,Storage Tank,2024-01-01 14:00:00
+261,Disposal to Landfill,2024-01-01 15:00:00
+262,Coarse Screens,2024-01-01 08:00:00
+262,Fine Screens,2024-01-01 09:00:00
+262,Primary Clarifiers,2024-01-01 10:00:00
+262,Sludge Grinder,2024-01-01 11:00:00
+262,Blend Tank,2024-01-01 12:00:00
+262,Anaerobic Digester,2024-01-01 13:00:00
+262,Storage Tank,2024-01-01 14:00:00
+262,Disposal to Landfill,2024-01-01 15:00:00
+263,Coarse Screens,2024-01-01 08:00:00
+263,Fine Screens,2024-01-01 09:00:00
+263,Primary Clarifiers,2024-01-01 10:00:00
+263,Sludge Grinder,2024-01-01 11:00:00
+263,Blend Tank,2024-01-01 12:00:00
+263,Anaerobic Digester,2024-01-01 13:00:00
+263,Storage Tank,2024-01-01 14:00:00
+263,Disposal to Landfill,2024-01-01 15:00:00
+264,Coarse Screens,2024-01-01 08:00:00
+264,Fine Screens,2024-01-01 09:00:00
+264,Primary Clarifiers,2024-01-01 10:00:00
+264,Sludge Grinder,2024-01-01 11:00:00
+264,Blend Tank,2024-01-01 12:00:00
+264,Anaerobic Digester,2024-01-01 13:00:00
+264,Storage Tank,2024-01-01 14:00:00
+264,Disposal to Landfill,2024-01-01 15:00:00
+265,Coarse Screens,2024-01-01 08:00:00
+265,Fine Screens,2024-01-01 09:00:00
+265,Primary Clarifiers,2024-01-01 10:00:00
+265,Sludge Grinder,2024-01-01 11:00:00
+265,Blend Tank,2024-01-01 12:00:00
+265,Anaerobic Digester,2024-01-01 13:00:00
+265,Storage Tank,2024-01-01 14:00:00
+265,Disposal to Landfill,2024-01-01 15:00:00
+266,Coarse Screens,2024-01-01 08:00:00
+266,Fine Screens,2024-01-01 09:00:00
+266,Primary Clarifiers,2024-01-01 10:00:00
+266,Sludge Grinder,2024-01-01 11:00:00
+266,Blend Tank,2024-01-01 12:00:00
+266,Anaerobic Digester,2024-01-01 13:00:00
+267,Coarse Screens,2024-01-01 08:00:00
+267,Fine Screens,2024-01-01 09:00:00
+267,Primary Clarifiers,2024-01-01 10:00:00
+267,Sludge Grinder,2024-01-01 11:00:00
+267,Blend Tank,2024-01-01 12:00:00
+267,Anaerobic Digester,2024-01-01 13:00:00
+268,Coarse Screens,2024-01-01 08:00:00
+268,Fine Screens,2024-01-01 09:00:00
+268,Primary Clarifiers,2024-01-01 10:00:00
+268,Sludge Grinder,2024-01-01 11:00:00
+268,Blend Tank,2024-01-01 12:00:00
+268,Anaerobic Digester,2024-01-01 13:00:00
+269,Coarse Screens,2024-01-01 08:00:00
+269,Fine Screens,2024-01-01 09:00:00
+269,Primary Clarifiers,2024-01-01 10:00:00
+269,Sludge Grinder,2024-01-01 11:00:00
+269,Blend Tank,2024-01-01 12:00:00
+269,Anaerobic Digester,2024-01-01 13:00:00
+270,Coarse Screens,2024-01-01 08:00:00
+270,Fine Screens,2024-01-01 09:00:00
+270,Primary Clarifiers,2024-01-01 10:00:00
+270,Sludge Grinder,2024-01-01 11:00:00
+270,Blend Tank,2024-01-01 12:00:00
+270,Anaerobic Digester,2024-01-01 13:00:00
+271,Coarse Screens,2024-01-01 08:00:00
+271,Fine Screens,2024-01-01 09:00:00
+271,Primary Clarifiers,2024-01-01 10:00:00
+271,Sludge Grinder,2024-01-01 11:00:00
+271,Blend Tank,2024-01-01 12:00:00
+271,Anaerobic Digester,2024-01-01 13:00:00
+272,Coarse Screens,2024-01-01 08:00:00
+272,Fine Screens,2024-01-01 09:00:00
+272,Primary Clarifiers,2024-01-01 10:00:00
+272,Sludge Grinder,2024-01-01 11:00:00
+272,Blend Tank,2024-01-01 12:00:00
+272,Anaerobic Digester,2024-01-01 13:00:00
+273,Coarse Screens,2024-01-01 08:00:00
+273,Fine Screens,2024-01-01 09:00:00
+273,Primary Clarifiers,2024-01-01 10:00:00
+273,Sludge Grinder,2024-01-01 11:00:00
+273,Blend Tank,2024-01-01 12:00:00
+273,Anaerobic Digester,2024-01-01 13:00:00
+274,Coarse Screens,2024-01-01 08:00:00
+274,Fine Screens,2024-01-01 09:00:00
+274,Primary Clarifiers,2024-01-01 10:00:00
+274,Sludge Grinder,2024-01-01 11:00:00
+274,Blend Tank,2024-01-01 12:00:00
+274,Anaerobic Digester,2024-01-01 13:00:00
+275,Coarse Screens,2024-01-01 08:00:00
+275,Fine Screens,2024-01-01 09:00:00
+275,Primary Clarifiers,2024-01-01 10:00:00
+275,Sludge Grinder,2024-01-01 11:00:00
+275,Blend Tank,2024-01-01 12:00:00
+275,Anaerobic Digester,2024-01-01 13:00:00
+276,Coarse Screens,2024-01-01 08:00:00
+276,Fine Screens,2024-01-01 09:00:00
+276,Primary Clarifiers,2024-01-01 10:00:00
+276,Sludge Grinder,2024-01-01 11:00:00
+276,Blend Tank,2024-01-01 12:00:00
+276,Anaerobic Digester,2024-01-01 13:00:00
+277,Coarse Screens,2024-01-01 08:00:00
+277,Fine Screens,2024-01-01 09:00:00
+277,Primary Clarifiers,2024-01-01 10:00:00
+277,Sludge Grinder,2024-01-01 11:00:00
+277,Blend Tank,2024-01-01 12:00:00
+277,Anaerobic Digester,2024-01-01 13:00:00
+278,Coarse Screens,2024-01-01 08:00:00
+278,Fine Screens,2024-01-01 09:00:00
+278,Primary Clarifiers,2024-01-01 10:00:00
+278,Sludge Grinder,2024-01-01 11:00:00
+278,Blend Tank,2024-01-01 12:00:00
+278,Anaerobic Digester,2024-01-01 13:00:00
+279,Coarse Screens,2024-01-01 08:00:00
+279,Fine Screens,2024-01-01 09:00:00
+279,Primary Clarifiers,2024-01-01 10:00:00
+279,Sludge Grinder,2024-01-01 11:00:00
+279,Blend Tank,2024-01-01 12:00:00
+279,Anaerobic Digester,2024-01-01 13:00:00
+280,Coarse Screens,2024-01-01 08:00:00
+280,Fine Screens,2024-01-01 09:00:00
+280,Primary Clarifiers,2024-01-01 10:00:00
+280,Sludge Grinder,2024-01-01 11:00:00
+280,Blend Tank,2024-01-01 12:00:00
+280,Anaerobic Digester,2024-01-01 13:00:00
+281,Coarse Screens,2024-01-01 08:00:00
+281,Fine Screens,2024-01-01 09:00:00
+281,Primary Clarifiers,2024-01-01 10:00:00
+281,Sludge Grinder,2024-01-01 11:00:00
+281,Blend Tank,2024-01-01 12:00:00
+281,Anaerobic Digester,2024-01-01 13:00:00
+282,Coarse Screens,2024-01-01 08:00:00
+282,Fine Screens,2024-01-01 09:00:00
+282,Primary Clarifiers,2024-01-01 10:00:00
+282,Sludge Grinder,2024-01-01 11:00:00
+282,Blend Tank,2024-01-01 12:00:00
+282,Anaerobic Digester,2024-01-01 13:00:00
+283,Coarse Screens,2024-01-01 08:00:00
+283,Fine Screens,2024-01-01 09:00:00
+283,Primary Clarifiers,2024-01-01 10:00:00
+283,Sludge Grinder,2024-01-01 11:00:00
+283,Blend Tank,2024-01-01 12:00:00
+283,Anaerobic Digester,2024-01-01 13:00:00
+284,Coarse Screens,2024-01-01 08:00:00
+284,Fine Screens,2024-01-01 09:00:00
+284,Primary Clarifiers,2024-01-01 10:00:00
+284,Sludge Grinder,2024-01-01 11:00:00
+284,Blend Tank,2024-01-01 12:00:00
+284,Anaerobic Digester,2024-01-01 13:00:00
+285,Coarse Screens,2024-01-01 08:00:00
+285,Fine Screens,2024-01-01 09:00:00
+285,Primary Clarifiers,2024-01-01 10:00:00
+285,Sludge Grinder,2024-01-01 11:00:00
+285,Blend Tank,2024-01-01 12:00:00
+285,Anaerobic Digester,2024-01-01 13:00:00
+286,Coarse Screens,2024-01-01 08:00:00
+286,Fine Screens,2024-01-01 09:00:00
+286,Primary Clarifiers,2024-01-01 10:00:00
+286,Sludge Grinder,2024-01-01 11:00:00
+286,Blend Tank,2024-01-01 12:00:00
+286,Anaerobic Digester,2024-01-01 13:00:00
+287,Coarse Screens,2024-01-01 08:00:00
+287,Fine Screens,2024-01-01 09:00:00
+287,Primary Clarifiers,2024-01-01 10:00:00
+287,Sludge Grinder,2024-01-01 11:00:00
+287,Blend Tank,2024-01-01 12:00:00
+287,Anaerobic Digester,2024-01-01 13:00:00
+288,Coarse Screens,2024-01-01 08:00:00
+288,Fine Screens,2024-01-01 09:00:00
+288,Primary Clarifiers,2024-01-01 10:00:00
+288,Sludge Grinder,2024-01-01 11:00:00
+288,Blend Tank,2024-01-01 12:00:00
+288,Anaerobic Digester,2024-01-01 13:00:00
+289,Coarse Screens,2024-01-01 08:00:00
+289,Fine Screens,2024-01-01 09:00:00
+289,Primary Clarifiers,2024-01-01 10:00:00
+289,Sludge Grinder,2024-01-01 11:00:00
+289,Blend Tank,2024-01-01 12:00:00
+289,Anaerobic Digester,2024-01-01 13:00:00
+290,Coarse Screens,2024-01-01 08:00:00
+290,Fine Screens,2024-01-01 09:00:00
+290,Primary Clarifiers,2024-01-01 10:00:00
+290,Sludge Grinder,2024-01-01 11:00:00
+290,Blend Tank,2024-01-01 12:00:00
+290,Anaerobic Digester,2024-01-01 13:00:00
+291,Coarse Screens,2024-01-01 08:00:00
+291,Fine Screens,2024-01-01 09:00:00
+291,Primary Clarifiers,2024-01-01 10:00:00
+291,Sludge Grinder,2024-01-01 11:00:00
+291,Blend Tank,2024-01-01 12:00:00
+291,Anaerobic Digester,2024-01-01 13:00:00
+292,Coarse Screens,2024-01-01 08:00:00
+292,Fine Screens,2024-01-01 09:00:00
+292,Primary Clarifiers,2024-01-01 10:00:00
+292,Sludge Grinder,2024-01-01 11:00:00
+292,Blend Tank,2024-01-01 12:00:00
+292,Anaerobic Digester,2024-01-01 13:00:00
+293,Coarse Screens,2024-01-01 08:00:00
+293,Fine Screens,2024-01-01 09:00:00
+293,Primary Clarifiers,2024-01-01 10:00:00
+293,Sludge Grinder,2024-01-01 11:00:00
+293,Blend Tank,2024-01-01 12:00:00
+293,Anaerobic Digester,2024-01-01 13:00:00
+294,Coarse Screens,2024-01-01 08:00:00
+294,Fine Screens,2024-01-01 09:00:00
+294,Primary Clarifiers,2024-01-01 10:00:00
+294,Sludge Grinder,2024-01-01 11:00:00
+294,Blend Tank,2024-01-01 12:00:00
+294,Anaerobic Digester,2024-01-01 13:00:00
+295,Coarse Screens,2024-01-01 08:00:00
+295,Fine Screens,2024-01-01 09:00:00
+295,Primary Clarifiers,2024-01-01 10:00:00
+295,Sludge Grinder,2024-01-01 11:00:00
+295,Blend Tank,2024-01-01 12:00:00
+295,Anaerobic Digester,2024-01-01 13:00:00
+296,Coarse Screens,2024-01-01 08:00:00
+296,Fine Screens,2024-01-01 09:00:00
+296,Primary Clarifiers,2024-01-01 10:00:00
+296,Sludge Grinder,2024-01-01 11:00:00
+296,Blend Tank,2024-01-01 12:00:00
+296,Anaerobic Digester,2024-01-01 13:00:00
+297,Coarse Screens,2024-01-01 08:00:00
+297,Fine Screens,2024-01-01 09:00:00
+297,Primary Clarifiers,2024-01-01 10:00:00
+297,Sludge Grinder,2024-01-01 11:00:00
+297,Blend Tank,2024-01-01 12:00:00
+297,Anaerobic Digester,2024-01-01 13:00:00
+298,Coarse Screens,2024-01-01 08:00:00
+298,Fine Screens,2024-01-01 09:00:00
+298,Primary Clarifiers,2024-01-01 10:00:00
+298,Sludge Grinder,2024-01-01 11:00:00
+298,Blend Tank,2024-01-01 12:00:00
+298,Anaerobic Digester,2024-01-01 13:00:00
+299,Coarse Screens,2024-01-01 08:00:00
+299,Fine Screens,2024-01-01 09:00:00
+299,Primary Clarifiers,2024-01-01 10:00:00
+299,Sludge Grinder,2024-01-01 11:00:00
+299,Blend Tank,2024-01-01 12:00:00
+299,Anaerobic Digester,2024-01-01 13:00:00
+300,Coarse Screens,2024-01-01 08:00:00
+300,Fine Screens,2024-01-01 09:00:00
+300,Primary Clarifiers,2024-01-01 10:00:00
+300,Sludge Grinder,2024-01-01 11:00:00
+300,Blend Tank,2024-01-01 12:00:00
+300,Anaerobic Digester,2024-01-01 13:00:00
+301,Coarse Screens,2024-01-01 08:00:00
+301,Fine Screens,2024-01-01 09:00:00
+301,Primary Clarifiers,2024-01-01 10:00:00
+301,Sludge Grinder,2024-01-01 11:00:00
+301,Blend Tank,2024-01-01 12:00:00
+301,Anaerobic Digester,2024-01-01 13:00:00
+302,Coarse Screens,2024-01-01 08:00:00
+302,Fine Screens,2024-01-01 09:00:00
+302,Primary Clarifiers,2024-01-01 10:00:00
+302,Sludge Grinder,2024-01-01 11:00:00
+302,Blend Tank,2024-01-01 12:00:00
+302,Anaerobic Digester,2024-01-01 13:00:00
+303,Coarse Screens,2024-01-01 08:00:00
+303,Fine Screens,2024-01-01 09:00:00
+303,Primary Clarifiers,2024-01-01 10:00:00
+303,Sludge Grinder,2024-01-01 11:00:00
+303,Blend Tank,2024-01-01 12:00:00
+303,Anaerobic Digester,2024-01-01 13:00:00
+304,Coarse Screens,2024-01-01 08:00:00
+304,Fine Screens,2024-01-01 09:00:00
+304,Primary Clarifiers,2024-01-01 10:00:00
+304,Sludge Grinder,2024-01-01 11:00:00
+304,Blend Tank,2024-01-01 12:00:00
+304,Anaerobic Digester,2024-01-01 13:00:00
+305,Coarse Screens,2024-01-01 08:00:00
+305,Fine Screens,2024-01-01 09:00:00
+305,Primary Clarifiers,2024-01-01 10:00:00
+305,Sludge Grinder,2024-01-01 11:00:00
+305,Blend Tank,2024-01-01 12:00:00
+305,Anaerobic Digester,2024-01-01 13:00:00
+306,Coarse Screens,2024-01-01 08:00:00
+306,Fine Screens,2024-01-01 09:00:00
+306,Primary Clarifiers,2024-01-01 10:00:00
+306,Sludge Grinder,2024-01-01 11:00:00
+306,Blend Tank,2024-01-01 12:00:00
+306,Anaerobic Digester,2024-01-01 13:00:00
+307,Coarse Screens,2024-01-01 08:00:00
+307,Fine Screens,2024-01-01 09:00:00
+307,Primary Clarifiers,2024-01-01 10:00:00
+307,Sludge Grinder,2024-01-01 11:00:00
+307,Blend Tank,2024-01-01 12:00:00
+307,Anaerobic Digester,2024-01-01 13:00:00
+308,Coarse Screens,2024-01-01 08:00:00
+308,Fine Screens,2024-01-01 09:00:00
+308,Primary Clarifiers,2024-01-01 10:00:00
+308,Sludge Grinder,2024-01-01 11:00:00
+308,Blend Tank,2024-01-01 12:00:00
+308,Anaerobic Digester,2024-01-01 13:00:00
+309,Coarse Screens,2024-01-01 08:00:00
+309,Fine Screens,2024-01-01 09:00:00
+309,Primary Clarifiers,2024-01-01 10:00:00
+309,Sludge Grinder,2024-01-01 11:00:00
+309,Blend Tank,2024-01-01 12:00:00
+309,Anaerobic Digester,2024-01-01 13:00:00
+310,Coarse Screens,2024-01-01 08:00:00
+310,Fine Screens,2024-01-01 09:00:00
+310,Primary Clarifiers,2024-01-01 10:00:00
+310,Sludge Grinder,2024-01-01 11:00:00
+310,Blend Tank,2024-01-01 12:00:00
+310,Anaerobic Digester,2024-01-01 13:00:00
+311,Coarse Screens,2024-01-01 08:00:00
+311,Fine Screens,2024-01-01 09:00:00
+311,Primary Clarifiers,2024-01-01 10:00:00
+311,Sludge Grinder,2024-01-01 11:00:00
+311,Blend Tank,2024-01-01 12:00:00
+311,Anaerobic Digester,2024-01-01 13:00:00
+312,Coarse Screens,2024-01-01 08:00:00
+312,Fine Screens,2024-01-01 09:00:00
+312,Primary Clarifiers,2024-01-01 10:00:00
+312,Sludge Grinder,2024-01-01 11:00:00
+312,Blend Tank,2024-01-01 12:00:00
+312,Anaerobic Digester,2024-01-01 13:00:00
+313,Coarse Screens,2024-01-01 08:00:00
+313,Fine Screens,2024-01-01 09:00:00
+313,Primary Clarifiers,2024-01-01 10:00:00
+313,Sludge Grinder,2024-01-01 11:00:00
+313,Blend Tank,2024-01-01 12:00:00
+313,Anaerobic Digester,2024-01-01 13:00:00
+314,Coarse Screens,2024-01-01 08:00:00
+314,Fine Screens,2024-01-01 09:00:00
+314,Primary Clarifiers,2024-01-01 10:00:00
+314,Sludge Grinder,2024-01-01 11:00:00
+314,Blend Tank,2024-01-01 12:00:00
+314,Anaerobic Digester,2024-01-01 13:00:00
+315,Coarse Screens,2024-01-01 08:00:00
+315,Fine Screens,2024-01-01 09:00:00
+315,Primary Clarifiers,2024-01-01 10:00:00
+315,Sludge Grinder,2024-01-01 11:00:00
+315,Blend Tank,2024-01-01 12:00:00
+315,Anaerobic Digester,2024-01-01 13:00:00
+316,Coarse Screens,2024-01-01 08:00:00
+316,Fine Screens,2024-01-01 09:00:00
+316,Primary Clarifiers,2024-01-01 10:00:00
+316,Sludge Grinder,2024-01-01 11:00:00
+316,Blend Tank,2024-01-01 12:00:00
+316,Anaerobic Digester,2024-01-01 13:00:00
+317,Coarse Screens,2024-01-01 08:00:00
+317,Fine Screens,2024-01-01 09:00:00
+317,Primary Clarifiers,2024-01-01 10:00:00
+317,Sludge Grinder,2024-01-01 11:00:00
+317,Blend Tank,2024-01-01 12:00:00
+317,Anaerobic Digester,2024-01-01 13:00:00
+318,Coarse Screens,2024-01-01 08:00:00
+318,Fine Screens,2024-01-01 09:00:00
+318,Primary Clarifiers,2024-01-01 10:00:00
+318,Sludge Grinder,2024-01-01 11:00:00
+318,Blend Tank,2024-01-01 12:00:00
+318,Anaerobic Digester,2024-01-01 13:00:00
+319,Coarse Screens,2024-01-01 08:00:00
+319,Fine Screens,2024-01-01 09:00:00
+319,Primary Clarifiers,2024-01-01 10:00:00
+319,Sludge Grinder,2024-01-01 11:00:00
+319,Blend Tank,2024-01-01 12:00:00
+319,Anaerobic Digester,2024-01-01 13:00:00
+320,Coarse Screens,2024-01-01 08:00:00
+320,Fine Screens,2024-01-01 09:00:00
+320,Primary Clarifiers,2024-01-01 10:00:00
+320,Sludge Grinder,2024-01-01 11:00:00
+320,Blend Tank,2024-01-01 12:00:00
+320,Anaerobic Digester,2024-01-01 13:00:00
+321,Coarse Screens,2024-01-01 08:00:00
+321,Fine Screens,2024-01-01 09:00:00
+321,Primary Clarifiers,2024-01-01 10:00:00
+321,Sludge Grinder,2024-01-01 11:00:00
+321,Blend Tank,2024-01-01 12:00:00
+321,Anaerobic Digester,2024-01-01 13:00:00
+322,Coarse Screens,2024-01-01 08:00:00
+322,Fine Screens,2024-01-01 09:00:00
+322,Primary Clarifiers,2024-01-01 10:00:00
+322,Sludge Grinder,2024-01-01 11:00:00
+322,Blend Tank,2024-01-01 12:00:00
+322,Anaerobic Digester,2024-01-01 13:00:00
+323,Coarse Screens,2024-01-01 08:00:00
+323,Fine Screens,2024-01-01 09:00:00
+323,Primary Clarifiers,2024-01-01 10:00:00
+323,Sludge Grinder,2024-01-01 11:00:00
+323,Blend Tank,2024-01-01 12:00:00
+323,Anaerobic Digester,2024-01-01 13:00:00
+324,Coarse Screens,2024-01-01 08:00:00
+324,Fine Screens,2024-01-01 09:00:00
+324,Primary Clarifiers,2024-01-01 10:00:00
+324,Sludge Grinder,2024-01-01 11:00:00
+324,Blend Tank,2024-01-01 12:00:00
+324,Anaerobic Digester,2024-01-01 13:00:00
+325,Coarse Screens,2024-01-01 08:00:00
+325,Fine Screens,2024-01-01 09:00:00
+325,Primary Clarifiers,2024-01-01 10:00:00
+325,Sludge Grinder,2024-01-01 11:00:00
+325,Blend Tank,2024-01-01 12:00:00
+325,Anaerobic Digester,2024-01-01 13:00:00
+326,Coarse Screens,2024-01-01 08:00:00
+326,Fine Screens,2024-01-01 09:00:00
+326,Primary Clarifiers,2024-01-01 10:00:00
+326,Sludge Grinder,2024-01-01 11:00:00
+326,Blend Tank,2024-01-01 12:00:00
+326,Anaerobic Digester,2024-01-01 13:00:00
+327,Coarse Screens,2024-01-01 08:00:00
+327,Fine Screens,2024-01-01 09:00:00
+327,Primary Clarifiers,2024-01-01 10:00:00
+327,Sludge Grinder,2024-01-01 11:00:00
+327,Blend Tank,2024-01-01 12:00:00
+327,Anaerobic Digester,2024-01-01 13:00:00
+328,Coarse Screens,2024-01-01 08:00:00
+328,Fine Screens,2024-01-01 09:00:00
+328,Primary Clarifiers,2024-01-01 10:00:00
+328,Sludge Grinder,2024-01-01 11:00:00
+328,Blend Tank,2024-01-01 12:00:00
+328,Anaerobic Digester,2024-01-01 13:00:00
+329,Coarse Screens,2024-01-01 08:00:00
+329,Fine Screens,2024-01-01 09:00:00
+329,Primary Clarifiers,2024-01-01 10:00:00
+329,Sludge Grinder,2024-01-01 11:00:00
+329,Blend Tank,2024-01-01 12:00:00
+329,Anaerobic Digester,2024-01-01 13:00:00
+330,Coarse Screens,2024-01-01 08:00:00
+330,Fine Screens,2024-01-01 09:00:00
+330,Primary Clarifiers,2024-01-01 10:00:00
+330,Sludge Grinder,2024-01-01 11:00:00
+330,Blend Tank,2024-01-01 12:00:00
+330,Anaerobic Digester,2024-01-01 13:00:00
+331,Coarse Screens,2024-01-01 08:00:00
+331,Fine Screens,2024-01-01 09:00:00
+331,Primary Clarifiers,2024-01-01 10:00:00
+331,Sludge Grinder,2024-01-01 11:00:00
+331,Blend Tank,2024-01-01 12:00:00
+331,Anaerobic Digester,2024-01-01 13:00:00
+332,Coarse Screens,2024-01-01 08:00:00
+332,Fine Screens,2024-01-01 09:00:00
+332,Primary Clarifiers,2024-01-01 10:00:00
+332,Sludge Grinder,2024-01-01 11:00:00
+332,Blend Tank,2024-01-01 12:00:00
+332,Anaerobic Digester,2024-01-01 13:00:00
+333,Coarse Screens,2024-01-01 08:00:00
+333,Fine Screens,2024-01-01 09:00:00
+333,Primary Clarifiers,2024-01-01 10:00:00
+333,Sludge Grinder,2024-01-01 11:00:00
+333,Blend Tank,2024-01-01 12:00:00
+333,Anaerobic Digester,2024-01-01 13:00:00
+334,Coarse Screens,2024-01-01 08:00:00
+334,Fine Screens,2024-01-01 09:00:00
+334,Primary Clarifiers,2024-01-01 10:00:00
+334,Sludge Grinder,2024-01-01 11:00:00
+334,Blend Tank,2024-01-01 12:00:00
+334,Anaerobic Digester,2024-01-01 13:00:00
+335,Coarse Screens,2024-01-01 08:00:00
+335,Fine Screens,2024-01-01 09:00:00
+335,Primary Clarifiers,2024-01-01 10:00:00
+335,Sludge Grinder,2024-01-01 11:00:00
+335,Blend Tank,2024-01-01 12:00:00
+335,Anaerobic Digester,2024-01-01 13:00:00
+336,Coarse Screens,2024-01-01 08:00:00
+336,Fine Screens,2024-01-01 09:00:00
+336,Primary Clarifiers,2024-01-01 10:00:00
+336,Sludge Grinder,2024-01-01 11:00:00
+336,Blend Tank,2024-01-01 12:00:00
+336,Anaerobic Digester,2024-01-01 13:00:00
+337,Coarse Screens,2024-01-01 08:00:00
+337,Fine Screens,2024-01-01 09:00:00
+337,Primary Clarifiers,2024-01-01 10:00:00
+337,Sludge Grinder,2024-01-01 11:00:00
+337,Blend Tank,2024-01-01 12:00:00
+337,Anaerobic Digester,2024-01-01 13:00:00
+338,Coarse Screens,2024-01-01 08:00:00
+338,Fine Screens,2024-01-01 09:00:00
+338,Primary Clarifiers,2024-01-01 10:00:00
+338,Sludge Grinder,2024-01-01 11:00:00
+338,Blend Tank,2024-01-01 12:00:00
+338,Anaerobic Digester,2024-01-01 13:00:00
+339,Coarse Screens,2024-01-01 08:00:00
+339,Fine Screens,2024-01-01 09:00:00
+339,Primary Clarifiers,2024-01-01 10:00:00
+339,Sludge Grinder,2024-01-01 11:00:00
+339,Blend Tank,2024-01-01 12:00:00
+339,Anaerobic Digester,2024-01-01 13:00:00
+340,Coarse Screens,2024-01-01 08:00:00
+340,Fine Screens,2024-01-01 09:00:00
+340,Primary Clarifiers,2024-01-01 10:00:00
+340,Sludge Grinder,2024-01-01 11:00:00
+340,Blend Tank,2024-01-01 12:00:00
+340,Anaerobic Digester,2024-01-01 13:00:00
+341,Coarse Screens,2024-01-01 08:00:00
+341,Fine Screens,2024-01-01 09:00:00
+341,Primary Clarifiers,2024-01-01 10:00:00
+341,Sludge Grinder,2024-01-01 11:00:00
+341,Blend Tank,2024-01-01 12:00:00
+341,Anaerobic Digester,2024-01-01 13:00:00
+342,Coarse Screens,2024-01-01 08:00:00
+342,Fine Screens,2024-01-01 09:00:00
+342,Primary Clarifiers,2024-01-01 10:00:00
+342,Sludge Grinder,2024-01-01 11:00:00
+342,Blend Tank,2024-01-01 12:00:00
+342,Anaerobic Digester,2024-01-01 13:00:00
+343,Coarse Screens,2024-01-01 08:00:00
+343,Fine Screens,2024-01-01 09:00:00
+343,Primary Clarifiers,2024-01-01 10:00:00
+343,Sludge Grinder,2024-01-01 11:00:00
+343,Blend Tank,2024-01-01 12:00:00
+343,Anaerobic Digester,2024-01-01 13:00:00
+344,Coarse Screens,2024-01-01 08:00:00
+344,Fine Screens,2024-01-01 09:00:00
+344,Primary Clarifiers,2024-01-01 10:00:00
+344,Sludge Grinder,2024-01-01 11:00:00
+344,Blend Tank,2024-01-01 12:00:00
+344,Anaerobic Digester,2024-01-01 13:00:00
+345,Coarse Screens,2024-01-01 08:00:00
+345,Fine Screens,2024-01-01 09:00:00
+345,Primary Clarifiers,2024-01-01 10:00:00
+345,Sludge Grinder,2024-01-01 11:00:00
+345,Blend Tank,2024-01-01 12:00:00
+345,Anaerobic Digester,2024-01-01 13:00:00
+346,Coarse Screens,2024-01-01 08:00:00
+346,Fine Screens,2024-01-01 09:00:00
+346,Primary Clarifiers,2024-01-01 10:00:00
+346,Sludge Grinder,2024-01-01 11:00:00
+346,Blend Tank,2024-01-01 12:00:00
+346,Anaerobic Digester,2024-01-01 13:00:00
+347,Coarse Screens,2024-01-01 08:00:00
+347,Fine Screens,2024-01-01 09:00:00
+347,Primary Clarifiers,2024-01-01 10:00:00
+347,Sludge Grinder,2024-01-01 11:00:00
+347,Blend Tank,2024-01-01 12:00:00
+347,Anaerobic Digester,2024-01-01 13:00:00
+348,Coarse Screens,2024-01-01 08:00:00
+348,Fine Screens,2024-01-01 09:00:00
+348,Primary Clarifiers,2024-01-01 10:00:00
+348,Sludge Grinder,2024-01-01 11:00:00
+348,Blend Tank,2024-01-01 12:00:00
+348,Anaerobic Digester,2024-01-01 13:00:00
+349,Coarse Screens,2024-01-01 08:00:00
+349,Fine Screens,2024-01-01 09:00:00
+349,Primary Clarifiers,2024-01-01 10:00:00
+349,Sludge Grinder,2024-01-01 11:00:00
+349,Blend Tank,2024-01-01 12:00:00
+349,Anaerobic Digester,2024-01-01 13:00:00
+350,Coarse Screens,2024-01-01 08:00:00
+350,Fine Screens,2024-01-01 09:00:00
+350,Primary Clarifiers,2024-01-01 10:00:00
+350,Sludge Grinder,2024-01-01 11:00:00
+350,Blend Tank,2024-01-01 12:00:00
+350,Anaerobic Digester,2024-01-01 13:00:00
+351,Coarse Screens,2024-01-01 08:00:00
+351,Fine Screens,2024-01-01 09:00:00
+351,Primary Clarifiers,2024-01-01 10:00:00
+351,Sludge Grinder,2024-01-01 11:00:00
+351,Blend Tank,2024-01-01 12:00:00
+351,Anaerobic Digester,2024-01-01 13:00:00
+352,Coarse Screens,2024-01-01 08:00:00
+352,Fine Screens,2024-01-01 09:00:00
+352,Primary Clarifiers,2024-01-01 10:00:00
+352,Sludge Grinder,2024-01-01 11:00:00
+352,Blend Tank,2024-01-01 12:00:00
+352,Anaerobic Digester,2024-01-01 13:00:00
+353,Coarse Screens,2024-01-01 08:00:00
+353,Fine Screens,2024-01-01 09:00:00
+353,Primary Clarifiers,2024-01-01 10:00:00
+353,Sludge Grinder,2024-01-01 11:00:00
+353,Blend Tank,2024-01-01 12:00:00
+353,Anaerobic Digester,2024-01-01 13:00:00
+354,Coarse Screens,2024-01-01 08:00:00
+354,Fine Screens,2024-01-01 09:00:00
+354,Primary Clarifiers,2024-01-01 10:00:00
+354,Sludge Grinder,2024-01-01 11:00:00
+354,Blend Tank,2024-01-01 12:00:00
+354,Anaerobic Digester,2024-01-01 13:00:00
+355,Coarse Screens,2024-01-01 08:00:00
+355,Fine Screens,2024-01-01 09:00:00
+355,Primary Clarifiers,2024-01-01 10:00:00
+355,Sludge Grinder,2024-01-01 11:00:00
+355,Blend Tank,2024-01-01 12:00:00
+355,Anaerobic Digester,2024-01-01 13:00:00
+356,Coarse Screens,2024-01-01 08:00:00
+356,Fine Screens,2024-01-01 09:00:00
+356,Primary Clarifiers,2024-01-01 10:00:00
+356,Sludge Grinder,2024-01-01 11:00:00
+356,Blend Tank,2024-01-01 12:00:00
+356,Anaerobic Digester,2024-01-01 13:00:00
+357,Coarse Screens,2024-01-01 08:00:00
+357,Fine Screens,2024-01-01 09:00:00
+357,Primary Clarifiers,2024-01-01 10:00:00
+357,Sludge Grinder,2024-01-01 11:00:00
+357,Blend Tank,2024-01-01 12:00:00
+357,Anaerobic Digester,2024-01-01 13:00:00
+358,Coarse Screens,2024-01-01 08:00:00
+358,Fine Screens,2024-01-01 09:00:00
+358,Primary Clarifiers,2024-01-01 10:00:00
+358,Sludge Grinder,2024-01-01 11:00:00
+358,Blend Tank,2024-01-01 12:00:00
+358,Anaerobic Digester,2024-01-01 13:00:00
+359,Coarse Screens,2024-01-01 08:00:00
+359,Fine Screens,2024-01-01 09:00:00
+359,Primary Clarifiers,2024-01-01 10:00:00
+359,Sludge Grinder,2024-01-01 11:00:00
+359,Blend Tank,2024-01-01 12:00:00
+359,Anaerobic Digester,2024-01-01 13:00:00
+360,Coarse Screens,2024-01-01 08:00:00
+360,Fine Screens,2024-01-01 09:00:00
+360,Primary Clarifiers,2024-01-01 10:00:00
+360,Sludge Grinder,2024-01-01 11:00:00
+360,Blend Tank,2024-01-01 12:00:00
+360,Anaerobic Digester,2024-01-01 13:00:00
+361,Coarse Screens,2024-01-01 08:00:00
+361,Fine Screens,2024-01-01 09:00:00
+361,Primary Clarifiers,2024-01-01 10:00:00
+361,Sludge Grinder,2024-01-01 11:00:00
+361,Blend Tank,2024-01-01 12:00:00
+361,Anaerobic Digester,2024-01-01 13:00:00
+362,Coarse Screens,2024-01-01 08:00:00
+362,Fine Screens,2024-01-01 09:00:00
+362,Primary Clarifiers,2024-01-01 10:00:00
+362,Sludge Grinder,2024-01-01 11:00:00
+362,Blend Tank,2024-01-01 12:00:00
+362,Anaerobic Digester,2024-01-01 13:00:00
+363,Coarse Screens,2024-01-01 08:00:00
+363,Fine Screens,2024-01-01 09:00:00
+363,Primary Clarifiers,2024-01-01 10:00:00
+363,Sludge Grinder,2024-01-01 11:00:00
+363,Blend Tank,2024-01-01 12:00:00
+363,Anaerobic Digester,2024-01-01 13:00:00
+364,Coarse Screens,2024-01-01 08:00:00
+364,Fine Screens,2024-01-01 09:00:00
+364,Primary Clarifiers,2024-01-01 10:00:00
+364,Sludge Grinder,2024-01-01 11:00:00
+364,Blend Tank,2024-01-01 12:00:00
+364,Anaerobic Digester,2024-01-01 13:00:00
+365,Coarse Screens,2024-01-01 08:00:00
+365,Fine Screens,2024-01-01 09:00:00
+365,Primary Clarifiers,2024-01-01 10:00:00
+365,Sludge Grinder,2024-01-01 11:00:00
+365,Blend Tank,2024-01-01 12:00:00
+365,Anaerobic Digester,2024-01-01 13:00:00
+366,Coarse Screens,2024-01-01 08:00:00
+366,Fine Screens,2024-01-01 09:00:00
+366,Primary Clarifiers,2024-01-01 10:00:00
+366,Bio-reactor Tanks,2024-01-01 11:00:00
+366,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+366,Blend Tank,2024-01-01 13:00:00
+366,Anaerobic Digester,2024-01-01 14:00:00
+366,Storage Tank,2024-01-01 15:00:00
+366,Disposal to Landfill,2024-01-01 16:00:00
+367,Coarse Screens,2024-01-01 08:00:00
+367,Fine Screens,2024-01-01 09:00:00
+367,Primary Clarifiers,2024-01-01 10:00:00
+367,Bio-reactor Tanks,2024-01-01 11:00:00
+367,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+367,Blend Tank,2024-01-01 13:00:00
+367,Anaerobic Digester,2024-01-01 14:00:00
+367,Storage Tank,2024-01-01 15:00:00
+367,Disposal to Landfill,2024-01-01 16:00:00
+368,Coarse Screens,2024-01-01 08:00:00
+368,Fine Screens,2024-01-01 09:00:00
+368,Primary Clarifiers,2024-01-01 10:00:00
+368,Bio-reactor Tanks,2024-01-01 11:00:00
+368,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+368,Blend Tank,2024-01-01 13:00:00
+368,Anaerobic Digester,2024-01-01 14:00:00
+368,Storage Tank,2024-01-01 15:00:00
+368,Disposal to Landfill,2024-01-01 16:00:00
+369,Coarse Screens,2024-01-01 08:00:00
+369,Fine Screens,2024-01-01 09:00:00
+369,Primary Clarifiers,2024-01-01 10:00:00
+369,Bio-reactor Tanks,2024-01-01 11:00:00
+369,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+369,Blend Tank,2024-01-01 13:00:00
+369,Anaerobic Digester,2024-01-01 14:00:00
+369,Storage Tank,2024-01-01 15:00:00
+369,Disposal to Landfill,2024-01-01 16:00:00
+370,Coarse Screens,2024-01-01 08:00:00
+370,Fine Screens,2024-01-01 09:00:00
+370,Primary Clarifiers,2024-01-01 10:00:00
+370,Bio-reactor Tanks,2024-01-01 11:00:00
+370,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+370,Blend Tank,2024-01-01 13:00:00
+370,Anaerobic Digester,2024-01-01 14:00:00
+370,Storage Tank,2024-01-01 15:00:00
+370,Disposal to Landfill,2024-01-01 16:00:00
+371,Coarse Screens,2024-01-01 08:00:00
+371,Fine Screens,2024-01-01 09:00:00
+371,Primary Clarifiers,2024-01-01 10:00:00
+371,Bio-reactor Tanks,2024-01-01 11:00:00
+371,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+371,Blend Tank,2024-01-01 13:00:00
+371,Anaerobic Digester,2024-01-01 14:00:00
+371,Storage Tank,2024-01-01 15:00:00
+371,Disposal to Landfill,2024-01-01 16:00:00
+372,Coarse Screens,2024-01-01 08:00:00
+372,Fine Screens,2024-01-01 09:00:00
+372,Primary Clarifiers,2024-01-01 10:00:00
+372,Bio-reactor Tanks,2024-01-01 11:00:00
+372,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+372,Blend Tank,2024-01-01 13:00:00
+372,Anaerobic Digester,2024-01-01 14:00:00
+372,Storage Tank,2024-01-01 15:00:00
+372,Disposal to Landfill,2024-01-01 16:00:00
+373,Coarse Screens,2024-01-01 08:00:00
+373,Fine Screens,2024-01-01 09:00:00
+373,Primary Clarifiers,2024-01-01 10:00:00
+373,Bio-reactor Tanks,2024-01-01 11:00:00
+373,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+373,Blend Tank,2024-01-01 13:00:00
+373,Anaerobic Digester,2024-01-01 14:00:00
+373,Storage Tank,2024-01-01 15:00:00
+373,Disposal to Landfill,2024-01-01 16:00:00
+374,Coarse Screens,2024-01-01 08:00:00
+374,Fine Screens,2024-01-01 09:00:00
+374,Primary Clarifiers,2024-01-01 10:00:00
+374,Bio-reactor Tanks,2024-01-01 11:00:00
+374,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+374,Blend Tank,2024-01-01 13:00:00
+374,Anaerobic Digester,2024-01-01 14:00:00
+374,Storage Tank,2024-01-01 15:00:00
+374,Disposal to Landfill,2024-01-01 16:00:00
+375,Coarse Screens,2024-01-01 08:00:00
+375,Fine Screens,2024-01-01 09:00:00
+375,Primary Clarifiers,2024-01-01 10:00:00
+375,Bio-reactor Tanks,2024-01-01 11:00:00
+375,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+375,Blend Tank,2024-01-01 13:00:00
+375,Anaerobic Digester,2024-01-01 14:00:00
+375,Storage Tank,2024-01-01 15:00:00
+375,Disposal to Landfill,2024-01-01 16:00:00
+376,Coarse Screens,2024-01-01 08:00:00
+376,Fine Screens,2024-01-01 09:00:00
+376,Primary Clarifiers,2024-01-01 10:00:00
+376,Bio-reactor Tanks,2024-01-01 11:00:00
+376,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+376,Blend Tank,2024-01-01 13:00:00
+376,Anaerobic Digester,2024-01-01 14:00:00
+376,Storage Tank,2024-01-01 15:00:00
+376,Disposal to Landfill,2024-01-01 16:00:00
+377,Coarse Screens,2024-01-01 08:00:00
+377,Fine Screens,2024-01-01 09:00:00
+377,Primary Clarifiers,2024-01-01 10:00:00
+377,Bio-reactor Tanks,2024-01-01 11:00:00
+377,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+377,Blend Tank,2024-01-01 13:00:00
+377,Anaerobic Digester,2024-01-01 14:00:00
+377,Storage Tank,2024-01-01 15:00:00
+377,Disposal to Landfill,2024-01-01 16:00:00
+378,Coarse Screens,2024-01-01 08:00:00
+378,Fine Screens,2024-01-01 09:00:00
+378,Primary Clarifiers,2024-01-01 10:00:00
+378,Bio-reactor Tanks,2024-01-01 11:00:00
+378,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+378,Blend Tank,2024-01-01 13:00:00
+378,Anaerobic Digester,2024-01-01 14:00:00
+378,Storage Tank,2024-01-01 15:00:00
+378,Disposal to Landfill,2024-01-01 16:00:00
+379,Coarse Screens,2024-01-01 08:00:00
+379,Fine Screens,2024-01-01 09:00:00
+379,Primary Clarifiers,2024-01-01 10:00:00
+379,Bio-reactor Tanks,2024-01-01 11:00:00
+379,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+379,Blend Tank,2024-01-01 13:00:00
+379,Anaerobic Digester,2024-01-01 14:00:00
+379,Storage Tank,2024-01-01 15:00:00
+379,Disposal to Landfill,2024-01-01 16:00:00
+380,Coarse Screens,2024-01-01 08:00:00
+380,Fine Screens,2024-01-01 09:00:00
+380,Primary Clarifiers,2024-01-01 10:00:00
+380,Bio-reactor Tanks,2024-01-01 11:00:00
+380,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+380,Blend Tank,2024-01-01 13:00:00
+380,Anaerobic Digester,2024-01-01 14:00:00
+380,Storage Tank,2024-01-01 15:00:00
+380,Disposal to Landfill,2024-01-01 16:00:00
+381,Coarse Screens,2024-01-01 08:00:00
+381,Fine Screens,2024-01-01 09:00:00
+381,Primary Clarifiers,2024-01-01 10:00:00
+381,Bio-reactor Tanks,2024-01-01 11:00:00
+381,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+381,Blend Tank,2024-01-01 13:00:00
+381,Anaerobic Digester,2024-01-01 14:00:00
+381,Storage Tank,2024-01-01 15:00:00
+381,Disposal to Landfill,2024-01-01 16:00:00
+382,Coarse Screens,2024-01-01 08:00:00
+382,Fine Screens,2024-01-01 09:00:00
+382,Primary Clarifiers,2024-01-01 10:00:00
+382,Bio-reactor Tanks,2024-01-01 11:00:00
+382,Dissolved-Air Flotation Thickening,2024-01-01 12:00:00
+382,Blend Tank,2024-01-01 13:00:00
+382,Anaerobic Digester,2024-01-01 14:00:00
+382,Storage Tank,2024-01-01 15:00:00
+382,Disposal to Landfill,2024-01-01 16:00:00
+383,Coarse Screens,2024-01-01 08:00:00
+383,Fine Screens,2024-01-01 09:00:00
+383,Primary Clarifiers,2024-01-01 10:00:00
+383,Bio-reactor Tanks,2024-01-01 11:00:00
+383,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+383,Blend Tank,2024-01-01 13:00:00
+383,Anaerobic Digester,2024-01-01 14:00:00
+384,Coarse Screens,2024-01-01 08:00:00
+384,Fine Screens,2024-01-01 09:00:00
+384,Primary Clarifiers,2024-01-01 10:00:00
+384,Bio-reactor Tanks,2024-01-01 11:00:00
+384,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+384,Blend Tank,2024-01-01 13:00:00
+384,Anaerobic Digester,2024-01-01 14:00:00
+385,Coarse Screens,2024-01-01 08:00:00
+385,Fine Screens,2024-01-01 09:00:00
+385,Primary Clarifiers,2024-01-01 10:00:00
+385,Bio-reactor Tanks,2024-01-01 11:00:00
+385,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+385,Blend Tank,2024-01-01 13:00:00
+385,Anaerobic Digester,2024-01-01 14:00:00
+386,Coarse Screens,2024-01-01 08:00:00
+386,Fine Screens,2024-01-01 09:00:00
+386,Primary Clarifiers,2024-01-01 10:00:00
+386,Bio-reactor Tanks,2024-01-01 11:00:00
+386,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+386,Blend Tank,2024-01-01 13:00:00
+386,Anaerobic Digester,2024-01-01 14:00:00
+387,Coarse Screens,2024-01-01 08:00:00
+387,Fine Screens,2024-01-01 09:00:00
+387,Primary Clarifiers,2024-01-01 10:00:00
+387,Bio-reactor Tanks,2024-01-01 11:00:00
+387,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+387,Blend Tank,2024-01-01 13:00:00
+387,Anaerobic Digester,2024-01-01 14:00:00
+388,Coarse Screens,2024-01-01 08:00:00
+388,Fine Screens,2024-01-01 09:00:00
+388,Primary Clarifiers,2024-01-01 10:00:00
+388,Bio-reactor Tanks,2024-01-01 11:00:00
+388,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+388,Blend Tank,2024-01-01 13:00:00
+388,Anaerobic Digester,2024-01-01 14:00:00
+389,Coarse Screens,2024-01-01 08:00:00
+389,Fine Screens,2024-01-01 09:00:00
+389,Primary Clarifiers,2024-01-01 10:00:00
+389,Bio-reactor Tanks,2024-01-01 11:00:00
+389,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+389,Blend Tank,2024-01-01 13:00:00
+389,Anaerobic Digester,2024-01-01 14:00:00
+390,Coarse Screens,2024-01-01 08:00:00
+390,Fine Screens,2024-01-01 09:00:00
+390,Primary Clarifiers,2024-01-01 10:00:00
+390,Bio-reactor Tanks,2024-01-01 11:00:00
+390,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+390,Blend Tank,2024-01-01 13:00:00
+390,Anaerobic Digester,2024-01-01 14:00:00
+391,Coarse Screens,2024-01-01 08:00:00
+391,Fine Screens,2024-01-01 09:00:00
+391,Primary Clarifiers,2024-01-01 10:00:00
+391,Bio-reactor Tanks,2024-01-01 11:00:00
+391,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+391,Blend Tank,2024-01-01 13:00:00
+391,Anaerobic Digester,2024-01-01 14:00:00
+392,Coarse Screens,2024-01-01 08:00:00
+392,Fine Screens,2024-01-01 09:00:00
+392,Primary Clarifiers,2024-01-01 10:00:00
+392,Bio-reactor Tanks,2024-01-01 11:00:00
+392,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+392,Blend Tank,2024-01-01 13:00:00
+392,Anaerobic Digester,2024-01-01 14:00:00
+393,Coarse Screens,2024-01-01 08:00:00
+393,Fine Screens,2024-01-01 09:00:00
+393,Primary Clarifiers,2024-01-01 10:00:00
+393,Bio-reactor Tanks,2024-01-01 11:00:00
+393,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+393,Blend Tank,2024-01-01 13:00:00
+393,Anaerobic Digester,2024-01-01 14:00:00
+394,Coarse Screens,2024-01-01 08:00:00
+394,Fine Screens,2024-01-01 09:00:00
+394,Primary Clarifiers,2024-01-01 10:00:00
+394,Bio-reactor Tanks,2024-01-01 11:00:00
+394,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+394,Blend Tank,2024-01-01 13:00:00
+394,Anaerobic Digester,2024-01-01 14:00:00
+395,Coarse Screens,2024-01-01 08:00:00
+395,Fine Screens,2024-01-01 09:00:00
+395,Primary Clarifiers,2024-01-01 10:00:00
+395,Bio-reactor Tanks,2024-01-01 11:00:00
+395,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+395,Blend Tank,2024-01-01 13:00:00
+395,Anaerobic Digester,2024-01-01 14:00:00
+396,Coarse Screens,2024-01-01 08:00:00
+396,Fine Screens,2024-01-01 09:00:00
+396,Primary Clarifiers,2024-01-01 10:00:00
+396,Bio-reactor Tanks,2024-01-01 11:00:00
+396,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+396,Blend Tank,2024-01-01 13:00:00
+396,Anaerobic Digester,2024-01-01 14:00:00
+397,Coarse Screens,2024-01-01 08:00:00
+397,Fine Screens,2024-01-01 09:00:00
+397,Primary Clarifiers,2024-01-01 10:00:00
+397,Bio-reactor Tanks,2024-01-01 11:00:00
+397,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+397,Blend Tank,2024-01-01 13:00:00
+397,Anaerobic Digester,2024-01-01 14:00:00
+398,Coarse Screens,2024-01-01 08:00:00
+398,Fine Screens,2024-01-01 09:00:00
+398,Primary Clarifiers,2024-01-01 10:00:00
+398,Bio-reactor Tanks,2024-01-01 11:00:00
+398,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+398,Blend Tank,2024-01-01 13:00:00
+398,Anaerobic Digester,2024-01-01 14:00:00
+399,Coarse Screens,2024-01-01 08:00:00
+399,Fine Screens,2024-01-01 09:00:00
+399,Primary Clarifiers,2024-01-01 10:00:00
+399,Bio-reactor Tanks,2024-01-01 11:00:00
+399,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+399,Blend Tank,2024-01-01 13:00:00
+399,Anaerobic Digester,2024-01-01 14:00:00
+400,Coarse Screens,2024-01-01 08:00:00
+400,Fine Screens,2024-01-01 09:00:00
+400,Primary Clarifiers,2024-01-01 10:00:00
+400,Bio-reactor Tanks,2024-01-01 11:00:00
+400,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+400,Blend Tank,2024-01-01 13:00:00
+400,Anaerobic Digester,2024-01-01 14:00:00
+401,Coarse Screens,2024-01-01 08:00:00
+401,Fine Screens,2024-01-01 09:00:00
+401,Primary Clarifiers,2024-01-01 10:00:00
+401,Bio-reactor Tanks,2024-01-01 11:00:00
+401,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+401,Blend Tank,2024-01-01 13:00:00
+401,Anaerobic Digester,2024-01-01 14:00:00
+402,Coarse Screens,2024-01-01 08:00:00
+402,Fine Screens,2024-01-01 09:00:00
+402,Primary Clarifiers,2024-01-01 10:00:00
+402,Bio-reactor Tanks,2024-01-01 11:00:00
+402,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+402,Blend Tank,2024-01-01 13:00:00
+402,Anaerobic Digester,2024-01-01 14:00:00
+403,Coarse Screens,2024-01-01 08:00:00
+403,Fine Screens,2024-01-01 09:00:00
+403,Primary Clarifiers,2024-01-01 10:00:00
+403,Bio-reactor Tanks,2024-01-01 11:00:00
+403,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+403,Blend Tank,2024-01-01 13:00:00
+403,Anaerobic Digester,2024-01-01 14:00:00
+404,Coarse Screens,2024-01-01 08:00:00
+404,Fine Screens,2024-01-01 09:00:00
+404,Primary Clarifiers,2024-01-01 10:00:00
+404,Bio-reactor Tanks,2024-01-01 11:00:00
+404,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+404,Blend Tank,2024-01-01 13:00:00
+404,Anaerobic Digester,2024-01-01 14:00:00
+405,Coarse Screens,2024-01-01 08:00:00
+405,Fine Screens,2024-01-01 09:00:00
+405,Primary Clarifiers,2024-01-01 10:00:00
+405,Bio-reactor Tanks,2024-01-01 11:00:00
+405,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+405,Blend Tank,2024-01-01 13:00:00
+405,Anaerobic Digester,2024-01-01 14:00:00
+406,Coarse Screens,2024-01-01 08:00:00
+406,Fine Screens,2024-01-01 09:00:00
+406,Primary Clarifiers,2024-01-01 10:00:00
+406,Bio-reactor Tanks,2024-01-01 11:00:00
+406,Final Clarifier,2024-01-01 12:00:00
+406,Chlorine Contact Basin,2024-01-01 13:00:00
+406,Pond,2024-01-01 14:00:00
+406,De-chlorination Pond,2024-01-01 15:00:00
+406,Cascade Aerator,2024-01-01 16:00:00
+407,Coarse Screens,2024-01-01 08:00:00
+407,Fine Screens,2024-01-01 09:00:00
+407,Primary Clarifiers,2024-01-01 10:00:00
+407,Bio-reactor Tanks,2024-01-01 11:00:00
+407,Final Clarifier,2024-01-01 12:00:00
+407,Chlorine Contact Basin,2024-01-01 13:00:00
+407,Pond,2024-01-01 14:00:00
+407,De-chlorination Pond,2024-01-01 15:00:00
+407,Cascade Aerator,2024-01-01 16:00:00
+408,Coarse Screens,2024-01-01 08:00:00
+408,Fine Screens,2024-01-01 09:00:00
+408,Primary Clarifiers,2024-01-01 10:00:00
+408,Bio-reactor Tanks,2024-01-01 11:00:00
+408,Final Clarifier,2024-01-01 12:00:00
+408,Chlorine Contact Basin,2024-01-01 13:00:00
+408,Pond,2024-01-01 14:00:00
+408,De-chlorination Pond,2024-01-01 15:00:00
+408,Cascade Aerator,2024-01-01 16:00:00
+409,Coarse Screens,2024-01-01 08:00:00
+409,Fine Screens,2024-01-01 09:00:00
+409,Primary Clarifiers,2024-01-01 10:00:00
+409,Bio-reactor Tanks,2024-01-01 11:00:00
+409,Final Clarifier,2024-01-01 12:00:00
+409,Chlorine Contact Basin,2024-01-01 13:00:00
+409,Pond,2024-01-01 14:00:00
+409,De-chlorination Pond,2024-01-01 15:00:00
+409,Cascade Aerator,2024-01-01 16:00:00
+410,Coarse Screens,2024-01-01 08:00:00
+410,Fine Screens,2024-01-01 09:00:00
+410,Primary Clarifiers,2024-01-01 10:00:00
+410,Bio-reactor Tanks,2024-01-01 11:00:00
+410,Final Clarifier,2024-01-01 12:00:00
+410,Chlorine Contact Basin,2024-01-01 13:00:00
+410,Pond,2024-01-01 14:00:00
+410,De-chlorination Pond,2024-01-01 15:00:00
+410,Cascade Aerator,2024-01-01 16:00:00
+411,Coarse Screens,2024-01-01 08:00:00
+411,Fine Screens,2024-01-01 09:00:00
+411,Primary Clarifiers,2024-01-01 10:00:00
+411,Bio-reactor Tanks,2024-01-01 11:00:00
+411,Final Clarifier,2024-01-01 12:00:00
+411,Chlorine Contact Basin,2024-01-01 13:00:00
+411,Pond,2024-01-01 14:00:00
+411,De-chlorination Pond,2024-01-01 15:00:00
+411,Cascade Aerator,2024-01-01 16:00:00
+412,Coarse Screens,2024-01-01 08:00:00
+412,Fine Screens,2024-01-01 09:00:00
+412,Primary Clarifiers,2024-01-01 10:00:00
+412,Bio-reactor Tanks,2024-01-01 11:00:00
+412,Final Clarifier,2024-01-01 12:00:00
+412,Chlorine Contact Basin,2024-01-01 13:00:00
+412,Pond,2024-01-01 14:00:00
+412,De-chlorination Pond,2024-01-01 15:00:00
+412,Cascade Aerator,2024-01-01 16:00:00
+413,Coarse Screens,2024-01-01 08:00:00
+413,Fine Screens,2024-01-01 09:00:00
+413,Primary Clarifiers,2024-01-01 10:00:00
+413,Bio-reactor Tanks,2024-01-01 11:00:00
+413,Final Clarifier,2024-01-01 12:00:00
+413,Chlorine Contact Basin,2024-01-01 13:00:00
+413,Pond,2024-01-01 14:00:00
+413,De-chlorination Pond,2024-01-01 15:00:00
+413,Cascade Aerator,2024-01-01 16:00:00
+414,Coarse Screens,2024-01-01 08:00:00
+414,Fine Screens,2024-01-01 09:00:00
+414,Primary Clarifiers,2024-01-01 10:00:00
+414,Bio-reactor Tanks,2024-01-01 11:00:00
+414,Final Clarifier,2024-01-01 12:00:00
+414,Chlorine Contact Basin,2024-01-01 13:00:00
+414,Pond,2024-01-01 14:00:00
+414,De-chlorination Pond,2024-01-01 15:00:00
+414,Cascade Aerator,2024-01-01 16:00:00
+415,Coarse Screens,2024-01-01 08:00:00
+415,Fine Screens,2024-01-01 09:00:00
+415,Primary Clarifiers,2024-01-01 10:00:00
+415,Bio-reactor Tanks,2024-01-01 11:00:00
+415,Final Clarifier,2024-01-01 12:00:00
+415,Chlorine Contact Basin,2024-01-01 13:00:00
+415,Pond,2024-01-01 14:00:00
+415,De-chlorination Pond,2024-01-01 15:00:00
+415,Cascade Aerator,2024-01-01 16:00:00
+416,Coarse Screens,2024-01-01 08:00:00
+416,Fine Screens,2024-01-01 09:00:00
+416,Primary Clarifiers,2024-01-01 10:00:00
+416,Bio-reactor Tanks,2024-01-01 11:00:00
+416,Final Clarifier,2024-01-01 12:00:00
+416,Chlorine Contact Basin,2024-01-01 13:00:00
+416,Pond,2024-01-01 14:00:00
+416,De-chlorination Pond,2024-01-01 15:00:00
+416,Cascade Aerator,2024-01-01 16:00:00
+417,Coarse Screens,2024-01-01 08:00:00
+417,Fine Screens,2024-01-01 09:00:00
+417,Primary Clarifiers,2024-01-01 10:00:00
+417,Bio-reactor Tanks,2024-01-01 11:00:00
+417,Final Clarifier,2024-01-01 12:00:00
+417,Chlorine Contact Basin,2024-01-01 13:00:00
+417,Pond,2024-01-01 14:00:00
+417,De-chlorination Pond,2024-01-01 15:00:00
+417,Cascade Aerator,2024-01-01 16:00:00
+418,Coarse Screens,2024-01-01 08:00:00
+418,Fine Screens,2024-01-01 09:00:00
+418,Primary Clarifiers,2024-01-01 10:00:00
+418,Bio-reactor Tanks,2024-01-01 11:00:00
+418,Final Clarifier,2024-01-01 12:00:00
+418,Chlorine Contact Basin,2024-01-01 13:00:00
+418,Pond,2024-01-01 14:00:00
+418,De-chlorination Pond,2024-01-01 15:00:00
+418,Cascade Aerator,2024-01-01 16:00:00
+419,Coarse Screens,2024-01-01 08:00:00
+419,Fine Screens,2024-01-01 09:00:00
+419,Primary Clarifiers,2024-01-01 10:00:00
+419,Bio-reactor Tanks,2024-01-01 11:00:00
+419,Final Clarifier,2024-01-01 12:00:00
+419,Chlorine Contact Basin,2024-01-01 13:00:00
+419,Pond,2024-01-01 14:00:00
+419,De-chlorination Pond,2024-01-01 15:00:00
+419,Cascade Aerator,2024-01-01 16:00:00
+420,Coarse Screens,2024-01-01 08:00:00
+420,Fine Screens,2024-01-01 09:00:00
+420,Primary Clarifiers,2024-01-01 10:00:00
+420,Bio-reactor Tanks,2024-01-01 11:00:00
+420,Final Clarifier,2024-01-01 12:00:00
+420,Chlorine Contact Basin,2024-01-01 13:00:00
+420,Pond,2024-01-01 14:00:00
+420,De-chlorination Pond,2024-01-01 15:00:00
+420,Cascade Aerator,2024-01-01 16:00:00
+421,Coarse Screens,2024-01-01 08:00:00
+421,Fine Screens,2024-01-01 09:00:00
+421,Primary Clarifiers,2024-01-01 10:00:00
+421,Bio-reactor Tanks,2024-01-01 11:00:00
+421,Final Clarifier,2024-01-01 12:00:00
+421,Chlorine Contact Basin,2024-01-01 13:00:00
+421,Pond,2024-01-01 14:00:00
+421,De-chlorination Pond,2024-01-01 15:00:00
+421,Cascade Aerator,2024-01-01 16:00:00
+422,Coarse Screens,2024-01-01 08:00:00
+422,Fine Screens,2024-01-01 09:00:00
+422,Primary Clarifiers,2024-01-01 10:00:00
+422,Bio-reactor Tanks,2024-01-01 11:00:00
+422,Final Clarifier,2024-01-01 12:00:00
+422,Chlorine Contact Basin,2024-01-01 13:00:00
+422,Pond,2024-01-01 14:00:00
+422,De-chlorination Pond,2024-01-01 15:00:00
+422,Cascade Aerator,2024-01-01 16:00:00
+423,Coarse Screens,2024-01-01 08:00:00
+423,Fine Screens,2024-01-01 09:00:00
+423,Primary Clarifiers,2024-01-01 10:00:00
+423,Bio-reactor Tanks,2024-01-01 11:00:00
+423,Final Clarifier,2024-01-01 12:00:00
+423,Chlorine Contact Basin,2024-01-01 13:00:00
+423,Pond,2024-01-01 14:00:00
+423,De-chlorination Pond,2024-01-01 15:00:00
+423,Cascade Aerator,2024-01-01 16:00:00
+424,Coarse Screens,2024-01-01 08:00:00
+424,Fine Screens,2024-01-01 09:00:00
+424,Primary Clarifiers,2024-01-01 10:00:00
+424,Bio-reactor Tanks,2024-01-01 11:00:00
+424,Final Clarifier,2024-01-01 12:00:00
+424,Chlorine Contact Basin,2024-01-01 13:00:00
+424,Pond,2024-01-01 14:00:00
+424,De-chlorination Pond,2024-01-01 15:00:00
+424,Cascade Aerator,2024-01-01 16:00:00
+425,Coarse Screens,2024-01-01 08:00:00
+425,Fine Screens,2024-01-01 09:00:00
+425,Primary Clarifiers,2024-01-01 10:00:00
+425,Bio-reactor Tanks,2024-01-01 11:00:00
+425,Final Clarifier,2024-01-01 12:00:00
+425,Chlorine Contact Basin,2024-01-01 13:00:00
+425,Pond,2024-01-01 14:00:00
+425,De-chlorination Pond,2024-01-01 15:00:00
+425,Cascade Aerator,2024-01-01 16:00:00
+426,Coarse Screens,2024-01-01 08:00:00
+426,Fine Screens,2024-01-01 09:00:00
+426,Primary Clarifiers,2024-01-01 10:00:00
+426,Bio-reactor Tanks,2024-01-01 11:00:00
+426,Final Clarifier,2024-01-01 12:00:00
+426,Chlorine Contact Basin,2024-01-01 13:00:00
+426,Pond,2024-01-01 14:00:00
+426,De-chlorination Pond,2024-01-01 15:00:00
+426,Cascade Aerator,2024-01-01 16:00:00
+427,Coarse Screens,2024-01-01 08:00:00
+427,Fine Screens,2024-01-01 09:00:00
+427,Primary Clarifiers,2024-01-01 10:00:00
+427,Bio-reactor Tanks,2024-01-01 11:00:00
+427,Final Clarifier,2024-01-01 12:00:00
+427,Chlorine Contact Basin,2024-01-01 13:00:00
+427,Pond,2024-01-01 14:00:00
+427,De-chlorination Pond,2024-01-01 15:00:00
+427,Cascade Aerator,2024-01-01 16:00:00
+428,Coarse Screens,2024-01-01 08:00:00
+428,Fine Screens,2024-01-01 09:00:00
+428,Primary Clarifiers,2024-01-01 10:00:00
+428,Bio-reactor Tanks,2024-01-01 11:00:00
+428,Final Clarifier,2024-01-01 12:00:00
+428,Chlorine Contact Basin,2024-01-01 13:00:00
+428,Pond,2024-01-01 14:00:00
+428,De-chlorination Pond,2024-01-01 15:00:00
+428,Cascade Aerator,2024-01-01 16:00:00
+429,Coarse Screens,2024-01-01 08:00:00
+429,Fine Screens,2024-01-01 09:00:00
+429,Primary Clarifiers,2024-01-01 10:00:00
+429,Bio-reactor Tanks,2024-01-01 11:00:00
+429,Final Clarifier,2024-01-01 12:00:00
+429,Chlorine Contact Basin,2024-01-01 13:00:00
+429,Pond,2024-01-01 14:00:00
+429,De-chlorination Pond,2024-01-01 15:00:00
+429,Cascade Aerator,2024-01-01 16:00:00
+430,Coarse Screens,2024-01-01 08:00:00
+430,Fine Screens,2024-01-01 09:00:00
+430,Primary Clarifiers,2024-01-01 10:00:00
+430,Bio-reactor Tanks,2024-01-01 11:00:00
+430,Final Clarifier,2024-01-01 12:00:00
+430,Chlorine Contact Basin,2024-01-01 13:00:00
+430,Pond,2024-01-01 14:00:00
+430,De-chlorination Pond,2024-01-01 15:00:00
+430,Cascade Aerator,2024-01-01 16:00:00
+431,Coarse Screens,2024-01-01 08:00:00
+431,Fine Screens,2024-01-01 09:00:00
+431,Primary Clarifiers,2024-01-01 10:00:00
+431,Bio-reactor Tanks,2024-01-01 11:00:00
+431,Final Clarifier,2024-01-01 12:00:00
+431,Chlorine Contact Basin,2024-01-01 13:00:00
+431,Pond,2024-01-01 14:00:00
+431,De-chlorination Pond,2024-01-01 15:00:00
+431,Cascade Aerator,2024-01-01 16:00:00
+432,Coarse Screens,2024-01-01 08:00:00
+432,Fine Screens,2024-01-01 09:00:00
+432,Primary Clarifiers,2024-01-01 10:00:00
+432,Bio-reactor Tanks,2024-01-01 11:00:00
+432,Final Clarifier,2024-01-01 12:00:00
+432,Chlorine Contact Basin,2024-01-01 13:00:00
+432,Pond,2024-01-01 14:00:00
+432,De-chlorination Pond,2024-01-01 15:00:00
+432,Cascade Aerator,2024-01-01 16:00:00
+433,Coarse Screens,2024-01-01 08:00:00
+433,Fine Screens,2024-01-01 09:00:00
+433,Primary Clarifiers,2024-01-01 10:00:00
+433,Bio-reactor Tanks,2024-01-01 11:00:00
+433,Final Clarifier,2024-01-01 12:00:00
+433,Chlorine Contact Basin,2024-01-01 13:00:00
+433,Pond,2024-01-01 14:00:00
+433,De-chlorination Pond,2024-01-01 15:00:00
+433,Cascade Aerator,2024-01-01 16:00:00
+434,Coarse Screens,2024-01-01 08:00:00
+434,Fine Screens,2024-01-01 09:00:00
+434,Primary Clarifiers,2024-01-01 10:00:00
+434,Bio-reactor Tanks,2024-01-01 11:00:00
+434,Final Clarifier,2024-01-01 12:00:00
+434,Chlorine Contact Basin,2024-01-01 13:00:00
+434,Pond,2024-01-01 14:00:00
+434,De-chlorination Pond,2024-01-01 15:00:00
+434,Cascade Aerator,2024-01-01 16:00:00
+435,Coarse Screens,2024-01-01 08:00:00
+435,Fine Screens,2024-01-01 09:00:00
+435,Primary Clarifiers,2024-01-01 10:00:00
+435,Bio-reactor Tanks,2024-01-01 11:00:00
+435,Final Clarifier,2024-01-01 12:00:00
+435,Chlorine Contact Basin,2024-01-01 13:00:00
+435,Pond,2024-01-01 14:00:00
+435,De-chlorination Pond,2024-01-01 15:00:00
+435,Cascade Aerator,2024-01-01 16:00:00
+436,Coarse Screens,2024-01-01 08:00:00
+436,Fine Screens,2024-01-01 09:00:00
+436,Primary Clarifiers,2024-01-01 10:00:00
+436,Bio-reactor Tanks,2024-01-01 11:00:00
+436,Final Clarifier,2024-01-01 12:00:00
+436,Chlorine Contact Basin,2024-01-01 13:00:00
+436,Pond,2024-01-01 14:00:00
+436,De-chlorination Pond,2024-01-01 15:00:00
+436,Cascade Aerator,2024-01-01 16:00:00
+437,Coarse Screens,2024-01-01 08:00:00
+437,Fine Screens,2024-01-01 09:00:00
+437,Primary Clarifiers,2024-01-01 10:00:00
+437,Bio-reactor Tanks,2024-01-01 11:00:00
+437,Final Clarifier,2024-01-01 12:00:00
+437,Chlorine Contact Basin,2024-01-01 13:00:00
+437,Pond,2024-01-01 14:00:00
+437,De-chlorination Pond,2024-01-01 15:00:00
+437,Cascade Aerator,2024-01-01 16:00:00
+438,Coarse Screens,2024-01-01 08:00:00
+438,Fine Screens,2024-01-01 09:00:00
+438,Primary Clarifiers,2024-01-01 10:00:00
+438,Bio-reactor Tanks,2024-01-01 11:00:00
+438,Final Clarifier,2024-01-01 12:00:00
+438,Chlorine Contact Basin,2024-01-01 13:00:00
+438,Pond,2024-01-01 14:00:00
+438,De-chlorination Pond,2024-01-01 15:00:00
+438,Cascade Aerator,2024-01-01 16:00:00
+439,Coarse Screens,2024-01-01 08:00:00
+439,Fine Screens,2024-01-01 09:00:00
+439,Primary Clarifiers,2024-01-01 10:00:00
+439,Bio-reactor Tanks,2024-01-01 11:00:00
+439,Final Clarifier,2024-01-01 12:00:00
+439,Chlorine Contact Basin,2024-01-01 13:00:00
+439,Pond,2024-01-01 14:00:00
+439,De-chlorination Pond,2024-01-01 15:00:00
+439,Cascade Aerator,2024-01-01 16:00:00
+440,Coarse Screens,2024-01-01 08:00:00
+440,Fine Screens,2024-01-01 09:00:00
+440,Primary Clarifiers,2024-01-01 10:00:00
+440,Bio-reactor Tanks,2024-01-01 11:00:00
+440,Final Clarifier,2024-01-01 12:00:00
+440,Chlorine Contact Basin,2024-01-01 13:00:00
+440,Pond,2024-01-01 14:00:00
+440,De-chlorination Pond,2024-01-01 15:00:00
+440,Cascade Aerator,2024-01-01 16:00:00
+441,Coarse Screens,2024-01-01 08:00:00
+441,Fine Screens,2024-01-01 09:00:00
+441,Primary Clarifiers,2024-01-01 10:00:00
+441,Bio-reactor Tanks,2024-01-01 11:00:00
+441,Final Clarifier,2024-01-01 12:00:00
+441,Chlorine Contact Basin,2024-01-01 13:00:00
+441,Pond,2024-01-01 14:00:00
+441,De-chlorination Pond,2024-01-01 15:00:00
+441,Cascade Aerator,2024-01-01 16:00:00
+442,Coarse Screens,2024-01-01 08:00:00
+442,Fine Screens,2024-01-01 09:00:00
+442,Primary Clarifiers,2024-01-01 10:00:00
+442,Bio-reactor Tanks,2024-01-01 11:00:00
+442,Final Clarifier,2024-01-01 12:00:00
+442,Chlorine Contact Basin,2024-01-01 13:00:00
+442,Pond,2024-01-01 14:00:00
+442,De-chlorination Pond,2024-01-01 15:00:00
+442,Cascade Aerator,2024-01-01 16:00:00
+443,Coarse Screens,2024-01-01 08:00:00
+443,Fine Screens,2024-01-01 09:00:00
+443,Primary Clarifiers,2024-01-01 10:00:00
+443,Bio-reactor Tanks,2024-01-01 11:00:00
+443,Final Clarifier,2024-01-01 12:00:00
+443,Chlorine Contact Basin,2024-01-01 13:00:00
+443,Pond,2024-01-01 14:00:00
+443,De-chlorination Pond,2024-01-01 15:00:00
+443,Cascade Aerator,2024-01-01 16:00:00
+444,Coarse Screens,2024-01-01 08:00:00
+444,Fine Screens,2024-01-01 09:00:00
+444,Primary Clarifiers,2024-01-01 10:00:00
+444,Bio-reactor Tanks,2024-01-01 11:00:00
+444,Final Clarifier,2024-01-01 12:00:00
+444,Chlorine Contact Basin,2024-01-01 13:00:00
+444,Pond,2024-01-01 14:00:00
+444,De-chlorination Pond,2024-01-01 15:00:00
+444,Cascade Aerator,2024-01-01 16:00:00
+445,Coarse Screens,2024-01-01 08:00:00
+445,Fine Screens,2024-01-01 09:00:00
+445,Primary Clarifiers,2024-01-01 10:00:00
+445,Bio-reactor Tanks,2024-01-01 11:00:00
+445,Final Clarifier,2024-01-01 12:00:00
+445,Chlorine Contact Basin,2024-01-01 13:00:00
+445,Pond,2024-01-01 14:00:00
+445,De-chlorination Pond,2024-01-01 15:00:00
+445,Cascade Aerator,2024-01-01 16:00:00
+446,Coarse Screens,2024-01-01 08:00:00
+446,Fine Screens,2024-01-01 09:00:00
+446,Primary Clarifiers,2024-01-01 10:00:00
+446,Bio-reactor Tanks,2024-01-01 11:00:00
+446,Final Clarifier,2024-01-01 12:00:00
+446,Chlorine Contact Basin,2024-01-01 13:00:00
+446,Pond,2024-01-01 14:00:00
+446,De-chlorination Pond,2024-01-01 15:00:00
+446,Cascade Aerator,2024-01-01 16:00:00
+447,Coarse Screens,2024-01-01 08:00:00
+447,Fine Screens,2024-01-01 09:00:00
+447,Primary Clarifiers,2024-01-01 10:00:00
+447,Bio-reactor Tanks,2024-01-01 11:00:00
+447,Final Clarifier,2024-01-01 12:00:00
+447,Chlorine Contact Basin,2024-01-01 13:00:00
+447,Pond,2024-01-01 14:00:00
+447,De-chlorination Pond,2024-01-01 15:00:00
+447,Cascade Aerator,2024-01-01 16:00:00
+448,Coarse Screens,2024-01-01 08:00:00
+448,Fine Screens,2024-01-01 09:00:00
+448,Primary Clarifiers,2024-01-01 10:00:00
+448,Bio-reactor Tanks,2024-01-01 11:00:00
+448,Final Clarifier,2024-01-01 12:00:00
+448,Chlorine Contact Basin,2024-01-01 13:00:00
+448,Pond,2024-01-01 14:00:00
+448,De-chlorination Pond,2024-01-01 15:00:00
+448,Cascade Aerator,2024-01-01 16:00:00
+449,Coarse Screens,2024-01-01 08:00:00
+449,Fine Screens,2024-01-01 09:00:00
+449,Primary Clarifiers,2024-01-01 10:00:00
+449,Bio-reactor Tanks,2024-01-01 11:00:00
+449,Final Clarifier,2024-01-01 12:00:00
+449,Chlorine Contact Basin,2024-01-01 13:00:00
+449,Pond,2024-01-01 14:00:00
+449,De-chlorination Pond,2024-01-01 15:00:00
+449,Cascade Aerator,2024-01-01 16:00:00
+450,Coarse Screens,2024-01-01 08:00:00
+450,Fine Screens,2024-01-01 09:00:00
+450,Primary Clarifiers,2024-01-01 10:00:00
+450,Bio-reactor Tanks,2024-01-01 11:00:00
+450,Final Clarifier,2024-01-01 12:00:00
+450,Chlorine Contact Basin,2024-01-01 13:00:00
+450,Pond,2024-01-01 14:00:00
+450,De-chlorination Pond,2024-01-01 15:00:00
+450,Cascade Aerator,2024-01-01 16:00:00
+451,Coarse Screens,2024-01-01 08:00:00
+451,Fine Screens,2024-01-01 09:00:00
+451,Primary Clarifiers,2024-01-01 10:00:00
+451,Bio-reactor Tanks,2024-01-01 11:00:00
+451,Final Clarifier,2024-01-01 12:00:00
+451,Chlorine Contact Basin,2024-01-01 13:00:00
+451,Pond,2024-01-01 14:00:00
+451,De-chlorination Pond,2024-01-01 15:00:00
+451,Cascade Aerator,2024-01-01 16:00:00
+452,Coarse Screens,2024-01-01 08:00:00
+452,Fine Screens,2024-01-01 09:00:00
+452,Primary Clarifiers,2024-01-01 10:00:00
+452,Bio-reactor Tanks,2024-01-01 11:00:00
+452,Final Clarifier,2024-01-01 12:00:00
+452,Chlorine Contact Basin,2024-01-01 13:00:00
+452,Pond,2024-01-01 14:00:00
+452,De-chlorination Pond,2024-01-01 15:00:00
+452,Cascade Aerator,2024-01-01 16:00:00
+453,Coarse Screens,2024-01-01 08:00:00
+453,Fine Screens,2024-01-01 09:00:00
+453,Primary Clarifiers,2024-01-01 10:00:00
+453,Bio-reactor Tanks,2024-01-01 11:00:00
+453,Final Clarifier,2024-01-01 12:00:00
+453,Chlorine Contact Basin,2024-01-01 13:00:00
+453,Pond,2024-01-01 14:00:00
+453,De-chlorination Pond,2024-01-01 15:00:00
+453,Cascade Aerator,2024-01-01 16:00:00
+454,Coarse Screens,2024-01-01 08:00:00
+454,Fine Screens,2024-01-01 09:00:00
+454,Primary Clarifiers,2024-01-01 10:00:00
+454,Bio-reactor Tanks,2024-01-01 11:00:00
+454,Final Clarifier,2024-01-01 12:00:00
+454,Chlorine Contact Basin,2024-01-01 13:00:00
+454,Pond,2024-01-01 14:00:00
+454,De-chlorination Pond,2024-01-01 15:00:00
+454,Cascade Aerator,2024-01-01 16:00:00
+455,Coarse Screens,2024-01-01 08:00:00
+455,Fine Screens,2024-01-01 09:00:00
+455,Primary Clarifiers,2024-01-01 10:00:00
+455,Bio-reactor Tanks,2024-01-01 11:00:00
+455,Final Clarifier,2024-01-01 12:00:00
+455,Chlorine Contact Basin,2024-01-01 13:00:00
+455,Pond,2024-01-01 14:00:00
+455,De-chlorination Pond,2024-01-01 15:00:00
+455,Cascade Aerator,2024-01-01 16:00:00
+456,Coarse Screens,2024-01-01 08:00:00
+456,Fine Screens,2024-01-01 09:00:00
+456,Primary Clarifiers,2024-01-01 10:00:00
+456,Bio-reactor Tanks,2024-01-01 11:00:00
+456,Final Clarifier,2024-01-01 12:00:00
+456,Chlorine Contact Basin,2024-01-01 13:00:00
+456,Pond,2024-01-01 14:00:00
+456,De-chlorination Pond,2024-01-01 15:00:00
+456,Cascade Aerator,2024-01-01 16:00:00
+457,Coarse Screens,2024-01-01 08:00:00
+457,Fine Screens,2024-01-01 09:00:00
+457,Primary Clarifiers,2024-01-01 10:00:00
+457,Bio-reactor Tanks,2024-01-01 11:00:00
+457,Final Clarifier,2024-01-01 12:00:00
+457,Chlorine Contact Basin,2024-01-01 13:00:00
+457,Pond,2024-01-01 14:00:00
+457,De-chlorination Pond,2024-01-01 15:00:00
+457,Cascade Aerator,2024-01-01 16:00:00
+458,Coarse Screens,2024-01-01 08:00:00
+458,Fine Screens,2024-01-01 09:00:00
+458,Primary Clarifiers,2024-01-01 10:00:00
+458,Bio-reactor Tanks,2024-01-01 11:00:00
+458,Final Clarifier,2024-01-01 12:00:00
+458,Chlorine Contact Basin,2024-01-01 13:00:00
+458,Pond,2024-01-01 14:00:00
+458,De-chlorination Pond,2024-01-01 15:00:00
+458,Cascade Aerator,2024-01-01 16:00:00
+459,Coarse Screens,2024-01-01 08:00:00
+459,Fine Screens,2024-01-01 09:00:00
+459,Primary Clarifiers,2024-01-01 10:00:00
+459,Bio-reactor Tanks,2024-01-01 11:00:00
+459,Final Clarifier,2024-01-01 12:00:00
+459,Chlorine Contact Basin,2024-01-01 13:00:00
+459,Pond,2024-01-01 14:00:00
+459,De-chlorination Pond,2024-01-01 15:00:00
+459,Cascade Aerator,2024-01-01 16:00:00
+460,Coarse Screens,2024-01-01 08:00:00
+460,Fine Screens,2024-01-01 09:00:00
+460,Primary Clarifiers,2024-01-01 10:00:00
+460,Bio-reactor Tanks,2024-01-01 11:00:00
+460,Final Clarifier,2024-01-01 12:00:00
+460,Chlorine Contact Basin,2024-01-01 13:00:00
+460,Pond,2024-01-01 14:00:00
+460,De-chlorination Pond,2024-01-01 15:00:00
+460,Cascade Aerator,2024-01-01 16:00:00
+461,Coarse Screens,2024-01-01 08:00:00
+461,Fine Screens,2024-01-01 09:00:00
+461,Primary Clarifiers,2024-01-01 10:00:00
+461,Bio-reactor Tanks,2024-01-01 11:00:00
+461,Final Clarifier,2024-01-01 12:00:00
+461,Chlorine Contact Basin,2024-01-01 13:00:00
+461,Pond,2024-01-01 14:00:00
+461,De-chlorination Pond,2024-01-01 15:00:00
+461,Cascade Aerator,2024-01-01 16:00:00
+462,Coarse Screens,2024-01-01 08:00:00
+462,Fine Screens,2024-01-01 09:00:00
+462,Primary Clarifiers,2024-01-01 10:00:00
+462,Bio-reactor Tanks,2024-01-01 11:00:00
+462,Final Clarifier,2024-01-01 12:00:00
+462,Chlorine Contact Basin,2024-01-01 13:00:00
+462,Pond,2024-01-01 14:00:00
+462,De-chlorination Pond,2024-01-01 15:00:00
+462,Cascade Aerator,2024-01-01 16:00:00
+463,Coarse Screens,2024-01-01 08:00:00
+463,Fine Screens,2024-01-01 09:00:00
+463,Primary Clarifiers,2024-01-01 10:00:00
+463,Bio-reactor Tanks,2024-01-01 11:00:00
+463,Final Clarifier,2024-01-01 12:00:00
+463,Chlorine Contact Basin,2024-01-01 13:00:00
+463,Pond,2024-01-01 14:00:00
+463,De-chlorination Pond,2024-01-01 15:00:00
+463,Cascade Aerator,2024-01-01 16:00:00
+464,Coarse Screens,2024-01-01 08:00:00
+464,Fine Screens,2024-01-01 09:00:00
+464,Primary Clarifiers,2024-01-01 10:00:00
+464,Bio-reactor Tanks,2024-01-01 11:00:00
+464,Final Clarifier,2024-01-01 12:00:00
+464,Chlorine Contact Basin,2024-01-01 13:00:00
+464,Pond,2024-01-01 14:00:00
+464,De-chlorination Pond,2024-01-01 15:00:00
+464,Cascade Aerator,2024-01-01 16:00:00
+465,Coarse Screens,2024-01-01 08:00:00
+465,Fine Screens,2024-01-01 09:00:00
+465,Primary Clarifiers,2024-01-01 10:00:00
+465,Bio-reactor Tanks,2024-01-01 11:00:00
+465,Final Clarifier,2024-01-01 12:00:00
+465,Chlorine Contact Basin,2024-01-01 13:00:00
+465,Pond,2024-01-01 14:00:00
+465,De-chlorination Pond,2024-01-01 15:00:00
+465,Cascade Aerator,2024-01-01 16:00:00
+466,Coarse Screens,2024-01-01 08:00:00
+466,Fine Screens,2024-01-01 09:00:00
+466,Primary Clarifiers,2024-01-01 10:00:00
+466,Bio-reactor Tanks,2024-01-01 11:00:00
+466,Final Clarifier,2024-01-01 12:00:00
+466,Chlorine Contact Basin,2024-01-01 13:00:00
+466,Pond,2024-01-01 14:00:00
+466,De-chlorination Pond,2024-01-01 15:00:00
+466,Cascade Aerator,2024-01-01 16:00:00
+467,Coarse Screens,2024-01-01 08:00:00
+467,Fine Screens,2024-01-01 09:00:00
+467,Primary Clarifiers,2024-01-01 10:00:00
+467,Bio-reactor Tanks,2024-01-01 11:00:00
+467,Final Clarifier,2024-01-01 12:00:00
+467,Chlorine Contact Basin,2024-01-01 13:00:00
+467,Pond,2024-01-01 14:00:00
+467,De-chlorination Pond,2024-01-01 15:00:00
+467,Cascade Aerator,2024-01-01 16:00:00
+468,Coarse Screens,2024-01-01 08:00:00
+468,Fine Screens,2024-01-01 09:00:00
+468,Primary Clarifiers,2024-01-01 10:00:00
+468,Bio-reactor Tanks,2024-01-01 11:00:00
+468,Final Clarifier,2024-01-01 12:00:00
+468,Chlorine Contact Basin,2024-01-01 13:00:00
+468,Pond,2024-01-01 14:00:00
+468,De-chlorination Pond,2024-01-01 15:00:00
+468,Cascade Aerator,2024-01-01 16:00:00
+469,Coarse Screens,2024-01-01 08:00:00
+469,Fine Screens,2024-01-01 09:00:00
+469,Primary Clarifiers,2024-01-01 10:00:00
+469,Bio-reactor Tanks,2024-01-01 11:00:00
+469,Final Clarifier,2024-01-01 12:00:00
+469,Chlorine Contact Basin,2024-01-01 13:00:00
+469,Pond,2024-01-01 14:00:00
+469,De-chlorination Pond,2024-01-01 15:00:00
+469,Effluent Pumping Station,2024-01-01 16:00:00
+470,Coarse Screens,2024-01-01 08:00:00
+470,Fine Screens,2024-01-01 09:00:00
+470,Primary Clarifiers,2024-01-01 10:00:00
+470,Bio-reactor Tanks,2024-01-01 11:00:00
+470,Final Clarifier,2024-01-01 12:00:00
+470,Chlorine Contact Basin,2024-01-01 13:00:00
+470,Pond,2024-01-01 14:00:00
+470,De-chlorination Pond,2024-01-01 15:00:00
+470,Effluent Pumping Station,2024-01-01 16:00:00
+471,Coarse Screens,2024-01-01 08:00:00
+471,Fine Screens,2024-01-01 09:00:00
+471,Primary Clarifiers,2024-01-01 10:00:00
+471,Bio-reactor Tanks,2024-01-01 11:00:00
+471,Final Clarifier,2024-01-01 12:00:00
+471,Chlorine Contact Basin,2024-01-01 13:00:00
+471,Pond,2024-01-01 14:00:00
+471,De-chlorination Pond,2024-01-01 15:00:00
+471,Effluent Pumping Station,2024-01-01 16:00:00
+472,Coarse Screens,2024-01-01 08:00:00
+472,Fine Screens,2024-01-01 09:00:00
+472,Primary Clarifiers,2024-01-01 10:00:00
+472,Bio-reactor Tanks,2024-01-01 11:00:00
+472,Final Clarifier,2024-01-01 12:00:00
+472,Chlorine Contact Basin,2024-01-01 13:00:00
+472,Pond,2024-01-01 14:00:00
+472,De-chlorination Pond,2024-01-01 15:00:00
+472,Effluent Pumping Station,2024-01-01 16:00:00
+473,Coarse Screens,2024-01-01 08:00:00
+473,Fine Screens,2024-01-01 09:00:00
+473,Primary Clarifiers,2024-01-01 10:00:00
+473,Bio-reactor Tanks,2024-01-01 11:00:00
+473,Final Clarifier,2024-01-01 12:00:00
+473,Chlorine Contact Basin,2024-01-01 13:00:00
+473,Pond,2024-01-01 14:00:00
+473,De-chlorination Pond,2024-01-01 15:00:00
+473,Effluent Pumping Station,2024-01-01 16:00:00
+474,Coarse Screens,2024-01-01 08:00:00
+474,Fine Screens,2024-01-01 09:00:00
+474,Primary Clarifiers,2024-01-01 10:00:00
+474,Bio-reactor Tanks,2024-01-01 11:00:00
+474,Final Clarifier,2024-01-01 12:00:00
+474,Chlorine Contact Basin,2024-01-01 13:00:00
+474,Pond,2024-01-01 14:00:00
+474,De-chlorination Pond,2024-01-01 15:00:00
+474,Effluent Pumping Station,2024-01-01 16:00:00
+475,Coarse Screens,2024-01-01 08:00:00
+475,Fine Screens,2024-01-01 09:00:00
+475,Primary Clarifiers,2024-01-01 10:00:00
+475,Bio-reactor Tanks,2024-01-01 11:00:00
+475,Final Clarifier,2024-01-01 12:00:00
+475,Chlorine Contact Basin,2024-01-01 13:00:00
+475,Pond,2024-01-01 14:00:00
+475,De-chlorination Pond,2024-01-01 15:00:00
+475,Effluent Pumping Station,2024-01-01 16:00:00
+476,Coarse Screens,2024-01-01 08:00:00
+476,Fine Screens,2024-01-01 09:00:00
+476,Primary Clarifiers,2024-01-01 10:00:00
+476,Bio-reactor Tanks,2024-01-01 11:00:00
+476,Final Clarifier,2024-01-01 12:00:00
+476,Chlorine Contact Basin,2024-01-01 13:00:00
+476,Pond,2024-01-01 14:00:00
+476,De-chlorination Pond,2024-01-01 15:00:00
+476,Effluent Pumping Station,2024-01-01 16:00:00
+477,Coarse Screens,2024-01-01 08:00:00
+477,Fine Screens,2024-01-01 09:00:00
+477,Primary Clarifiers,2024-01-01 10:00:00
+477,Bio-reactor Tanks,2024-01-01 11:00:00
+477,Final Clarifier,2024-01-01 12:00:00
+477,Chlorine Contact Basin,2024-01-01 13:00:00
+477,Pond,2024-01-01 14:00:00
+477,De-chlorination Pond,2024-01-01 15:00:00
+477,Effluent Pumping Station,2024-01-01 16:00:00
+478,Coarse Screens,2024-01-01 08:00:00
+478,Fine Screens,2024-01-01 09:00:00
+478,Primary Clarifiers,2024-01-01 10:00:00
+478,Bio-reactor Tanks,2024-01-01 11:00:00
+478,Final Clarifier,2024-01-01 12:00:00
+478,Chlorine Contact Basin,2024-01-01 13:00:00
+478,Pond,2024-01-01 14:00:00
+478,De-chlorination Pond,2024-01-01 15:00:00
+478,Effluent Pumping Station,2024-01-01 16:00:00
+479,Coarse Screens,2024-01-01 08:00:00
+479,Fine Screens,2024-01-01 09:00:00
+479,Primary Clarifiers,2024-01-01 10:00:00
+479,Bio-reactor Tanks,2024-01-01 11:00:00
+479,Final Clarifier,2024-01-01 12:00:00
+479,Chlorine Contact Basin,2024-01-01 13:00:00
+479,Pond,2024-01-01 14:00:00
+479,De-chlorination Pond,2024-01-01 15:00:00
+479,Effluent Pumping Station,2024-01-01 16:00:00
+480,Coarse Screens,2024-01-01 08:00:00
+480,Fine Screens,2024-01-01 09:00:00
+480,Primary Clarifiers,2024-01-01 10:00:00
+480,Bio-reactor Tanks,2024-01-01 11:00:00
+480,Final Clarifier,2024-01-01 12:00:00
+480,Chlorine Contact Basin,2024-01-01 13:00:00
+480,Pond,2024-01-01 14:00:00
+480,De-chlorination Pond,2024-01-01 15:00:00
+480,Effluent Pumping Station,2024-01-01 16:00:00
+481,Coarse Screens,2024-01-01 08:00:00
+481,Fine Screens,2024-01-01 09:00:00
+481,Primary Clarifiers,2024-01-01 10:00:00
+481,Bio-reactor Tanks,2024-01-01 11:00:00
+481,Final Clarifier,2024-01-01 12:00:00
+481,Chlorine Contact Basin,2024-01-01 13:00:00
+481,Pond,2024-01-01 14:00:00
+481,De-chlorination Pond,2024-01-01 15:00:00
+481,Effluent Pumping Station,2024-01-01 16:00:00
+482,Coarse Screens,2024-01-01 08:00:00
+482,Fine Screens,2024-01-01 09:00:00
+482,Primary Clarifiers,2024-01-01 10:00:00
+482,Bio-reactor Tanks,2024-01-01 11:00:00
+482,Final Clarifier,2024-01-01 12:00:00
+482,Chlorine Contact Basin,2024-01-01 13:00:00
+482,Pond,2024-01-01 14:00:00
+482,De-chlorination Pond,2024-01-01 15:00:00
+482,Effluent Pumping Station,2024-01-01 16:00:00
+483,Coarse Screens,2024-01-01 08:00:00
+483,Fine Screens,2024-01-01 09:00:00
+483,Primary Clarifiers,2024-01-01 10:00:00
+483,Bio-reactor Tanks,2024-01-01 11:00:00
+483,Final Clarifier,2024-01-01 12:00:00
+483,Chlorine Contact Basin,2024-01-01 13:00:00
+483,Pond,2024-01-01 14:00:00
+483,De-chlorination Pond,2024-01-01 15:00:00
+483,Effluent Pumping Station,2024-01-01 16:00:00
+484,Coarse Screens,2024-01-01 08:00:00
+484,Fine Screens,2024-01-01 09:00:00
+484,Primary Clarifiers,2024-01-01 10:00:00
+484,Bio-reactor Tanks,2024-01-01 11:00:00
+484,Final Clarifier,2024-01-01 12:00:00
+484,Chlorine Contact Basin,2024-01-01 13:00:00
+484,Pond,2024-01-01 14:00:00
+484,De-chlorination Pond,2024-01-01 15:00:00
+484,Effluent Pumping Station,2024-01-01 16:00:00
+485,Coarse Screens,2024-01-01 08:00:00
+485,Fine Screens,2024-01-01 09:00:00
+485,Primary Clarifiers,2024-01-01 10:00:00
+485,Bio-reactor Tanks,2024-01-01 11:00:00
+485,Final Clarifier,2024-01-01 12:00:00
+485,Chlorine Contact Basin,2024-01-01 13:00:00
+485,Pond,2024-01-01 14:00:00
+485,De-chlorination Pond,2024-01-01 15:00:00
+485,Effluent Pumping Station,2024-01-01 16:00:00
+486,Coarse Screens,2024-01-01 08:00:00
+486,Fine Screens,2024-01-01 09:00:00
+486,Primary Clarifiers,2024-01-01 10:00:00
+486,Bio-reactor Tanks,2024-01-01 11:00:00
+486,Final Clarifier,2024-01-01 12:00:00
+486,Chlorine Contact Basin,2024-01-01 13:00:00
+486,Pond,2024-01-01 14:00:00
+486,De-chlorination Pond,2024-01-01 15:00:00
+486,Effluent Pumping Station,2024-01-01 16:00:00
+487,Coarse Screens,2024-01-01 08:00:00
+487,Fine Screens,2024-01-01 09:00:00
+487,Primary Clarifiers,2024-01-01 10:00:00
+487,Bio-reactor Tanks,2024-01-01 11:00:00
+487,Final Clarifier,2024-01-01 12:00:00
+487,Chlorine Contact Basin,2024-01-01 13:00:00
+487,Pond,2024-01-01 14:00:00
+487,De-chlorination Pond,2024-01-01 15:00:00
+487,Effluent Pumping Station,2024-01-01 16:00:00
+488,Coarse Screens,2024-01-01 08:00:00
+488,Fine Screens,2024-01-01 09:00:00
+488,Primary Clarifiers,2024-01-01 10:00:00
+488,Bio-reactor Tanks,2024-01-01 11:00:00
+488,Final Clarifier,2024-01-01 12:00:00
+488,Chlorine Contact Basin,2024-01-01 13:00:00
+488,Pond,2024-01-01 14:00:00
+488,De-chlorination Pond,2024-01-01 15:00:00
+488,Effluent Pumping Station,2024-01-01 16:00:00
+489,Coarse Screens,2024-01-01 08:00:00
+489,Fine Screens,2024-01-01 09:00:00
+489,Primary Clarifiers,2024-01-01 10:00:00
+489,Bio-reactor Tanks,2024-01-01 11:00:00
+489,Final Clarifier,2024-01-01 12:00:00
+489,Chlorine Contact Basin,2024-01-01 13:00:00
+489,Pond,2024-01-01 14:00:00
+489,De-chlorination Pond,2024-01-01 15:00:00
+489,Effluent Pumping Station,2024-01-01 16:00:00
+490,Coarse Screens,2024-01-01 08:00:00
+490,Fine Screens,2024-01-01 09:00:00
+490,Primary Clarifiers,2024-01-01 10:00:00
+490,Bio-reactor Tanks,2024-01-01 11:00:00
+490,Final Clarifier,2024-01-01 12:00:00
+490,Chlorine Contact Basin,2024-01-01 13:00:00
+490,Pond,2024-01-01 14:00:00
+490,De-chlorination Pond,2024-01-01 15:00:00
+490,Effluent Pumping Station,2024-01-01 16:00:00
+491,Coarse Screens,2024-01-01 08:00:00
+491,Fine Screens,2024-01-01 09:00:00
+491,Primary Clarifiers,2024-01-01 10:00:00
+491,Bio-reactor Tanks,2024-01-01 11:00:00
+491,Final Clarifier,2024-01-01 12:00:00
+491,Chlorine Contact Basin,2024-01-01 13:00:00
+491,Pond,2024-01-01 14:00:00
+491,De-chlorination Pond,2024-01-01 15:00:00
+491,Effluent Pumping Station,2024-01-01 16:00:00
+492,Coarse Screens,2024-01-01 08:00:00
+492,Fine Screens,2024-01-01 09:00:00
+492,Primary Clarifiers,2024-01-01 10:00:00
+492,Bio-reactor Tanks,2024-01-01 11:00:00
+492,Final Clarifier,2024-01-01 12:00:00
+492,Chlorine Contact Basin,2024-01-01 13:00:00
+492,Pond,2024-01-01 14:00:00
+492,De-chlorination Pond,2024-01-01 15:00:00
+492,Effluent Pumping Station,2024-01-01 16:00:00
+493,Coarse Screens,2024-01-01 08:00:00
+493,Fine Screens,2024-01-01 09:00:00
+493,Primary Clarifiers,2024-01-01 10:00:00
+493,Bio-reactor Tanks,2024-01-01 11:00:00
+493,Final Clarifier,2024-01-01 12:00:00
+493,Chlorine Contact Basin,2024-01-01 13:00:00
+493,Pond,2024-01-01 14:00:00
+493,De-chlorination Pond,2024-01-01 15:00:00
+493,Effluent Pumping Station,2024-01-01 16:00:00
+494,Coarse Screens,2024-01-01 08:00:00
+494,Fine Screens,2024-01-01 09:00:00
+494,Primary Clarifiers,2024-01-01 10:00:00
+494,Bio-reactor Tanks,2024-01-01 11:00:00
+494,Final Clarifier,2024-01-01 12:00:00
+494,Chlorine Contact Basin,2024-01-01 13:00:00
+494,Pond,2024-01-01 14:00:00
+494,De-chlorination Pond,2024-01-01 15:00:00
+494,Effluent Pumping Station,2024-01-01 16:00:00
+495,Coarse Screens,2024-01-01 08:00:00
+495,Fine Screens,2024-01-01 09:00:00
+495,Primary Clarifiers,2024-01-01 10:00:00
+495,Bio-reactor Tanks,2024-01-01 11:00:00
+495,Final Clarifier,2024-01-01 12:00:00
+495,Chlorine Contact Basin,2024-01-01 13:00:00
+495,Pond,2024-01-01 14:00:00
+495,De-chlorination Pond,2024-01-01 15:00:00
+495,Effluent Pumping Station,2024-01-01 16:00:00
+496,Coarse Screens,2024-01-01 08:00:00
+496,Fine Screens,2024-01-01 09:00:00
+496,Primary Clarifiers,2024-01-01 10:00:00
+496,Bio-reactor Tanks,2024-01-01 11:00:00
+496,Final Clarifier,2024-01-01 12:00:00
+496,Chlorine Contact Basin,2024-01-01 13:00:00
+496,Pond,2024-01-01 14:00:00
+496,De-chlorination Pond,2024-01-01 15:00:00
+496,Effluent Pumping Station,2024-01-01 16:00:00
+497,Coarse Screens,2024-01-01 08:00:00
+497,Fine Screens,2024-01-01 09:00:00
+497,Primary Clarifiers,2024-01-01 10:00:00
+497,Bio-reactor Tanks,2024-01-01 11:00:00
+497,Final Clarifier,2024-01-01 12:00:00
+497,Chlorine Contact Basin,2024-01-01 13:00:00
+497,Pond,2024-01-01 14:00:00
+497,De-chlorination Pond,2024-01-01 15:00:00
+497,Effluent Pumping Station,2024-01-01 16:00:00
+498,Coarse Screens,2024-01-01 08:00:00
+498,Fine Screens,2024-01-01 09:00:00
+498,Primary Clarifiers,2024-01-01 10:00:00
+498,Bio-reactor Tanks,2024-01-01 11:00:00
+498,Final Clarifier,2024-01-01 12:00:00
+498,Chlorine Contact Basin,2024-01-01 13:00:00
+498,Pond,2024-01-01 14:00:00
+498,De-chlorination Pond,2024-01-01 15:00:00
+498,Effluent Pumping Station,2024-01-01 16:00:00
+499,Coarse Screens,2024-01-01 08:00:00
+499,Fine Screens,2024-01-01 09:00:00
+499,Primary Clarifiers,2024-01-01 10:00:00
+499,Bio-reactor Tanks,2024-01-01 11:00:00
+499,Final Clarifier,2024-01-01 12:00:00
+499,Chlorine Contact Basin,2024-01-01 13:00:00
+499,Pond,2024-01-01 14:00:00
+499,De-chlorination Pond,2024-01-01 15:00:00
+499,Effluent Pumping Station,2024-01-01 16:00:00
+500,Coarse Screens,2024-01-01 08:00:00
+500,Fine Screens,2024-01-01 09:00:00
+500,Primary Clarifiers,2024-01-01 10:00:00
+500,Bio-reactor Tanks,2024-01-01 11:00:00
+500,Final Clarifier,2024-01-01 12:00:00
+500,Chlorine Contact Basin,2024-01-01 13:00:00
+500,Pond,2024-01-01 14:00:00
+500,De-chlorination Pond,2024-01-01 15:00:00
+500,Effluent Pumping Station,2024-01-01 16:00:00
+501,Coarse Screens,2024-01-01 08:00:00
+501,Fine Screens,2024-01-01 09:00:00
+501,Primary Clarifiers,2024-01-01 10:00:00
+501,Bio-reactor Tanks,2024-01-01 11:00:00
+501,Final Clarifier,2024-01-01 12:00:00
+501,Chlorine Contact Basin,2024-01-01 13:00:00
+501,Pond,2024-01-01 14:00:00
+501,De-chlorination Pond,2024-01-01 15:00:00
+501,Effluent Pumping Station,2024-01-01 16:00:00
+502,Coarse Screens,2024-01-01 08:00:00
+502,Fine Screens,2024-01-01 09:00:00
+502,Primary Clarifiers,2024-01-01 10:00:00
+502,Bio-reactor Tanks,2024-01-01 11:00:00
+502,Final Clarifier,2024-01-01 12:00:00
+502,Chlorine Contact Basin,2024-01-01 13:00:00
+502,Pond,2024-01-01 14:00:00
+502,De-chlorination Pond,2024-01-01 15:00:00
+502,Effluent Pumping Station,2024-01-01 16:00:00
+503,Coarse Screens,2024-01-01 08:00:00
+503,Fine Screens,2024-01-01 09:00:00
+503,Primary Clarifiers,2024-01-01 10:00:00
+503,Bio-reactor Tanks,2024-01-01 11:00:00
+503,Final Clarifier,2024-01-01 12:00:00
+503,Chlorine Contact Basin,2024-01-01 13:00:00
+503,Pond,2024-01-01 14:00:00
+503,De-chlorination Pond,2024-01-01 15:00:00
+503,Effluent Pumping Station,2024-01-01 16:00:00
+504,Coarse Screens,2024-01-01 08:00:00
+504,Fine Screens,2024-01-01 09:00:00
+504,Primary Clarifiers,2024-01-01 10:00:00
+504,Bio-reactor Tanks,2024-01-01 11:00:00
+504,Final Clarifier,2024-01-01 12:00:00
+504,Chlorine Contact Basin,2024-01-01 13:00:00
+504,Pond,2024-01-01 14:00:00
+504,De-chlorination Pond,2024-01-01 15:00:00
+504,Effluent Pumping Station,2024-01-01 16:00:00
+505,Coarse Screens,2024-01-01 08:00:00
+505,Fine Screens,2024-01-01 09:00:00
+505,Primary Clarifiers,2024-01-01 10:00:00
+505,Bio-reactor Tanks,2024-01-01 11:00:00
+505,Final Clarifier,2024-01-01 12:00:00
+505,Chlorine Contact Basin,2024-01-01 13:00:00
+505,Pond,2024-01-01 14:00:00
+505,De-chlorination Pond,2024-01-01 15:00:00
+505,Effluent Pumping Station,2024-01-01 16:00:00
+506,Coarse Screens,2024-01-01 08:00:00
+506,Fine Screens,2024-01-01 09:00:00
+506,Primary Clarifiers,2024-01-01 10:00:00
+506,Bio-reactor Tanks,2024-01-01 11:00:00
+506,Final Clarifier,2024-01-01 12:00:00
+506,Chlorine Contact Basin,2024-01-01 13:00:00
+506,Pond,2024-01-01 14:00:00
+506,De-chlorination Pond,2024-01-01 15:00:00
+506,Effluent Pumping Station,2024-01-01 16:00:00
+507,Coarse Screens,2024-01-01 08:00:00
+507,Fine Screens,2024-01-01 09:00:00
+507,Primary Clarifiers,2024-01-01 10:00:00
+507,Bio-reactor Tanks,2024-01-01 11:00:00
+507,Final Clarifier,2024-01-01 12:00:00
+507,Chlorine Contact Basin,2024-01-01 13:00:00
+507,Pond,2024-01-01 14:00:00
+507,De-chlorination Pond,2024-01-01 15:00:00
+507,Effluent Pumping Station,2024-01-01 16:00:00
+508,Coarse Screens,2024-01-01 08:00:00
+508,Fine Screens,2024-01-01 09:00:00
+508,Primary Clarifiers,2024-01-01 10:00:00
+508,Bio-reactor Tanks,2024-01-01 11:00:00
+508,Final Clarifier,2024-01-01 12:00:00
+508,Chlorine Contact Basin,2024-01-01 13:00:00
+508,Pond,2024-01-01 14:00:00
+508,De-chlorination Pond,2024-01-01 15:00:00
+508,Effluent Pumping Station,2024-01-01 16:00:00
+509,Coarse Screens,2024-01-01 08:00:00
+509,Fine Screens,2024-01-01 09:00:00
+509,Primary Clarifiers,2024-01-01 10:00:00
+509,Bio-reactor Tanks,2024-01-01 11:00:00
+509,Final Clarifier,2024-01-01 12:00:00
+509,Chlorine Contact Basin,2024-01-01 13:00:00
+509,Pond,2024-01-01 14:00:00
+509,De-chlorination Pond,2024-01-01 15:00:00
+509,Effluent Pumping Station,2024-01-01 16:00:00
+510,Coarse Screens,2024-01-01 08:00:00
+510,Fine Screens,2024-01-01 09:00:00
+510,Primary Clarifiers,2024-01-01 10:00:00
+510,Bio-reactor Tanks,2024-01-01 11:00:00
+510,Final Clarifier,2024-01-01 12:00:00
+510,Chlorine Contact Basin,2024-01-01 13:00:00
+510,Pond,2024-01-01 14:00:00
+510,De-chlorination Pond,2024-01-01 15:00:00
+510,Effluent Pumping Station,2024-01-01 16:00:00
+511,Coarse Screens,2024-01-01 08:00:00
+511,Fine Screens,2024-01-01 09:00:00
+511,Primary Clarifiers,2024-01-01 10:00:00
+511,Bio-reactor Tanks,2024-01-01 11:00:00
+511,Final Clarifier,2024-01-01 12:00:00
+511,Chlorine Contact Basin,2024-01-01 13:00:00
+511,Pond,2024-01-01 14:00:00
+511,De-chlorination Pond,2024-01-01 15:00:00
+511,Effluent Pumping Station,2024-01-01 16:00:00
+512,Coarse Screens,2024-01-01 08:00:00
+512,Fine Screens,2024-01-01 09:00:00
+512,Primary Clarifiers,2024-01-01 10:00:00
+512,Bio-reactor Tanks,2024-01-01 11:00:00
+512,Final Clarifier,2024-01-01 12:00:00
+512,Chlorine Contact Basin,2024-01-01 13:00:00
+512,Pond,2024-01-01 14:00:00
+512,De-chlorination Pond,2024-01-01 15:00:00
+512,Effluent Pumping Station,2024-01-01 16:00:00
+513,Coarse Screens,2024-01-01 08:00:00
+513,Fine Screens,2024-01-01 09:00:00
+513,Primary Clarifiers,2024-01-01 10:00:00
+513,Bio-reactor Tanks,2024-01-01 11:00:00
+513,Final Clarifier,2024-01-01 12:00:00
+513,Chlorine Contact Basin,2024-01-01 13:00:00
+513,Pond,2024-01-01 14:00:00
+513,De-chlorination Pond,2024-01-01 15:00:00
+513,Effluent Pumping Station,2024-01-01 16:00:00
+514,Coarse Screens,2024-01-01 08:00:00
+514,Fine Screens,2024-01-01 09:00:00
+514,Primary Clarifiers,2024-01-01 10:00:00
+514,Bio-reactor Tanks,2024-01-01 11:00:00
+514,Final Clarifier,2024-01-01 12:00:00
+514,Chlorine Contact Basin,2024-01-01 13:00:00
+514,Pond,2024-01-01 14:00:00
+514,De-chlorination Pond,2024-01-01 15:00:00
+514,Effluent Pumping Station,2024-01-01 16:00:00
+515,Coarse Screens,2024-01-01 08:00:00
+515,Fine Screens,2024-01-01 09:00:00
+515,Primary Clarifiers,2024-01-01 10:00:00
+515,Bio-reactor Tanks,2024-01-01 11:00:00
+515,Final Clarifier,2024-01-01 12:00:00
+515,Chlorine Contact Basin,2024-01-01 13:00:00
+515,Pond,2024-01-01 14:00:00
+515,De-chlorination Pond,2024-01-01 15:00:00
+515,Effluent Pumping Station,2024-01-01 16:00:00
+516,Coarse Screens,2024-01-01 08:00:00
+516,Fine Screens,2024-01-01 09:00:00
+516,Primary Clarifiers,2024-01-01 10:00:00
+516,Bio-reactor Tanks,2024-01-01 11:00:00
+516,Final Clarifier,2024-01-01 12:00:00
+516,Chlorine Contact Basin,2024-01-01 13:00:00
+516,Pond,2024-01-01 14:00:00
+516,De-chlorination Pond,2024-01-01 15:00:00
+516,Effluent Pumping Station,2024-01-01 16:00:00
+517,Coarse Screens,2024-01-01 08:00:00
+517,Fine Screens,2024-01-01 09:00:00
+517,Primary Clarifiers,2024-01-01 10:00:00
+517,Bio-reactor Tanks,2024-01-01 11:00:00
+517,Final Clarifier,2024-01-01 12:00:00
+517,Chlorine Contact Basin,2024-01-01 13:00:00
+517,Pond,2024-01-01 14:00:00
+517,De-chlorination Pond,2024-01-01 15:00:00
+517,Effluent Pumping Station,2024-01-01 16:00:00
+518,Coarse Screens,2024-01-01 08:00:00
+518,Fine Screens,2024-01-01 09:00:00
+518,Primary Clarifiers,2024-01-01 10:00:00
+518,Bio-reactor Tanks,2024-01-01 11:00:00
+518,Final Clarifier,2024-01-01 12:00:00
+518,Chlorine Contact Basin,2024-01-01 13:00:00
+518,Pond,2024-01-01 14:00:00
+518,De-chlorination Pond,2024-01-01 15:00:00
+518,Effluent Pumping Station,2024-01-01 16:00:00
+519,Coarse Screens,2024-01-01 08:00:00
+519,Fine Screens,2024-01-01 09:00:00
+519,Primary Clarifiers,2024-01-01 10:00:00
+519,Bio-reactor Tanks,2024-01-01 11:00:00
+519,Final Clarifier,2024-01-01 12:00:00
+519,Chlorine Contact Basin,2024-01-01 13:00:00
+519,Pond,2024-01-01 14:00:00
+519,De-chlorination Pond,2024-01-01 15:00:00
+519,Effluent Pumping Station,2024-01-01 16:00:00
+520,Coarse Screens,2024-01-01 08:00:00
+520,Fine Screens,2024-01-01 09:00:00
+520,Primary Clarifiers,2024-01-01 10:00:00
+520,Bio-reactor Tanks,2024-01-01 11:00:00
+520,Final Clarifier,2024-01-01 12:00:00
+520,Chlorine Contact Basin,2024-01-01 13:00:00
+520,Pond,2024-01-01 14:00:00
+520,De-chlorination Pond,2024-01-01 15:00:00
+520,Effluent Pumping Station,2024-01-01 16:00:00
+521,Coarse Screens,2024-01-01 08:00:00
+521,Fine Screens,2024-01-01 09:00:00
+521,Primary Clarifiers,2024-01-01 10:00:00
+521,Bio-reactor Tanks,2024-01-01 11:00:00
+521,Final Clarifier,2024-01-01 12:00:00
+521,Chlorine Contact Basin,2024-01-01 13:00:00
+521,Pond,2024-01-01 14:00:00
+521,De-chlorination Pond,2024-01-01 15:00:00
+521,Effluent Pumping Station,2024-01-01 16:00:00
+522,Coarse Screens,2024-01-01 08:00:00
+522,Fine Screens,2024-01-01 09:00:00
+522,Primary Clarifiers,2024-01-01 10:00:00
+522,Bio-reactor Tanks,2024-01-01 11:00:00
+522,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+522,Blend Tank,2024-01-01 13:00:00
+522,Anaerobic Digester,2024-01-01 14:00:00
+522,Storage Tank,2024-01-01 15:00:00
+522,Disposal to Landfill,2024-01-01 16:00:00
+523,Coarse Screens,2024-01-01 08:00:00
+523,Fine Screens,2024-01-01 09:00:00
+523,Primary Clarifiers,2024-01-01 10:00:00
+523,Bio-reactor Tanks,2024-01-01 11:00:00
+523,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+523,Blend Tank,2024-01-01 13:00:00
+523,Anaerobic Digester,2024-01-01 14:00:00
+523,Storage Tank,2024-01-01 15:00:00
+523,Disposal to Landfill,2024-01-01 16:00:00
+524,Coarse Screens,2024-01-01 08:00:00
+524,Fine Screens,2024-01-01 09:00:00
+524,Primary Clarifiers,2024-01-01 10:00:00
+524,Bio-reactor Tanks,2024-01-01 11:00:00
+524,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+524,Blend Tank,2024-01-01 13:00:00
+524,Anaerobic Digester,2024-01-01 14:00:00
+524,Storage Tank,2024-01-01 15:00:00
+524,Disposal to Landfill,2024-01-01 16:00:00
+525,Coarse Screens,2024-01-01 08:00:00
+525,Fine Screens,2024-01-01 09:00:00
+525,Primary Clarifiers,2024-01-01 10:00:00
+525,Bio-reactor Tanks,2024-01-01 11:00:00
+525,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+525,Blend Tank,2024-01-01 13:00:00
+525,Anaerobic Digester,2024-01-01 14:00:00
+525,Storage Tank,2024-01-01 15:00:00
+525,Disposal to Landfill,2024-01-01 16:00:00
+526,Coarse Screens,2024-01-01 08:00:00
+526,Fine Screens,2024-01-01 09:00:00
+526,Primary Clarifiers,2024-01-01 10:00:00
+526,Bio-reactor Tanks,2024-01-01 11:00:00
+526,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+526,Blend Tank,2024-01-01 13:00:00
+526,Anaerobic Digester,2024-01-01 14:00:00
+526,Storage Tank,2024-01-01 15:00:00
+526,Disposal to Landfill,2024-01-01 16:00:00
+527,Coarse Screens,2024-01-01 08:00:00
+527,Fine Screens,2024-01-01 09:00:00
+527,Primary Clarifiers,2024-01-01 10:00:00
+527,Bio-reactor Tanks,2024-01-01 11:00:00
+527,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+527,Blend Tank,2024-01-01 13:00:00
+527,Anaerobic Digester,2024-01-01 14:00:00
+527,Storage Tank,2024-01-01 15:00:00
+527,Disposal to Landfill,2024-01-01 16:00:00
+528,Coarse Screens,2024-01-01 08:00:00
+528,Fine Screens,2024-01-01 09:00:00
+528,Primary Clarifiers,2024-01-01 10:00:00
+528,Bio-reactor Tanks,2024-01-01 11:00:00
+528,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+528,Blend Tank,2024-01-01 13:00:00
+528,Anaerobic Digester,2024-01-01 14:00:00
+528,Storage Tank,2024-01-01 15:00:00
+528,Disposal to Landfill,2024-01-01 16:00:00
+529,Coarse Screens,2024-01-01 08:00:00
+529,Fine Screens,2024-01-01 09:00:00
+529,Primary Clarifiers,2024-01-01 10:00:00
+529,Bio-reactor Tanks,2024-01-01 11:00:00
+529,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+529,Blend Tank,2024-01-01 13:00:00
+529,Anaerobic Digester,2024-01-01 14:00:00
+529,Storage Tank,2024-01-01 15:00:00
+529,Disposal to Landfill,2024-01-01 16:00:00
+530,Coarse Screens,2024-01-01 08:00:00
+530,Fine Screens,2024-01-01 09:00:00
+530,Primary Clarifiers,2024-01-01 10:00:00
+530,Bio-reactor Tanks,2024-01-01 11:00:00
+530,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+530,Blend Tank,2024-01-01 13:00:00
+530,Anaerobic Digester,2024-01-01 14:00:00
+530,Storage Tank,2024-01-01 15:00:00
+530,Disposal to Landfill,2024-01-01 16:00:00
+531,Coarse Screens,2024-01-01 08:00:00
+531,Fine Screens,2024-01-01 09:00:00
+531,Primary Clarifiers,2024-01-01 10:00:00
+531,Bio-reactor Tanks,2024-01-01 11:00:00
+531,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+531,Blend Tank,2024-01-01 13:00:00
+531,Anaerobic Digester,2024-01-01 14:00:00
+531,Storage Tank,2024-01-01 15:00:00
+531,Disposal to Landfill,2024-01-01 16:00:00
+532,Coarse Screens,2024-01-01 08:00:00
+532,Fine Screens,2024-01-01 09:00:00
+532,Primary Clarifiers,2024-01-01 10:00:00
+532,Bio-reactor Tanks,2024-01-01 11:00:00
+532,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+532,Blend Tank,2024-01-01 13:00:00
+532,Anaerobic Digester,2024-01-01 14:00:00
+532,Storage Tank,2024-01-01 15:00:00
+532,Disposal to Landfill,2024-01-01 16:00:00
+533,Coarse Screens,2024-01-01 08:00:00
+533,Fine Screens,2024-01-01 09:00:00
+533,Primary Clarifiers,2024-01-01 10:00:00
+533,Bio-reactor Tanks,2024-01-01 11:00:00
+533,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+533,Blend Tank,2024-01-01 13:00:00
+533,Anaerobic Digester,2024-01-01 14:00:00
+533,Storage Tank,2024-01-01 15:00:00
+533,Disposal to Landfill,2024-01-01 16:00:00
+534,Coarse Screens,2024-01-01 08:00:00
+534,Fine Screens,2024-01-01 09:00:00
+534,Primary Clarifiers,2024-01-01 10:00:00
+534,Bio-reactor Tanks,2024-01-01 11:00:00
+534,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+534,Blend Tank,2024-01-01 13:00:00
+534,Anaerobic Digester,2024-01-01 14:00:00
+534,Storage Tank,2024-01-01 15:00:00
+534,Disposal to Landfill,2024-01-01 16:00:00
+535,Coarse Screens,2024-01-01 08:00:00
+535,Fine Screens,2024-01-01 09:00:00
+535,Primary Clarifiers,2024-01-01 10:00:00
+535,Bio-reactor Tanks,2024-01-01 11:00:00
+535,Wastewater Centrifuge De-watering Thickening,2024-01-01 12:00:00
+535,Blend Tank,2024-01-01 13:00:00
+535,Anaerobic Digester,2024-01-01 14:00:00
+535,Storage Tank,2024-01-01 15:00:00
+535,Disposal to Landfill,2024-01-01 16:00:00
